@@ -434,145 +434,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:C"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0.254)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "C"
-				(at 0.635 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "C"
-				(at 0.635 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at 0.9652 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Unpolarized capacitor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "cap capacitor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "C_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "C_0_1"
-				(polyline
-					(pts
-						(xy -2.032 0.762) (xy 2.032 0.762)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.032 -0.762) (xy 2.032 -0.762)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "C_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 2.794)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 2.794)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:L"
 			(pin_numbers
 				(hide yes)
@@ -2969,6 +2830,218 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "SamacSys_Parts:GRM155R60J106ME18D"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 8.89 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "GRM155R60J106ME18D"
+				(at 8.89 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "CAPC1005X70N"
+				(at 8.89 -96.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf"
+				(at 8.89 -196.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "Chip Capacitor value 106"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "0.7"
+				(at 8.89 -396.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Murata Electronics"
+				(at 8.89 -496.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "GRM155R60J106ME18D"
+				(at 8.89 -596.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" ""
+				(at 8.89 -696.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" ""
+				(at 8.89 -796.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Arrow Part Number" ""
+				(at 8.89 -896.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Arrow Price/Stock" ""
+				(at 8.89 -996.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "GRM155R60J106ME18D_1_1"
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 5.588 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.588 2.54) (xy 5.588 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.112 2.54) (xy 7.112 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.112 0) (xy 7.62 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 0 180)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "SamacSys_Parts:GRM188C81A226ME01D"
 			(pin_names
 				(hide yes)
@@ -4298,10 +4371,16 @@
 		(uuid "00f4ffa4-d503-41a1-8653-d625180f8e0f")
 	)
 	(junction
-		(at 266.7 85.09)
+		(at 260.35 85.09)
 		(diameter 0)
 		(color 0 0 0 1)
 		(uuid "01384ee7-efe8-428e-b3a2-954b1c678b30")
+	)
+	(junction
+		(at 154.94 26.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "01988572-9267-444b-b458-af00c1414aac")
 	)
 	(junction
 		(at 175.26 30.48)
@@ -4310,15 +4389,15 @@
 		(uuid "02e00e1a-3bd7-4129-8f29-b7fce6cae76e")
 	)
 	(junction
-		(at 269.24 97.79)
+		(at 262.89 97.79)
 		(diameter 0)
 		(color 194 194 0 1)
 		(uuid "081c362c-0369-40cb-922d-b4130e8faeaa")
 	)
 	(junction
-		(at 232.41 161.29)
+		(at 226.06 161.29)
 		(diameter 0)
-		(color 0 0 0 0)
+		(color 0 0 0 1)
 		(uuid "0d6127cf-3e61-4770-afba-3db1751745b9")
 	)
 	(junction
@@ -4328,7 +4407,7 @@
 		(uuid "163b901a-744f-4af7-9045-0bc37bd94d82")
 	)
 	(junction
-		(at 269.24 64.77)
+		(at 262.89 64.77)
 		(diameter 0)
 		(color 194 194 0 1)
 		(uuid "181acc51-57ec-4cc5-b6c5-83c24bbc4e49")
@@ -4358,13 +4437,13 @@
 		(uuid "2301ba4b-ca78-4d86-9f51-354072ef0a84")
 	)
 	(junction
-		(at 271.78 100.33)
+		(at 265.43 100.33)
 		(diameter 0)
 		(color 0 194 194 1)
 		(uuid "27b0ae1d-dfc2-45d9-a838-0a6a41e0c331")
 	)
 	(junction
-		(at 248.92 128.27)
+		(at 242.57 128.27)
 		(diameter 0)
 		(color 0 0 0 1)
 		(uuid "2e16be21-5784-4ffb-940a-5f0460b9ae05")
@@ -4376,13 +4455,13 @@
 		(uuid "2f38dbc6-5926-4e45-a917-909959e75e10")
 	)
 	(junction
-		(at 256.54 161.29)
+		(at 250.19 161.29)
 		(diameter 0)
 		(color 0 0 0 1)
 		(uuid "2fe2fb7f-b437-48e2-beb4-4986b415a732")
 	)
 	(junction
-		(at 264.16 59.69)
+		(at 257.81 59.69)
 		(diameter 0)
 		(color 194 0 0 1)
 		(uuid "39b9c03a-55ff-4c39-bd28-4c5090a4d0ae")
@@ -4406,22 +4485,28 @@
 		(uuid "3ecc3df5-71fa-492e-a4ad-fccd841a065b")
 	)
 	(junction
-		(at 264.16 92.71)
+		(at 257.81 92.71)
 		(diameter 0)
 		(color 194 0 0 1)
 		(uuid "4197e823-97e1-4f09-83e4-2d7ecbdc921e")
 	)
 	(junction
-		(at 266.7 128.27)
+		(at 260.35 128.27)
 		(diameter 0)
 		(color 0 0 0 1)
 		(uuid "42c4161d-a586-4e89-8bcc-12479d3139a4")
 	)
 	(junction
-		(at 271.78 21.59)
+		(at 265.43 21.59)
 		(diameter 0)
 		(color 194 0 0 1)
 		(uuid "42ca922d-bf54-43d6-a8b1-0d05dfb2cbcd")
+	)
+	(junction
+		(at 86.36 130.81)
+		(diameter 0)
+		(color 0 0 0 1)
+		(uuid "43240f67-7975-42be-97a9-a77c7206b404")
 	)
 	(junction
 		(at 195.58 33.02)
@@ -4436,19 +4521,19 @@
 		(uuid "4973fa28-b65e-45f4-bdc8-1d557f60e4fc")
 	)
 	(junction
-		(at 266.7 52.07)
+		(at 260.35 52.07)
 		(diameter 0)
 		(color 0 0 0 1)
 		(uuid "4cfb4610-6d7a-431d-9842-ca38a09e821d")
 	)
 	(junction
-		(at 266.7 62.23)
+		(at 260.35 62.23)
 		(diameter 0)
 		(color 0 0 0 1)
 		(uuid "59f4672c-c31b-4c19-a5d8-bbfb4653c89c")
 	)
 	(junction
-		(at 271.78 133.35)
+		(at 265.43 133.35)
 		(diameter 0)
 		(color 0 194 194 1)
 		(uuid "5b304424-9811-4109-b928-8ac495e571e4")
@@ -4472,7 +4557,7 @@
 		(uuid "664a81c6-aeab-4ddc-a4e5-da4391e19608")
 	)
 	(junction
-		(at 248.92 62.23)
+		(at 242.57 62.23)
 		(diameter 0)
 		(color 0 0 0 1)
 		(uuid "7140c684-24be-4a7c-aaa0-c917b97914a9")
@@ -4490,7 +4575,7 @@
 		(uuid "76551d7f-233e-4691-a219-91d91b539fc6")
 	)
 	(junction
-		(at 266.7 118.11)
+		(at 260.35 118.11)
 		(diameter 0)
 		(color 0 0 0 1)
 		(uuid "7c299219-cf18-4f3c-a781-892d715aaf23")
@@ -4502,13 +4587,13 @@
 		(uuid "7c8f0c74-ab8f-4d9f-aa7f-b89f3f1356a0")
 	)
 	(junction
-		(at 264.16 125.73)
+		(at 257.81 125.73)
 		(diameter 0)
 		(color 194 0 0 1)
 		(uuid "80ec0aa0-2449-4fbc-920f-ac9f95c67e90")
 	)
 	(junction
-		(at 264.16 87.63)
+		(at 257.81 87.63)
 		(diameter 0)
 		(color 194 0 0 1)
 		(uuid "822e2d8f-a868-4c09-8b02-ebfb99b7484f")
@@ -4526,7 +4611,7 @@
 		(uuid "860b9666-7c90-4d39-90fa-47878b07eaff")
 	)
 	(junction
-		(at 269.24 31.75)
+		(at 262.89 31.75)
 		(diameter 0)
 		(color 194 194 0 1)
 		(uuid "862f2328-02a3-4205-85d2-010f786c6ae5")
@@ -4538,9 +4623,15 @@
 		(uuid "8902e8d5-7db1-4ce6-854c-5913a84d4b70")
 	)
 	(junction
-		(at 238.76 161.29)
+		(at 101.6 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
+		(uuid "89100f36-53e8-4713-bfc1-736b4c721af0")
+	)
+	(junction
+		(at 232.41 161.29)
+		(diameter 0)
+		(color 0 0 0 1)
 		(uuid "90f5b36d-07bb-45ae-9388-637ed7fdf161")
 	)
 	(junction
@@ -4550,7 +4641,13 @@
 		(uuid "92587d7b-14af-4830-ade6-ff2a81655966")
 	)
 	(junction
-		(at 271.78 67.31)
+		(at 120.65 29.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "97a6ce8c-b584-4f29-a502-f0358f284866")
+	)
+	(junction
+		(at 265.43 67.31)
 		(diameter 0)
 		(color 0 194 194 1)
 		(uuid "98f8d231-8e80-4709-9381-d89eb7607e0a")
@@ -4568,7 +4665,7 @@
 		(uuid "99bc677c-4884-4362-b4f5-245f704507c0")
 	)
 	(junction
-		(at 271.78 34.29)
+		(at 265.43 34.29)
 		(diameter 0)
 		(color 0 194 194 1)
 		(uuid "9a8bdf5b-2df5-4c83-867b-3e3a11b594d5")
@@ -4580,13 +4677,13 @@
 		(uuid "9cf5bd35-31d6-4466-9a2f-b05af866be94")
 	)
 	(junction
-		(at 271.78 26.67)
+		(at 265.43 26.67)
 		(diameter 0)
 		(color 194 0 0 1)
 		(uuid "9f01d1e3-e819-47fc-8ead-dd47de3c4d04")
 	)
 	(junction
-		(at 248.92 161.29)
+		(at 242.57 161.29)
 		(diameter 0)
 		(color 0 0 0 1)
 		(uuid "9fe20b75-e5f9-429b-a395-ab4aa09d2532")
@@ -4594,7 +4691,7 @@
 	(junction
 		(at 214.63 57.15)
 		(diameter 0)
-		(color 0 0 0 0)
+		(color 255 0 0 1)
 		(uuid "a4f3af62-3be1-4717-be4e-8723538e1583")
 	)
 	(junction
@@ -4610,13 +4707,13 @@
 		(uuid "a698a804-e5d0-4b9a-bf03-4344eb8c34bd")
 	)
 	(junction
-		(at 248.92 95.25)
+		(at 242.57 95.25)
 		(diameter 0)
 		(color 0 0 0 1)
 		(uuid "a743ec7b-f839-4e5e-9f80-30a04177e87d")
 	)
 	(junction
-		(at 269.24 130.81)
+		(at 262.89 130.81)
 		(diameter 0)
 		(color 194 194 0 1)
 		(uuid "ac95311c-f46c-4514-b65b-c1102914816e")
@@ -4634,7 +4731,7 @@
 		(uuid "b73be854-a439-473c-8215-b431fd72b9a5")
 	)
 	(junction
-		(at 264.16 54.61)
+		(at 257.81 54.61)
 		(diameter 0)
 		(color 194 0 0 1)
 		(uuid "b85f7b83-bcac-4b58-affe-845168f9cfa2")
@@ -4646,13 +4743,7 @@
 		(uuid "b8f03764-e030-45c1-8672-2b89ad6154d8")
 	)
 	(junction
-		(at 120.65 29.21)
-		(diameter 0)
-		(color 221 133 0 1)
-		(uuid "beb0c0bf-9453-401e-9185-d37c6e1a9f14")
-	)
-	(junction
-		(at 264.16 120.65)
+		(at 257.81 120.65)
 		(diameter 0)
 		(color 194 0 0 1)
 		(uuid "c00117c1-6560-4730-868f-2b21d59eb840")
@@ -4664,7 +4755,7 @@
 		(uuid "c30fb441-f222-4116-9bd6-927fb78aa571")
 	)
 	(junction
-		(at 266.7 151.13)
+		(at 260.35 151.13)
 		(diameter 0)
 		(color 0 0 0 1)
 		(uuid "c7199f1f-5771-48e3-a151-c24ab46dc132")
@@ -4700,16 +4791,16 @@
 		(uuid "d7f5fe3f-0211-4707-824b-770653c4e8a6")
 	)
 	(junction
-		(at 154.94 26.67)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d8c79bf0-3273-4793-85fe-8650dc3bade3")
-	)
-	(junction
 		(at 128.27 44.45)
 		(diameter 0)
 		(color 0 0 0 1)
 		(uuid "e7569c6d-545f-4a0b-ae23-3349cc439259")
+	)
+	(junction
+		(at 101.6 161.29)
+		(diameter 0)
+		(color 0 0 0 1)
+		(uuid "ec9200a4-6c0e-4417-a9b7-0dce7e5f854a")
 	)
 	(junction
 		(at 138.43 44.45)
@@ -4724,7 +4815,7 @@
 		(uuid "f3a1074e-a67d-4784-a709-ddfc51a18d82")
 	)
 	(junction
-		(at 266.7 95.25)
+		(at 260.35 95.25)
 		(diameter 0)
 		(color 0 0 0 1)
 		(uuid "f6240f4c-a3e3-4071-a966-013d3e505e5d")
@@ -4736,35 +4827,39 @@
 		(uuid "fe01718c-712a-4644-9846-5b9e7d2f13ff")
 	)
 	(no_connect
-		(at 276.86 107.95)
+		(at 270.51 107.95)
 		(uuid "4250e039-403c-4271-8350-6e81a224436a")
 	)
 	(no_connect
-		(at 276.86 72.39)
+		(at 270.51 72.39)
 		(uuid "717677b9-f8cf-473f-8f59-5c445ca61401")
 	)
 	(no_connect
-		(at 276.86 105.41)
+		(at 270.51 105.41)
 		(uuid "845ed54c-f6a4-4d54-b000-b513819c2399")
 	)
 	(no_connect
-		(at 276.86 138.43)
+		(at 62.23 118.11)
+		(uuid "852d57ef-2b29-4104-ade6-698a4a61621d")
+	)
+	(no_connect
+		(at 270.51 138.43)
 		(uuid "a830d483-0011-4b3b-8fd1-4b71e198a68a")
 	)
 	(no_connect
-		(at 276.86 41.91)
+		(at 270.51 41.91)
 		(uuid "aee7b3f3-98be-4791-9dfd-e573b105af58")
 	)
 	(no_connect
-		(at 276.86 74.93)
+		(at 270.51 74.93)
 		(uuid "b81bd26e-ffe1-43ee-8953-dae9505116d5")
 	)
 	(no_connect
-		(at 276.86 39.37)
+		(at 270.51 39.37)
 		(uuid "b9cf1031-6c2f-48a3-956b-f7355f017157")
 	)
 	(no_connect
-		(at 276.86 140.97)
+		(at 270.51 140.97)
 		(uuid "dc88e64d-9472-416b-b411-de2f28ee8184")
 	)
 	(wire
@@ -4790,7 +4885,7 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 31.75) (xy 269.24 31.75)
+			(xy 250.19 31.75) (xy 262.89 31.75)
 		)
 		(stroke
 			(width 0)
@@ -4806,6 +4901,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 255 153 0 1)
 		)
 		(uuid "032a599e-6fa4-41e9-b07f-f07122bd775b")
 	)
@@ -4843,7 +4939,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 49.53) (xy 271.78 49.53)
+			(xy 262.89 49.53) (xy 265.43 49.53)
 		)
 		(stroke
 			(width 0)
@@ -4875,7 +4971,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 85.09) (xy 266.7 95.25)
+			(xy 260.35 85.09) (xy 260.35 95.25)
 		)
 		(stroke
 			(width 0)
@@ -4886,7 +4982,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 92.71) (xy 271.78 92.71)
+			(xy 257.81 92.71) (xy 265.43 92.71)
 		)
 		(stroke
 			(width 0)
@@ -4897,7 +4993,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 130.81) (xy 269.24 148.59)
+			(xy 262.89 130.81) (xy 262.89 148.59)
 		)
 		(stroke
 			(width 0)
@@ -4908,7 +5004,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 87.63) (xy 264.16 92.71)
+			(xy 257.81 87.63) (xy 257.81 92.71)
 		)
 		(stroke
 			(width 0)
@@ -4949,6 +5045,17 @@
 	)
 	(wire
 		(pts
+			(xy 154.94 39.37) (xy 154.94 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "0fbed3b1-4707-425b-83d4-7e1232c7841d")
+	)
+	(wire
+		(pts
 			(xy 214.63 49.53) (xy 214.63 57.15)
 		)
 		(stroke
@@ -4981,7 +5088,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 85.09) (xy 271.78 85.09)
+			(xy 260.35 85.09) (xy 265.43 85.09)
 		)
 		(stroke
 			(width 0)
@@ -4992,7 +5099,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 120.65) (xy 271.78 120.65)
+			(xy 257.81 120.65) (xy 265.43 120.65)
 		)
 		(stroke
 			(width 0)
@@ -5014,7 +5121,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 161.29) (xy 256.54 161.29)
+			(xy 242.57 161.29) (xy 250.19 161.29)
 		)
 		(stroke
 			(width 0)
@@ -5046,7 +5153,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 118.11) (xy 266.7 128.27)
+			(xy 260.35 118.11) (xy 260.35 128.27)
 		)
 		(stroke
 			(width 0)
@@ -5089,7 +5196,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 21.59) (xy 248.92 21.59)
+			(xy 234.95 21.59) (xy 242.57 21.59)
 		)
 		(stroke
 			(width 0)
@@ -5099,7 +5206,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 118.11) (xy 271.78 118.11)
+			(xy 260.35 118.11) (xy 265.43 118.11)
 		)
 		(stroke
 			(width 0)
@@ -5125,6 +5232,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 255 153 0 1)
 		)
 		(uuid "2dcdd044-5275-4cd4-9906-180d99e95097")
 	)
@@ -5141,7 +5249,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 34.29) (xy 271.78 46.99)
+			(xy 265.43 34.29) (xy 265.43 46.99)
 		)
 		(stroke
 			(width 0)
@@ -5183,7 +5291,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 59.69) (xy 271.78 59.69)
+			(xy 257.81 59.69) (xy 265.43 59.69)
 		)
 		(stroke
 			(width 0)
@@ -5194,7 +5302,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 130.81) (xy 271.78 130.81)
+			(xy 262.89 130.81) (xy 265.43 130.81)
 		)
 		(stroke
 			(width 0)
@@ -5216,7 +5324,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 97.79) (xy 269.24 97.79)
+			(xy 265.43 97.79) (xy 262.89 97.79)
 		)
 		(stroke
 			(width 0)
@@ -5227,7 +5335,17 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 62.23) (xy 266.7 85.09)
+			(xy 67.31 128.27) (xy 101.6 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38011d8b-f442-41f6-9a2e-c93862bbe0c3")
+	)
+	(wire
+		(pts
+			(xy 260.35 62.23) (xy 260.35 85.09)
 		)
 		(stroke
 			(width 0)
@@ -5238,7 +5356,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 26.67) (xy 264.16 54.61)
+			(xy 257.81 26.67) (xy 257.81 54.61)
 		)
 		(stroke
 			(width 0)
@@ -5260,7 +5378,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 148.59) (xy 238.76 148.59)
+			(xy 226.06 148.59) (xy 232.41 148.59)
 		)
 		(stroke
 			(width 0)
@@ -5271,7 +5389,7 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 133.35) (xy 256.54 130.81)
+			(xy 250.19 133.35) (xy 250.19 130.81)
 		)
 		(stroke
 			(width 0)
@@ -5282,7 +5400,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 31.75) (xy 269.24 31.75)
+			(xy 265.43 31.75) (xy 262.89 31.75)
 		)
 		(stroke
 			(width 0)
@@ -5290,6 +5408,16 @@
 			(color 194 194 0 1)
 		)
 		(uuid "3e461f49-3178-46b8-b4a8-3740538ada19")
+	)
+	(wire
+		(pts
+			(xy 67.31 123.19) (xy 73.66 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f992517-eb6b-4564-aee3-dc4cc0fd2409")
 	)
 	(wire
 		(pts
@@ -5315,18 +5443,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 36.83) (xy 120.65 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(uuid "41582bc5-3a06-4a67-ae0f-9429da69bedd")
-	)
-	(wire
-		(pts
-			(xy 271.78 100.33) (xy 271.78 113.03)
+			(xy 265.43 100.33) (xy 265.43 113.03)
 		)
 		(stroke
 			(width 0)
@@ -5334,6 +5451,17 @@
 			(color 0 194 194 1)
 		)
 		(uuid "41a6f1bf-ee1c-41e2-8b83-512bd0d0d26c")
+	)
+	(wire
+		(pts
+			(xy 86.36 130.81) (xy 67.31 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "41eb02f0-fdc8-42c7-909a-895c6a16d12e")
 	)
 	(wire
 		(pts
@@ -5347,7 +5475,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 161.29) (xy 266.7 151.13)
+			(xy 260.35 161.29) (xy 260.35 151.13)
 		)
 		(stroke
 			(width 0)
@@ -5378,7 +5506,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 92.71) (xy 264.16 120.65)
+			(xy 257.81 92.71) (xy 257.81 120.65)
 		)
 		(stroke
 			(width 0)
@@ -5389,7 +5517,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 57.15) (xy 243.84 62.23)
+			(xy 237.49 57.15) (xy 237.49 62.23)
 		)
 		(stroke
 			(width 0)
@@ -5411,7 +5539,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 59.69) (xy 264.16 87.63)
+			(xy 257.81 59.69) (xy 257.81 87.63)
 		)
 		(stroke
 			(width 0)
@@ -5422,7 +5550,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 125.73) (xy 264.16 153.67)
+			(xy 257.81 125.73) (xy 257.81 153.67)
 		)
 		(stroke
 			(width 0)
@@ -5433,7 +5561,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 148.59) (xy 271.78 148.59)
+			(xy 262.89 148.59) (xy 265.43 148.59)
 		)
 		(stroke
 			(width 0)
@@ -5455,7 +5583,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 29.21) (xy 266.7 29.21)
+			(xy 265.43 29.21) (xy 260.35 29.21)
 		)
 		(stroke
 			(width 0)
@@ -5466,7 +5594,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 128.27) (xy 256.54 128.27)
+			(xy 242.57 128.27) (xy 250.19 128.27)
 		)
 		(stroke
 			(width 0)
@@ -5510,7 +5638,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 133.35) (xy 271.78 146.05)
+			(xy 265.43 133.35) (xy 265.43 146.05)
 		)
 		(stroke
 			(width 0)
@@ -5543,7 +5671,17 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 87.63) (xy 271.78 87.63)
+			(xy 73.66 59.69) (xy 101.6 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e7aa191-0ce4-4535-bdbc-0362a0a8f3cf")
+	)
+	(wire
+		(pts
+			(xy 257.81 87.63) (xy 265.43 87.63)
 		)
 		(stroke
 			(width 0)
@@ -5608,7 +5746,7 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 97.79) (xy 269.24 97.79)
+			(xy 250.19 97.79) (xy 262.89 97.79)
 		)
 		(stroke
 			(width 0)
@@ -5637,6 +5775,17 @@
 			(type default)
 		)
 		(uuid "66696c8a-4aaf-4d80-8c77-2e6d4a91f422")
+	)
+	(wire
+		(pts
+			(xy 86.36 130.81) (xy 86.36 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "669a9e4b-bdfe-41ef-a775-c28c79020eaa")
 	)
 	(wire
 		(pts
@@ -5684,18 +5833,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 34.29) (xy 154.94 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(uuid "6e0c4e36-be5d-49ab-9c9e-975a9c4fbe08")
-	)
-	(wire
-		(pts
-			(xy 259.08 67.31) (xy 271.78 67.31)
+			(xy 252.73 67.31) (xy 265.43 67.31)
 		)
 		(stroke
 			(width 0)
@@ -5716,7 +5854,18 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 97.79) (xy 269.24 115.57)
+			(xy 154.94 26.67) (xy 160.02 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "6ff36b62-566b-4ab4-9632-3cafa30ea160")
+	)
+	(wire
+		(pts
+			(xy 262.89 97.79) (xy 262.89 115.57)
 		)
 		(stroke
 			(width 0)
@@ -5748,6 +5897,16 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 123.19) (xy 73.66 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "749f0e90-fce0-4f0e-8c62-779c6310491f")
+	)
+	(wire
+		(pts
 			(xy 165.1 80.01) (xy 165.1 161.29)
 		)
 		(stroke
@@ -5759,7 +5918,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 21.59) (xy 271.78 21.59)
+			(xy 257.81 21.59) (xy 265.43 21.59)
 		)
 		(stroke
 			(width 0)
@@ -5780,7 +5939,7 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 34.29) (xy 256.54 31.75)
+			(xy 250.19 34.29) (xy 250.19 31.75)
 		)
 		(stroke
 			(width 0)
@@ -5791,7 +5950,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 95.25) (xy 271.78 95.25)
+			(xy 260.35 95.25) (xy 265.43 95.25)
 		)
 		(stroke
 			(width 0)
@@ -5799,6 +5958,17 @@
 			(color 0 0 0 1)
 		)
 		(uuid "76642ae1-357e-4ac6-b7b3-c083dcab8e9a")
+	)
+	(wire
+		(pts
+			(xy 86.36 97.79) (xy 86.36 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "776a562f-9a51-42b9-8c1f-bfca60f2dab6")
 	)
 	(wire
 		(pts
@@ -5812,7 +5982,7 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 161.29) (xy 266.7 161.29)
+			(xy 250.19 161.29) (xy 260.35 161.29)
 		)
 		(stroke
 			(width 0)
@@ -5823,7 +5993,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 64.77) (xy 269.24 82.55)
+			(xy 262.89 64.77) (xy 262.89 82.55)
 		)
 		(stroke
 			(width 0)
@@ -5845,7 +6015,7 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 161.29) (xy 248.92 161.29)
+			(xy 232.41 161.29) (xy 242.57 161.29)
 		)
 		(stroke
 			(width 0)
@@ -5856,7 +6026,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 54.61) (xy 271.78 54.61)
+			(xy 257.81 54.61) (xy 265.43 54.61)
 		)
 		(stroke
 			(width 0)
@@ -5888,7 +6058,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 128.27) (xy 266.7 151.13)
+			(xy 260.35 128.27) (xy 260.35 151.13)
 		)
 		(stroke
 			(width 0)
@@ -5899,7 +6069,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 128.27) (xy 271.78 128.27)
+			(xy 260.35 128.27) (xy 265.43 128.27)
 		)
 		(stroke
 			(width 0)
@@ -5907,6 +6077,17 @@
 			(color 0 0 0 1)
 		)
 		(uuid "854ddf81-8e42-48ac-a0c0-ee0a83945c4e")
+	)
+	(wire
+		(pts
+			(xy 86.36 161.29) (xy 101.6 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "8739b501-b3a2-4b74-be3c-f3d180edaf30")
 	)
 	(wire
 		(pts
@@ -5942,7 +6123,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 52.07) (xy 266.7 62.23)
+			(xy 260.35 52.07) (xy 260.35 62.23)
 		)
 		(stroke
 			(width 0)
@@ -5953,7 +6134,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 120.65) (xy 264.16 125.73)
+			(xy 257.81 120.65) (xy 257.81 125.73)
 		)
 		(stroke
 			(width 0)
@@ -5982,16 +6163,6 @@
 			(type default)
 		)
 		(uuid "8b8e9e7c-4164-4c66-be26-46ab0578cef8")
-	)
-	(wire
-		(pts
-			(xy 72.39 128.27) (xy 101.6 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8bf458a7-43bb-44fa-8198-b56ce1d1a583")
 	)
 	(wire
 		(pts
@@ -6048,7 +6219,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 62.23) (xy 256.54 62.23)
+			(xy 242.57 62.23) (xy 250.19 62.23)
 		)
 		(stroke
 			(width 0)
@@ -6091,7 +6262,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 64.77) (xy 269.24 64.77)
+			(xy 265.43 64.77) (xy 262.89 64.77)
 		)
 		(stroke
 			(width 0)
@@ -6133,7 +6304,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 21.59) (xy 271.78 26.67)
+			(xy 265.43 21.59) (xy 265.43 26.67)
 		)
 		(stroke
 			(width 0)
@@ -6144,7 +6315,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 95.25) (xy 248.92 128.27)
+			(xy 242.57 95.25) (xy 242.57 128.27)
 		)
 		(stroke
 			(width 0)
@@ -6155,7 +6326,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 95.25) (xy 266.7 118.11)
+			(xy 260.35 95.25) (xy 260.35 118.11)
 		)
 		(stroke
 			(width 0)
@@ -6177,7 +6348,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 115.57) (xy 271.78 115.57)
+			(xy 262.89 115.57) (xy 265.43 115.57)
 		)
 		(stroke
 			(width 0)
@@ -6188,7 +6359,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 161.29) (xy 232.41 161.29)
+			(xy 170.18 161.29) (xy 226.06 161.29)
 		)
 		(stroke
 			(width 0)
@@ -6204,6 +6375,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 255 153 0 1)
 		)
 		(uuid "b3aa18de-b0ab-44e7-8939-8ed3b6ad7df2")
 	)
@@ -6220,7 +6392,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 31.75) (xy 269.24 49.53)
+			(xy 262.89 31.75) (xy 262.89 49.53)
 		)
 		(stroke
 			(width 0)
@@ -6242,7 +6414,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 151.13) (xy 271.78 151.13)
+			(xy 260.35 151.13) (xy 265.43 151.13)
 		)
 		(stroke
 			(width 0)
@@ -6253,7 +6425,7 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 34.29) (xy 271.78 34.29)
+			(xy 252.73 34.29) (xy 265.43 34.29)
 		)
 		(stroke
 			(width 0)
@@ -6275,7 +6447,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 52.07) (xy 271.78 52.07)
+			(xy 260.35 52.07) (xy 265.43 52.07)
 		)
 		(stroke
 			(width 0)
@@ -6286,7 +6458,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 125.73) (xy 271.78 125.73)
+			(xy 257.81 125.73) (xy 265.43 125.73)
 		)
 		(stroke
 			(width 0)
@@ -6308,7 +6480,7 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 100.33) (xy 256.54 97.79)
+			(xy 250.19 100.33) (xy 250.19 97.79)
 		)
 		(stroke
 			(width 0)
@@ -6316,17 +6488,6 @@
 			(color 194 194 0 1)
 		)
 		(uuid "bcea2b53-d225-43f9-962f-553208a17280")
-	)
-	(wire
-		(pts
-			(xy 154.94 26.67) (xy 160.02 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 0 0 1)
-		)
-		(uuid "bf8e5554-a40f-4244-bbfb-d42074fdaf2e")
 	)
 	(wire
 		(pts
@@ -6352,7 +6513,7 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 133.35) (xy 271.78 133.35)
+			(xy 252.73 133.35) (xy 265.43 133.35)
 		)
 		(stroke
 			(width 0)
@@ -6363,7 +6524,7 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 130.81) (xy 269.24 130.81)
+			(xy 250.19 130.81) (xy 262.89 130.81)
 		)
 		(stroke
 			(width 0)
@@ -6374,7 +6535,7 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 64.77) (xy 269.24 64.77)
+			(xy 250.19 64.77) (xy 262.89 64.77)
 		)
 		(stroke
 			(width 0)
@@ -6385,7 +6546,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 54.61) (xy 264.16 59.69)
+			(xy 257.81 54.61) (xy 257.81 59.69)
 		)
 		(stroke
 			(width 0)
@@ -6396,7 +6557,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 82.55) (xy 271.78 82.55)
+			(xy 262.89 82.55) (xy 265.43 82.55)
 		)
 		(stroke
 			(width 0)
@@ -6407,7 +6568,7 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 67.31) (xy 256.54 64.77)
+			(xy 250.19 67.31) (xy 250.19 64.77)
 		)
 		(stroke
 			(width 0)
@@ -6418,7 +6579,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 67.31) (xy 271.78 80.01)
+			(xy 265.43 67.31) (xy 265.43 80.01)
 		)
 		(stroke
 			(width 0)
@@ -6426,6 +6587,17 @@
 			(color 0 194 194 1)
 		)
 		(uuid "c3e79b25-e522-4d36-92d8-bbce54d61d98")
+	)
+	(wire
+		(pts
+			(xy 120.65 41.91) (xy 120.65 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "c887e0d9-ac40-4359-84aa-c4fd4fa17755")
 	)
 	(wire
 		(pts
@@ -6440,7 +6612,7 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 100.33) (xy 271.78 100.33)
+			(xy 252.73 100.33) (xy 265.43 100.33)
 		)
 		(stroke
 			(width 0)
@@ -6482,7 +6654,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 62.23) (xy 271.78 62.23)
+			(xy 260.35 62.23) (xy 265.43 62.23)
 		)
 		(stroke
 			(width 0)
@@ -6523,11 +6695,12 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 57.15) (xy 241.3 57.15)
+			(xy 214.63 57.15) (xy 234.95 57.15)
 		)
 		(stroke
 			(width 0)
 			(type default)
+			(color 255 0 0 1)
 		)
 		(uuid "dad24e3b-7c09-4cf3-b460-929e20aa03c4")
 	)
@@ -6543,7 +6716,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 62.23) (xy 248.92 62.23)
+			(xy 237.49 62.23) (xy 242.57 62.23)
 		)
 		(stroke
 			(width 0)
@@ -6565,7 +6738,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 26.67) (xy 271.78 26.67)
+			(xy 257.81 26.67) (xy 265.43 26.67)
 		)
 		(stroke
 			(width 0)
@@ -6576,7 +6749,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 153.67) (xy 271.78 153.67)
+			(xy 257.81 153.67) (xy 265.43 153.67)
 		)
 		(stroke
 			(width 0)
@@ -6630,7 +6803,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 62.23) (xy 248.92 95.25)
+			(xy 242.57 62.23) (xy 242.57 95.25)
 		)
 		(stroke
 			(width 0)
@@ -6672,7 +6845,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 128.27) (xy 248.92 161.29)
+			(xy 242.57 128.27) (xy 242.57 161.29)
 		)
 		(stroke
 			(width 0)
@@ -6715,7 +6888,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 161.29) (xy 238.76 161.29)
+			(xy 226.06 161.29) (xy 232.41 161.29)
 		)
 		(stroke
 			(width 0)
@@ -6726,7 +6899,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 95.25) (xy 256.54 95.25)
+			(xy 242.57 95.25) (xy 250.19 95.25)
 		)
 		(stroke
 			(width 0)
@@ -6758,7 +6931,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 29.21) (xy 266.7 52.07)
+			(xy 260.35 29.21) (xy 260.35 52.07)
 		)
 		(stroke
 			(width 0)
@@ -6778,7 +6951,7 @@
 		(uuid "ff80d852-eb69-4947-abc3-6745bc111c3a")
 	)
 	(label "12V"
-		(at 233.68 148.59 0)
+		(at 227.33 148.59 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6788,7 +6961,7 @@
 		(uuid "0cfcf9a6-50d7-4936-b5b6-f615386bb402")
 	)
 	(label "N_TX"
-		(at 269.24 43.18 90)
+		(at 262.89 43.18 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6798,7 +6971,7 @@
 		(uuid "115610e1-d0b7-4205-8be1-15a9c64d62b2")
 	)
 	(label "E_TX"
-		(at 269.24 76.2 90)
+		(at 262.89 76.2 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6828,7 +7001,7 @@
 		(uuid "2c305b67-0cee-4b2f-ade9-b3695715ad91")
 	)
 	(label "W_RX"
-		(at 271.78 142.24 90)
+		(at 265.43 142.24 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6888,7 +7061,7 @@
 		(uuid "725a0d3e-1b22-4361-ae24-6c6706f73a18")
 	)
 	(label "GND"
-		(at 266.7 29.21 0)
+		(at 260.35 29.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6898,7 +7071,7 @@
 		(uuid "81a95ea6-928d-40d1-8669-dfc306b34fe1")
 	)
 	(label "W_TX"
-		(at 269.24 142.24 90)
+		(at 262.89 142.24 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6918,7 +7091,7 @@
 		(uuid "cb29da74-dde2-40ed-8745-9748d19f48c1")
 	)
 	(label "12V"
-		(at 264.16 26.67 0)
+		(at 257.81 26.67 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6928,7 +7101,7 @@
 		(uuid "cc2fb621-2358-495e-b221-6aaf16889d5b")
 	)
 	(label "N_RX"
-		(at 271.78 43.18 90)
+		(at 265.43 43.18 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6948,7 +7121,7 @@
 		(uuid "d71542eb-edb1-41d0-8074-5fe529bf6644")
 	)
 	(label "S_RX"
-		(at 271.78 109.22 90)
+		(at 265.43 109.22 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6958,7 +7131,7 @@
 		(uuid "dfcfb819-21cf-43c3-a02c-b9a64331e26e")
 	)
 	(label "E_RX"
-		(at 271.78 76.2 90)
+		(at 265.43 76.2 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6968,7 +7141,7 @@
 		(uuid "e1be2723-e859-4bce-9f1c-8b864426516b")
 	)
 	(label "S_TX"
-		(at 269.24 109.22 90)
+		(at 262.89 109.22 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7058,6 +7231,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic_MountingPin:Conn_01x04_MountingPin")
+		(at 62.23 128.27 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0874a3d7-1776-49de-8f9b-314d61a6a5db")
+		(property "Reference" "J9"
+			(at 59.69 125.3743 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.54mm_ProgrammingPin"
+			(at 59.69 127.9143 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 62.23 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 62.23 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connectable mounting pin connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 62.23 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f6bb6903-c2ad-4d5a-9fd8-a7cf4efe7b5a")
+		)
+		(pin "MP"
+			(uuid "3bc27a9c-8083-4711-95be-0b2d310bc94f")
+		)
+		(pin "4"
+			(uuid "bb7aa559-77d2-4e0b-a818-b76cc7382cd5")
+		)
+		(pin "3"
+			(uuid "dec3af78-cbd9-4b77-a8ae-2fbcc714b851")
+		)
+		(pin "2"
+			(uuid "5a81d119-33f9-4b3c-bf6b-5d5ab5c65291")
+		)
+		(instances
+			(project ""
+				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
+					(reference "J9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:LED")
 		(at 195.58 25.4 90)
 		(unit 1)
@@ -7138,7 +7390,7 @@
 	)
 	(symbol
 		(lib_id "SamacSys_Parts:SMBJ15A")
-		(at 248.92 21.59 0)
+		(at 242.57 21.59 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7147,7 +7399,7 @@
 		(dnp no)
 		(uuid "0a2feb10-dfc7-4a5d-ad97-a9668a257d61")
 		(property "Reference" "D19"
-			(at 256.032 28.448 0)
+			(at 249.682 28.448 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7155,7 +7407,7 @@
 			)
 		)
 		(property "Value" "SMBJ15A"
-			(at 256.032 25.908 0)
+			(at 249.682 25.908 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7163,7 +7415,7 @@
 			)
 		)
 		(property "Footprint" "DIOM5436X244N"
-			(at 259.08 -72.06 0)
+			(at 252.73 -72.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7173,7 +7425,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.vishay.com/docs/88392/smbj.pdf"
-			(at 259.08 -172.06 0)
+			(at 252.73 -172.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7183,7 +7435,7 @@
 			)
 		)
 		(property "Description" "Unidirectional 600W TVS diode,SMBJ15A"
-			(at 248.92 21.59 0)
+			(at 242.57 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7192,7 +7444,7 @@
 			)
 		)
 		(property "Height" "2.44"
-			(at 259.08 -372.06 0)
+			(at 252.73 -372.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7202,7 +7454,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Vishay"
-			(at 259.08 -472.06 0)
+			(at 252.73 -472.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7212,7 +7464,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SMBJ15A"
-			(at 259.08 -572.06 0)
+			(at 252.73 -572.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7222,7 +7474,7 @@
 			)
 		)
 		(property "Mouser Part Number" "78-SMBJ15A"
-			(at 259.08 -672.06 0)
+			(at 252.73 -672.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7232,7 +7484,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-General-Semiconductor/SMBJ15A?qs=%252BA9HMDDz5KavBY56EO7ceQ%3D%3D"
-			(at 259.08 -772.06 0)
+			(at 252.73 -772.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7242,7 +7494,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 259.08 -872.06 0)
+			(at 252.73 -872.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7252,7 +7504,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 259.08 -972.06 0)
+			(at 252.73 -972.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7278,7 +7530,7 @@
 	)
 	(symbol
 		(lib_id "SamacSys_Parts:C0805F104K1RACAUTO")
-		(at 238.76 161.29 90)
+		(at 232.41 161.29 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7287,7 +7539,7 @@
 		(fields_autoplaced yes)
 		(uuid "0df9a09c-e50a-4fe9-ad49-88ab80024f8b")
 		(property "Reference" "C3"
-			(at 242.57 153.6699 90)
+			(at 236.22 153.6699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7296,7 +7548,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 242.57 156.2099 90)
+			(at 236.22 156.2099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7305,7 +7557,7 @@
 			)
 		)
 		(property "Footprint" "CAPC2012X140N"
-			(at 334.95 152.4 0)
+			(at 328.6 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7315,7 +7567,7 @@
 			)
 		)
 		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1014_X7R_FE-CAP_SMD.pdf"
-			(at 434.95 152.4 0)
+			(at 428.6 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7325,7 +7577,7 @@
 			)
 		)
 		(property "Description" "Multilayer Ceramic Capacitors MLCC - SMD/SMT 100V 0.1uF 10% X7R -55 / +125C AEC-Q200"
-			(at 238.76 161.29 0)
+			(at 232.41 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7334,7 +7586,7 @@
 			)
 		)
 		(property "Height" "1.4"
-			(at 634.95 152.4 0)
+			(at 628.6 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7344,7 +7596,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "KEMET"
-			(at 734.95 152.4 0)
+			(at 728.6 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7354,7 +7606,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "C0805F104K1RACAUTO"
-			(at 834.95 152.4 0)
+			(at 828.6 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7364,7 +7616,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 934.95 152.4 0)
+			(at 928.6 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7374,7 +7626,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 1034.95 152.4 0)
+			(at 1028.6 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7384,7 +7636,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 1134.95 152.4 0)
+			(at 1128.6 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7394,7 +7646,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 1234.95 152.4 0)
+			(at 1228.6 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7420,7 +7672,7 @@
 	)
 	(symbol
 		(lib_id "SamacSys_Parts:GRM188C81A226ME01D")
-		(at 232.41 161.29 270)
+		(at 226.06 161.29 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7429,7 +7681,7 @@
 		(dnp no)
 		(uuid "0e19b74b-66f3-48f5-b54c-e8eb4ae1fa1e")
 		(property "Reference" "C4"
-			(at 228.6 153.6699 90)
+			(at 222.25 153.6699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7438,7 +7690,7 @@
 			)
 		)
 		(property "Value" "22uF"
-			(at 228.6 156.2099 90)
+			(at 222.25 156.2099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7447,7 +7699,7 @@
 			)
 		)
 		(property "Footprint" "GRM18x"
-			(at 136.22 152.4 0)
+			(at 129.87 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7457,7 +7709,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188C81A226ME01-01A.pdf"
-			(at 36.22 152.4 0)
+			(at 29.87 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7467,7 +7719,7 @@
 			)
 		)
 		(property "Description" "MLCC, 0603"
-			(at 232.41 161.29 0)
+			(at 226.06 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7476,7 +7728,7 @@
 			)
 		)
 		(property "Height" "0.9"
-			(at -163.78 152.4 0)
+			(at -170.13 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7486,7 +7738,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Murata Electronics"
-			(at -263.78 152.4 0)
+			(at -270.13 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7496,7 +7748,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "GRM188C81A226ME01D"
-			(at -363.78 152.4 0)
+			(at -370.13 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7506,7 +7758,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at -463.78 152.4 0)
+			(at -470.13 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7516,7 +7768,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at -563.78 152.4 0)
+			(at -570.13 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7526,7 +7778,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at -663.78 152.4 0)
+			(at -670.13 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7536,7 +7788,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at -763.78 152.4 0)
+			(at -770.13 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7770,145 +8022,6 @@
 			(project "redstone"
 				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
 					(reference "D2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 120.65 33.02 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2056a549-fe1e-41a3-90dc-1ae7bf8250e4")
-		(property "Reference" "C1"
-			(at 116.84 31.7499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "22uF"
-			(at 116.84 34.2899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 119.6848 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 120.65 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 120.65 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "133613b1-0e3c-4cd9-b781-1b424c2dba4f")
-		)
-		(pin "2"
-			(uuid "9815a9ba-736b-4693-bea2-16aecafdcab6")
-		)
-		(instances
-			(project ""
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "C1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 154.94 30.48 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "230bdbb9-3c46-4128-988a-81c29317a46c")
-		(property "Reference" "C2"
-			(at 158.75 29.2099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10uF"
-			(at 158.75 31.7499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 153.9748 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 154.94 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 154.94 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "faf144e3-eebc-44d2-bc3d-308c8ac1446b")
-		)
-		(pin "2"
-			(uuid "20a4377a-86e5-4b87-9195-501afdb70f88")
-		)
-		(instances
-			(project ""
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -8514,7 +8627,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic_MountingPin:Conn_01x04_MountingPin")
-		(at 276.86 151.13 0)
+		(at 270.51 151.13 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8523,7 +8636,7 @@
 		(dnp no)
 		(uuid "523f1bbb-cdf2-4ec3-940d-dc33422b71c5")
 		(property "Reference" "J8"
-			(at 279.4 150.7745 0)
+			(at 273.05 150.7745 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8531,8 +8644,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x04_MountingPin"
-			(at 279.4 148.2345 0)
+		(property "Value" "1x4_Pogo"
+			(at 273.05 148.2345 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8541,7 +8654,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 276.86 151.13 0)
+			(at 270.51 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8550,7 +8663,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 276.86 151.13 0)
+			(at 270.51 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8559,7 +8672,7 @@
 			)
 		)
 		(property "Description" "Generic connectable mounting pin connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 276.86 151.13 0)
+			(at 270.51 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8742,7 +8855,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic_MountingPin:Conn_01x04_MountingPin")
-		(at 276.86 95.25 0)
+		(at 270.51 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8751,7 +8864,7 @@
 		(fields_autoplaced yes)
 		(uuid "5878538b-9254-4d73-91ef-2ef7e09f4f3e")
 		(property "Reference" "J5"
-			(at 279.4 95.6055 0)
+			(at 273.05 95.6055 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8759,8 +8872,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x04_MountingPin"
-			(at 279.4 98.1455 0)
+		(property "Value" "1x4_Pogo"
+			(at 273.05 98.1455 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8769,7 +8882,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 276.86 95.25 0)
+			(at 270.51 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8778,7 +8891,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 276.86 95.25 0)
+			(at 270.51 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8787,7 +8900,7 @@
 			)
 		)
 		(property "Description" "Generic connectable mounting pin connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 276.86 95.25 0)
+			(at 270.51 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9347,43 +9460,34 @@
 		)
 	)
 	(symbol
-		(lib_id "SamacSys_Parts:VGSOT03C-HG3-08")
-		(at 256.54 133.35 90)
-		(mirror x)
+		(lib_id "SamacSys_Parts:GRM188C81A226ME01D")
+		(at 120.65 41.91 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "6e73dee3-6b15-4018-b159-0658230d3d54")
-		(property "Reference" "D21"
-			(at 250.444 147.32 0)
+		(uuid "6a845484-64c6-48b1-a90d-0b18395a5631")
+		(property "Reference" "C5"
+			(at 124.46 34.2899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "VGSOT03C-HG3-08"
-			(at 252.73 147.32 0)
+		(property "Value" "22uF"
+			(at 124.46 36.8299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Footprint" "SOT95P248X115-3N"
-			(at 351.46 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/86325/vgsot03c-vgsot36c.pdf"
-			(at 451.46 157.48 0)
+		(property "Footprint" "GRM18x"
+			(at 216.84 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9392,17 +9496,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Two-line unidirectional ESD protection diode  Common anode  Can be used as bidirectional protection diode  ESD immunity acc. IEC 61000-4-2 and ISO 10605 +/- 30 kV contact discharge +/- 30 kV air discharge  ESD capability according to AEC-Q101: human body model: class H3B: > 8 kV  e3 - Sn  AEC-Q101 qualified available"
-			(at 256.54 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.15"
-			(at 651.46 157.48 0)
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188C81A226ME01-01A.pdf"
+			(at 316.84 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9411,8 +9506,17 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "Vishay"
-			(at 751.46 157.48 0)
+		(property "Description" "MLCC, 0603"
+			(at 120.65 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.9"
+			(at 516.84 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9421,8 +9525,18 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "VGSOT03C-HG3-08"
-			(at 851.46 157.48 0)
+		(property "Manufacturer_Name" "Murata Electronics"
+			(at 616.84 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188C81A226ME01D"
+			(at 716.84 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9432,7 +9546,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 951.46 157.48 0)
+			(at 816.84 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9442,7 +9556,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 1051.46 157.48 0)
+			(at 916.84 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9452,7 +9566,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 1151.46 157.48 0)
+			(at 1016.84 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9462,7 +9576,289 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 1251.46 157.48 0)
+			(at 1116.84 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ab892d9e-3dbb-4c72-8dc1-19372b9d51af")
+		)
+		(pin "1"
+			(uuid "0f6d771d-cc0b-4cf1-8a7e-ef5590ffcf42")
+		)
+		(instances
+			(project "redstone"
+				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
+					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:GRM155R60J106ME18D")
+		(at 154.94 39.37 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6b0c302d-7d10-474e-a1a9-73f440373ec6")
+		(property "Reference" "C1"
+			(at 158.75 31.7499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "10uF"
+			(at 158.75 34.2899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "CAPC1005X70N"
+			(at 251.13 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf"
+			(at 351.13 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Chip Capacitor value 106"
+			(at 154.94 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.7"
+			(at 551.13 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Murata Electronics"
+			(at 651.13 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM155R60J106ME18D"
+			(at 751.13 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 851.13 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 951.13 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 1051.13 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 1151.13 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2b66b771-ab89-4e24-9c0b-e00b588a3b00")
+		)
+		(pin "2"
+			(uuid "26a75e06-0964-4047-a9ed-5e7f20ac78b2")
+		)
+		(instances
+			(project ""
+				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
+					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:VGSOT03C-HG3-08")
+		(at 250.19 133.35 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6e73dee3-6b15-4018-b159-0658230d3d54")
+		(property "Reference" "D21"
+			(at 244.094 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "VGSOT03C-HG3-08"
+			(at 246.38 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SOT95P248X115-3N"
+			(at 345.11 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/86325/vgsot03c-vgsot36c.pdf"
+			(at 445.11 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Two-line unidirectional ESD protection diode  Common anode  Can be used as bidirectional protection diode  ESD immunity acc. IEC 61000-4-2 and ISO 10605 +/- 30 kV contact discharge +/- 30 kV air discharge  ESD capability according to AEC-Q101: human body model: class H3B: > 8 kV  e3 - Sn  AEC-Q101 qualified available"
+			(at 250.19 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.15"
+			(at 645.11 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Vishay"
+			(at 745.11 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "VGSOT03C-HG3-08"
+			(at 845.11 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 945.11 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 1045.11 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 1145.11 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 1245.11 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9724,7 +10120,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic_MountingPin:Conn_01x04_MountingPin")
-		(at 276.86 85.09 0)
+		(at 270.51 85.09 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9733,7 +10129,7 @@
 		(dnp no)
 		(uuid "7d664fb6-6169-484d-91ae-84d4a9575c9b")
 		(property "Reference" "J4"
-			(at 279.4 84.7345 0)
+			(at 273.05 84.7345 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9741,8 +10137,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x04_MountingPin"
-			(at 279.4 82.1945 0)
+		(property "Value" "1x4_Pogo"
+			(at 273.05 82.1945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9751,7 +10147,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 276.86 85.09 0)
+			(at 270.51 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9760,7 +10156,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 276.86 85.09 0)
+			(at 270.51 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9769,7 +10165,7 @@
 			)
 		)
 		(property "Description" "Generic connectable mounting pin connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 276.86 85.09 0)
+			(at 270.51 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9961,7 +10357,7 @@
 	)
 	(symbol
 		(lib_id "2025-11-06_01-25-23:RBT05W24S05")
-		(at 241.3 19.05 90)
+		(at 234.95 19.05 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9970,7 +10366,7 @@
 		(dnp no)
 		(uuid "830e945e-0dde-4fc7-b9e8-7edbe3215ced")
 		(property "Reference" "U2"
-			(at 236.982 54.356 0)
+			(at 230.632 54.356 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -9978,7 +10374,7 @@
 			)
 		)
 		(property "Value" "RBT05W24S05"
-			(at 234.95 47.752 0)
+			(at 228.6 47.752 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -9986,7 +10382,7 @@
 			)
 		)
 		(property "Footprint" "RBT10W24S05_XPP_XPR"
-			(at 241.3 19.05 0)
+			(at 234.95 19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9996,7 +10392,7 @@
 			)
 		)
 		(property "Datasheet" "RBT05W24S05"
-			(at 241.3 19.05 0)
+			(at 234.95 19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10006,7 +10402,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 241.3 19.05 0)
+			(at 234.95 19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10267,21 +10663,21 @@
 		(dnp no)
 		(uuid "97633bf9-26d4-4fb5-93af-1baab763efec")
 		(property "Reference" "U5"
-			(at 83.566 100.076 0)
+			(at 87.63 100.076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "W25Q16JVSS"
-			(at 83.566 97.536 0)
+			(at 87.63 97.536 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-8_5.3x5.3mm_P1.27mm"
@@ -10556,7 +10952,7 @@
 	)
 	(symbol
 		(lib_id "SamacSys_Parts:VGSOT03C-HG3-08")
-		(at 256.54 67.31 90)
+		(at 250.19 67.31 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10565,7 +10961,7 @@
 		(dnp no)
 		(uuid "a74ea23e-e2a9-4118-be06-eeef48315dbb")
 		(property "Reference" "D18"
-			(at 250.444 81.28 0)
+			(at 244.094 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10573,7 +10969,7 @@
 			)
 		)
 		(property "Value" "VGSOT03C-HG3-08"
-			(at 252.73 81.28 0)
+			(at 246.38 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10581,7 +10977,7 @@
 			)
 		)
 		(property "Footprint" "SOT95P248X115-3N"
-			(at 351.46 91.44 0)
+			(at 345.11 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10591,7 +10987,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/86325/vgsot03c-vgsot36c.pdf"
-			(at 451.46 91.44 0)
+			(at 445.11 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10601,7 +10997,7 @@
 			)
 		)
 		(property "Description" "Two-line unidirectional ESD protection diode  Common anode  Can be used as bidirectional protection diode  ESD immunity acc. IEC 61000-4-2 and ISO 10605 +/- 30 kV contact discharge +/- 30 kV air discharge  ESD capability according to AEC-Q101: human body model: class H3B: > 8 kV  e3 - Sn  AEC-Q101 qualified available"
-			(at 256.54 67.31 0)
+			(at 250.19 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10610,7 +11006,7 @@
 			)
 		)
 		(property "Height" "1.15"
-			(at 651.46 91.44 0)
+			(at 645.11 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10620,7 +11016,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Vishay"
-			(at 751.46 91.44 0)
+			(at 745.11 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10630,7 +11026,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "VGSOT03C-HG3-08"
-			(at 851.46 91.44 0)
+			(at 845.11 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10640,7 +11036,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 951.46 91.44 0)
+			(at 945.11 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10650,7 +11046,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 1051.46 91.44 0)
+			(at 1045.11 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10660,7 +11056,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 1151.46 91.44 0)
+			(at 1145.11 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10670,7 +11066,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 1251.46 91.44 0)
+			(at 1245.11 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10769,7 +11165,7 @@
 	)
 	(symbol
 		(lib_id "SamacSys_Parts:VGSOT03C-HG3-08")
-		(at 256.54 34.29 90)
+		(at 250.19 34.29 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10778,7 +11174,7 @@
 		(dnp no)
 		(uuid "ac832e5e-eb33-4ad5-b84e-771fba52fae1")
 		(property "Reference" "D17"
-			(at 250.444 48.26 0)
+			(at 244.094 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10786,7 +11182,7 @@
 			)
 		)
 		(property "Value" "VGSOT03C-HG3-08"
-			(at 252.73 48.26 0)
+			(at 246.38 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10794,7 +11190,7 @@
 			)
 		)
 		(property "Footprint" "SOT95P248X115-3N"
-			(at 351.46 58.42 0)
+			(at 345.11 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10804,7 +11200,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/86325/vgsot03c-vgsot36c.pdf"
-			(at 451.46 58.42 0)
+			(at 445.11 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10814,7 +11210,7 @@
 			)
 		)
 		(property "Description" "Two-line unidirectional ESD protection diode  Common anode  Can be used as bidirectional protection diode  ESD immunity acc. IEC 61000-4-2 and ISO 10605 +/- 30 kV contact discharge +/- 30 kV air discharge  ESD capability according to AEC-Q101: human body model: class H3B: > 8 kV  e3 - Sn  AEC-Q101 qualified available"
-			(at 256.54 34.29 0)
+			(at 250.19 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10823,7 +11219,7 @@
 			)
 		)
 		(property "Height" "1.15"
-			(at 651.46 58.42 0)
+			(at 645.11 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10833,7 +11229,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Vishay"
-			(at 751.46 58.42 0)
+			(at 745.11 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10843,7 +11239,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "VGSOT03C-HG3-08"
-			(at 851.46 58.42 0)
+			(at 845.11 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10853,7 +11249,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 951.46 58.42 0)
+			(at 945.11 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10863,7 +11259,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 1051.46 58.42 0)
+			(at 1045.11 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10873,7 +11269,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 1151.46 58.42 0)
+			(at 1145.11 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10883,7 +11279,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 1251.46 58.42 0)
+			(at 1245.11 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10912,7 +11308,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic_MountingPin:Conn_01x04_MountingPin")
-		(at 276.86 52.07 0)
+		(at 270.51 52.07 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10921,7 +11317,7 @@
 		(dnp no)
 		(uuid "ae4ae557-6d18-4fd0-9a0e-217f0d0eb5df")
 		(property "Reference" "J2"
-			(at 279.4 51.7145 0)
+			(at 273.05 51.7145 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10929,8 +11325,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x04_MountingPin"
-			(at 279.4 49.1745 0)
+		(property "Value" "1x4_Pogo"
+			(at 273.05 49.1745 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10939,7 +11335,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 276.86 52.07 0)
+			(at 270.51 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10948,7 +11344,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 276.86 52.07 0)
+			(at 270.51 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10957,7 +11353,7 @@
 			)
 		)
 		(property "Description" "Generic connectable mounting pin connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 276.86 52.07 0)
+			(at 270.51 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11210,7 +11606,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic_MountingPin:Conn_01x04_MountingPin")
-		(at 276.86 29.21 0)
+		(at 270.51 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11218,7 +11614,7 @@
 		(dnp no)
 		(uuid "b535603d-e3ae-4b98-81a1-bf52df4293d1")
 		(property "Reference" "J1"
-			(at 279.4 29.5655 0)
+			(at 273.05 29.5655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11226,8 +11622,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x04_MountingPin"
-			(at 279.4 32.1055 0)
+		(property "Value" "1x4_Pogo"
+			(at 273.05 32.1055 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11236,7 +11632,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 276.86 29.21 0)
+			(at 270.51 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11245,7 +11641,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 276.86 29.21 0)
+			(at 270.51 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11254,7 +11650,7 @@
 			)
 		)
 		(property "Description" "Generic connectable mounting pin connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 276.86 29.21 0)
+			(at 270.51 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11288,7 +11684,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 271.78 21.59 0)
+		(at 265.43 21.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11297,7 +11693,7 @@
 		(fields_autoplaced yes)
 		(uuid "b647286e-a19b-4c56-aee2-4531bc8c29fb")
 		(property "Reference" "#PWR01"
-			(at 271.78 25.4 0)
+			(at 265.43 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11306,7 +11702,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 271.78 16.51 0)
+			(at 265.43 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11314,7 +11710,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 271.78 21.59 0)
+			(at 265.43 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11323,7 +11719,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 271.78 21.59 0)
+			(at 265.43 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11332,7 +11728,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 271.78 21.59 0)
+			(at 265.43 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11424,7 +11820,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic_MountingPin:Conn_01x04_MountingPin")
-		(at 276.86 62.23 0)
+		(at 270.51 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11433,7 +11829,7 @@
 		(fields_autoplaced yes)
 		(uuid "c461271b-f8d9-45c6-8a84-d290be7be456")
 		(property "Reference" "J3"
-			(at 279.4 62.5855 0)
+			(at 273.05 62.5855 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11441,8 +11837,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x04_MountingPin"
-			(at 279.4 65.1255 0)
+		(property "Value" "1x4_Pogo"
+			(at 273.05 65.1255 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11451,7 +11847,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 276.86 62.23 0)
+			(at 270.51 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11460,7 +11856,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 276.86 62.23 0)
+			(at 270.51 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11469,7 +11865,7 @@
 			)
 		)
 		(property "Description" "Generic connectable mounting pin connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 276.86 62.23 0)
+			(at 270.51 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11519,7 +11915,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2"
+		(property "Value" "2.2uH"
 			(at 124.46 24.13 90)
 			(effects
 				(font
@@ -11527,7 +11923,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SamacSys_Parts:LCENA2016MKT2R2M0NK"
 			(at 124.46 26.67 0)
 			(effects
 				(font
@@ -11571,7 +11967,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic_MountingPin:Conn_01x04_MountingPin")
-		(at 276.86 118.11 0)
+		(at 270.51 118.11 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11580,7 +11976,7 @@
 		(dnp no)
 		(uuid "d60ee460-6e68-4fc9-9853-7d72d9e5fd97")
 		(property "Reference" "J6"
-			(at 279.4 117.7545 0)
+			(at 273.05 117.7545 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11588,8 +11984,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x04_MountingPin"
-			(at 279.4 115.2145 0)
+		(property "Value" "1x4_Pogo"
+			(at 273.05 115.2145 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11598,7 +11994,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 276.86 118.11 0)
+			(at 270.51 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11607,7 +12003,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 276.86 118.11 0)
+			(at 270.51 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11616,7 +12012,7 @@
 			)
 		)
 		(property "Description" "Generic connectable mounting pin connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 276.86 118.11 0)
+			(at 270.51 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11950,7 +12346,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic_MountingPin:Conn_01x04_MountingPin")
-		(at 276.86 128.27 0)
+		(at 270.51 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11959,7 +12355,7 @@
 		(fields_autoplaced yes)
 		(uuid "e3e7be1f-5b43-48d5-a21e-ce4c262526f1")
 		(property "Reference" "J7"
-			(at 279.4 128.6255 0)
+			(at 273.05 128.6255 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11967,8 +12363,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x04_MountingPin"
-			(at 279.4 131.1655 0)
+		(property "Value" "1x4_Pogo"
+			(at 273.05 131.1655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11977,7 +12373,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 276.86 128.27 0)
+			(at 270.51 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11986,7 +12382,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 276.86 128.27 0)
+			(at 270.51 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11995,7 +12391,7 @@
 			)
 		)
 		(property "Description" "Generic connectable mounting pin connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 276.86 128.27 0)
+			(at 270.51 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12029,7 +12425,7 @@
 	)
 	(symbol
 		(lib_id "SamacSys_Parts:VGSOT03C-HG3-08")
-		(at 256.54 100.33 90)
+		(at 250.19 100.33 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12038,7 +12434,7 @@
 		(dnp no)
 		(uuid "ec764a2e-4e1d-4f29-9efd-6ffd68fb35f9")
 		(property "Reference" "D20"
-			(at 250.444 114.3 0)
+			(at 244.094 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12046,7 +12442,7 @@
 			)
 		)
 		(property "Value" "VGSOT03C-HG3-08"
-			(at 252.73 114.3 0)
+			(at 246.38 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12054,7 +12450,7 @@
 			)
 		)
 		(property "Footprint" "SOT95P248X115-3N"
-			(at 351.46 124.46 0)
+			(at 345.11 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12064,7 +12460,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/86325/vgsot03c-vgsot36c.pdf"
-			(at 451.46 124.46 0)
+			(at 445.11 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12074,7 +12470,7 @@
 			)
 		)
 		(property "Description" "Two-line unidirectional ESD protection diode  Common anode  Can be used as bidirectional protection diode  ESD immunity acc. IEC 61000-4-2 and ISO 10605 +/- 30 kV contact discharge +/- 30 kV air discharge  ESD capability according to AEC-Q101: human body model: class H3B: > 8 kV  e3 - Sn  AEC-Q101 qualified available"
-			(at 256.54 100.33 0)
+			(at 250.19 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12083,7 +12479,7 @@
 			)
 		)
 		(property "Height" "1.15"
-			(at 651.46 124.46 0)
+			(at 645.11 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12093,7 +12489,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Vishay"
-			(at 751.46 124.46 0)
+			(at 745.11 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12103,7 +12499,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "VGSOT03C-HG3-08"
-			(at 851.46 124.46 0)
+			(at 845.11 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12113,7 +12509,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 951.46 124.46 0)
+			(at 945.11 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12123,7 +12519,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 1051.46 124.46 0)
+			(at 1045.11 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12133,7 +12529,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 1151.46 124.46 0)
+			(at 1145.11 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12143,7 +12539,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 1251.46 124.46 0)
+			(at 1245.11 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
