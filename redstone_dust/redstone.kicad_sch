@@ -4585,7 +4585,7 @@
 	(junction
 		(at 260.35 85.09)
 		(diameter 0)
-		(color 0 0 0 1)
+		(color 194 0 0 1)
 		(uuid "01384ee7-efe8-428e-b3a2-954b1c678b30")
 	)
 	(junction
@@ -4697,12 +4697,6 @@
 		(uuid "2f38dbc6-5926-4e45-a917-909959e75e10")
 	)
 	(junction
-		(at 250.19 161.29)
-		(diameter 0)
-		(color 0 0 0 1)
-		(uuid "2fe2fb7f-b437-48e2-beb4-4986b415a732")
-	)
-	(junction
 		(at 262.89 21.59)
 		(diameter 0)
 		(color 194 0 0 1)
@@ -4711,7 +4705,7 @@
 	(junction
 		(at 257.81 59.69)
 		(diameter 0)
-		(color 194 0 0 1)
+		(color 0 0 0 1)
 		(uuid "39b9c03a-55ff-4c39-bd28-4c5090a4d0ae")
 	)
 	(junction
@@ -4747,13 +4741,13 @@
 	(junction
 		(at 257.81 92.71)
 		(diameter 0)
-		(color 194 0 0 1)
+		(color 0 0 0 1)
 		(uuid "4197e823-97e1-4f09-83e4-2d7ecbdc921e")
 	)
 	(junction
 		(at 260.35 128.27)
 		(diameter 0)
-		(color 0 0 0 1)
+		(color 194 0 0 1)
 		(uuid "42c4161d-a586-4e89-8bcc-12479d3139a4")
 	)
 	(junction
@@ -4761,6 +4755,12 @@
 		(diameter 0)
 		(color 0 0 0 1)
 		(uuid "44334285-db2c-4fa6-85a2-0223e42d4304")
+	)
+	(junction
+		(at 250.19 161.29)
+		(diameter 0)
+		(color 0 0 0 1)
+		(uuid "4766dc8f-2a56-4ef4-935a-6434b0c2cb49")
 	)
 	(junction
 		(at 207.01 33.02)
@@ -4775,27 +4775,21 @@
 		(uuid "4973fa28-b65e-45f4-bdc8-1d557f60e4fc")
 	)
 	(junction
-		(at 262.89 153.67)
-		(diameter 0)
-		(color 194 0 0 1)
-		(uuid "4a779b4c-2173-4440-9499-7a51c3cff2cb")
-	)
-	(junction
 		(at 260.35 52.07)
 		(diameter 0)
-		(color 0 0 0 1)
+		(color 194 0 0 1)
 		(uuid "4cfb4610-6d7a-431d-9842-ca38a09e821d")
 	)
 	(junction
 		(at 217.17 161.29)
 		(diameter 0)
-		(color 0 0 0 0)
+		(color 0 0 0 1)
 		(uuid "4f0bb937-806b-4542-92f7-02cd3401570f")
 	)
 	(junction
 		(at 260.35 62.23)
 		(diameter 0)
-		(color 0 0 0 1)
+		(color 194 0 0 1)
 		(uuid "59f4672c-c31b-4c19-a5d8-bbfb4653c89c")
 	)
 	(junction
@@ -4829,6 +4823,12 @@
 		(uuid "66f8c471-e680-48ce-99ff-57124795fdb0")
 	)
 	(junction
+		(at 260.35 151.13)
+		(diameter 0)
+		(color 194 0 0 1)
+		(uuid "67e8b55d-604e-489f-b310-cffe3b26d88e")
+	)
+	(junction
 		(at 62.23 16.51)
 		(diameter 0)
 		(color 255 153 0 1)
@@ -4855,7 +4855,7 @@
 	(junction
 		(at 260.35 118.11)
 		(diameter 0)
-		(color 0 0 0 1)
+		(color 194 0 0 1)
 		(uuid "7c299219-cf18-4f3c-a781-892d715aaf23")
 	)
 	(junction
@@ -4873,13 +4873,13 @@
 	(junction
 		(at 257.81 125.73)
 		(diameter 0)
-		(color 194 0 0 1)
+		(color 0 0 0 1)
 		(uuid "80ec0aa0-2449-4fbc-920f-ac9f95c67e90")
 	)
 	(junction
 		(at 257.81 87.63)
 		(diameter 0)
-		(color 194 0 0 1)
+		(color 0 0 0 1)
 		(uuid "822e2d8f-a868-4c09-8b02-ebfb99b7484f")
 	)
 	(junction
@@ -4943,22 +4943,10 @@
 		(uuid "9c263ddf-bc97-40b4-8e3d-3f4475d0801b")
 	)
 	(junction
-		(at 265.43 26.67)
-		(diameter 0)
-		(color 194 0 0 1)
-		(uuid "9f01d1e3-e819-47fc-8ead-dd47de3c4d04")
-	)
-	(junction
 		(at 242.57 161.29)
 		(diameter 0)
 		(color 0 0 0 1)
 		(uuid "9fe20b75-e5f9-429b-a395-ab4aa09d2532")
-	)
-	(junction
-		(at 265.43 21.59)
-		(diameter 0)
-		(color 194 0 0 1)
-		(uuid "a27cc78b-ba04-4a57-8c68-466da61d177a")
 	)
 	(junction
 		(at 105.41 16.51)
@@ -4997,6 +4985,12 @@
 		(uuid "ac95311c-f46c-4514-b65b-c1102914816e")
 	)
 	(junction
+		(at 264.16 21.59)
+		(diameter 0)
+		(color 194 0 0 1)
+		(uuid "b2ed043b-85c3-414d-9d39-8c45e56cc54a")
+	)
+	(junction
 		(at 113.03 16.51)
 		(diameter 0)
 		(color 255 153 0 1)
@@ -5023,8 +5017,14 @@
 	(junction
 		(at 257.81 54.61)
 		(diameter 0)
-		(color 194 0 0 1)
+		(color 0 0 0 1)
 		(uuid "b85f7b83-bcac-4b58-affe-845168f9cfa2")
+	)
+	(junction
+		(at 257.81 153.67)
+		(diameter 0)
+		(color 0 0 0 1)
+		(uuid "b890970d-8a1f-4621-a84b-66e43d536ab2")
 	)
 	(junction
 		(at 226.06 33.02)
@@ -5041,7 +5041,7 @@
 	(junction
 		(at 257.81 120.65)
 		(diameter 0)
-		(color 194 0 0 1)
+		(color 0 0 0 1)
 		(uuid "c00117c1-6560-4730-868f-2b21d59eb840")
 	)
 	(junction
@@ -5055,12 +5055,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c3292ffc-bbcb-4e22-a715-35c1e91f3fb3")
-	)
-	(junction
-		(at 260.35 151.13)
-		(diameter 0)
-		(color 0 0 0 1)
-		(uuid "c7199f1f-5771-48e3-a151-c24ab46dc132")
 	)
 	(junction
 		(at 186.69 80.01)
@@ -5123,6 +5117,12 @@
 		(uuid "e7569c6d-545f-4a0b-ae23-3349cc439259")
 	)
 	(junction
+		(at 264.16 29.21)
+		(diameter 0)
+		(color 194 0 0 1)
+		(uuid "eaa87c67-a4ae-489a-89e4-058ab3f7000f")
+	)
+	(junction
 		(at 149.86 44.45)
 		(diameter 0)
 		(color 0 0 0 1)
@@ -5143,7 +5143,7 @@
 	(junction
 		(at 260.35 95.25)
 		(diameter 0)
-		(color 0 0 0 1)
+		(color 194 0 0 1)
 		(uuid "f6240f4c-a3e3-4071-a966-013d3e505e5d")
 	)
 	(junction
@@ -5333,6 +5333,17 @@
 	)
 	(wire
 		(pts
+			(xy 264.16 21.59) (xy 265.43 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 194 0 0 1)
+		)
+		(uuid "0690f969-c0e1-4f00-b5ff-0191772cdb77")
+	)
+	(wire
+		(pts
 			(xy 262.89 49.53) (xy 265.43 49.53)
 		)
 		(stroke
@@ -5370,7 +5381,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 0 0 0 1)
+			(color 194 0 0 1)
 		)
 		(uuid "0b709d88-f5f7-4b8d-a014-5ca51afbe73d")
 	)
@@ -5381,7 +5392,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 194 0 0 1)
+			(color 0 0 0 1)
 		)
 		(uuid "0c121c7b-c836-4f6b-9762-506c6cbfd57b")
 	)
@@ -5403,7 +5414,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 194 0 0 1)
+			(color 0 0 0 1)
 		)
 		(uuid "0d1cb91d-32d5-4c38-8a77-8ec71b271289")
 	)
@@ -5499,7 +5510,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 0 0 0 1)
+			(color 194 0 0 1)
 		)
 		(uuid "14dc5c74-1da7-4506-8b7f-2f018f58a066")
 	)
@@ -5510,7 +5521,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 194 0 0 1)
+			(color 0 0 0 1)
 		)
 		(uuid "1526b580-cf99-462d-8046-90e7d7eb8a4a")
 	)
@@ -5548,17 +5559,6 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 163.83) (xy 240.03 163.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 194 0 0 1)
-		)
-		(uuid "1877cb83-f244-414b-885c-93054a5d5ebe")
-	)
-	(wire
-		(pts
 			(xy 217.17 161.29) (xy 229.87 161.29)
 		)
 		(stroke
@@ -5575,7 +5575,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 0 0 0 1)
+			(color 194 0 0 1)
 		)
 		(uuid "1dafec01-902f-4636-9a2f-825322d06b5d")
 	)
@@ -5651,7 +5651,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 0 0 0 1)
+			(color 194 0 0 1)
 		)
 		(uuid "2a84c78f-0600-4691-8143-042bc4f0d820")
 	)
@@ -5777,7 +5777,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 194 0 0 1)
+			(color 0 0 0 1)
 		)
 		(uuid "324acd00-e7c4-4fd8-9858-cde48eea3f45")
 	)
@@ -5802,6 +5802,17 @@
 			(color 194 194 0 1)
 		)
 		(uuid "33fada32-6403-4bcb-b20b-f94918f42c73")
+	)
+	(wire
+		(pts
+			(xy 260.35 163.83) (xy 260.35 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 194 0 0 1)
+		)
+		(uuid "3483c2d7-a867-468a-98df-746888282be4")
 	)
 	(wire
 		(pts
@@ -5842,7 +5853,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 0 0 0 1)
+			(color 194 0 0 1)
 		)
 		(uuid "3994bf58-733d-4931-b14f-c2ba499511b3")
 	)
@@ -5853,7 +5864,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 194 0 0 1)
+			(color 0 0 0 1)
 		)
 		(uuid "39d30e44-2b4e-417a-8efc-267c5076e2c4")
 	)
@@ -5946,17 +5957,6 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 161.29) (xy 260.35 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(uuid "461cdec0-ebd0-4430-8088-563e47fca44a")
-	)
-	(wire
-		(pts
 			(xy 162.56 36.83) (xy 160.02 36.83)
 		)
 		(stroke
@@ -5982,7 +5982,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 194 0 0 1)
+			(color 0 0 0 1)
 		)
 		(uuid "4898f2e3-bc13-4eec-82e7-d7f0286929b8")
 	)
@@ -6026,7 +6026,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 194 0 0 1)
+			(color 0 0 0 1)
 		)
 		(uuid "4dcbaa5e-a677-4f6a-8f36-11a1dd741048")
 	)
@@ -6059,9 +6059,20 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 194 0 0 1)
+			(color 0 0 0 1)
 		)
 		(uuid "50747b43-ea83-4bc7-b42b-4090da3689f4")
+	)
+	(wire
+		(pts
+			(xy 250.19 161.29) (xy 257.81 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "512214b0-3293-4f0f-8746-7e5d41cc3637")
 	)
 	(wire
 		(pts
@@ -6087,12 +6098,12 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 29.21) (xy 260.35 29.21)
+			(xy 265.43 29.21) (xy 264.16 29.21)
 		)
 		(stroke
 			(width 0)
 			(type default)
-			(color 0 0 0 1)
+			(color 194 0 0 1)
 		)
 		(uuid "5564eb36-1744-48f1-804d-d39ec27e7360")
 	)
@@ -6169,7 +6180,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 194 0 0 1)
+			(color 0 0 0 1)
 		)
 		(uuid "5fda099f-d8e8-4eb4-9fa6-8e079c1cddd8")
 	)
@@ -6346,6 +6357,17 @@
 	)
 	(wire
 		(pts
+			(xy 264.16 21.59) (xy 264.16 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 194 0 0 1)
+		)
+		(uuid "6c0b462c-dfc3-47e2-9666-a22aabdd8159")
+	)
+	(wire
+		(pts
 			(xy 162.56 16.51) (xy 162.56 17.78)
 		)
 		(stroke
@@ -6479,7 +6501,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 0 0 0 1)
+			(color 194 0 0 1)
 		)
 		(uuid "76642ae1-357e-4ac6-b7b3-c083dcab8e9a")
 	)
@@ -6492,17 +6514,6 @@
 			(type default)
 		)
 		(uuid "78d8e7ba-0d45-495d-893f-bcbf67947edc")
-	)
-	(wire
-		(pts
-			(xy 250.19 161.29) (xy 260.35 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(uuid "79766d3c-0342-4382-9814-6268d911e59e")
 	)
 	(wire
 		(pts
@@ -6544,7 +6555,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 194 0 0 1)
+			(color 0 0 0 1)
 		)
 		(uuid "818e4746-db9d-4aa9-b073-ae4d946ea699")
 	)
@@ -6576,7 +6587,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 0 0 0 1)
+			(color 194 0 0 1)
 		)
 		(uuid "83b32e49-f14d-46ce-9677-dcb3405463b0")
 	)
@@ -6598,7 +6609,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 0 0 0 1)
+			(color 194 0 0 1)
 		)
 		(uuid "854ddf81-8e42-48ac-a0c0-ee0a83945c4e")
 	)
@@ -6641,7 +6652,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 0 0 0 1)
+			(color 194 0 0 1)
 		)
 		(uuid "88e027bc-12f4-44cc-9068-a46a65650f49")
 	)
@@ -6652,7 +6663,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 194 0 0 1)
+			(color 0 0 0 1)
 		)
 		(uuid "89904626-83db-4622-906c-a1822bf01409")
 	)
@@ -6827,17 +6838,6 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 21.59) (xy 265.43 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 194 0 0 1)
-		)
-		(uuid "a97753b5-a090-4585-b4c9-e6958caf0dfd")
-	)
-	(wire
-		(pts
 			(xy 242.57 95.25) (xy 242.57 128.27)
 		)
 		(stroke
@@ -6865,7 +6865,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 0 0 0 1)
+			(color 194 0 0 1)
 		)
 		(uuid "ac9dca60-a487-4230-aff6-05ce09aca5f1")
 	)
@@ -6879,17 +6879,6 @@
 			(color 255 0 0 1)
 		)
 		(uuid "ae9e31d1-5011-433b-b56d-0147ea7842c1")
-	)
-	(wire
-		(pts
-			(xy 262.89 153.67) (xy 262.89 163.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 194 0 0 1)
-		)
-		(uuid "af7d9987-5baf-4808-ac95-6e0daad8f009")
 	)
 	(wire
 		(pts
@@ -6963,7 +6952,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 0 0 0 1)
+			(color 194 0 0 1)
 		)
 		(uuid "b61daa03-356b-4cf3-bd99-14b75f5f8f56")
 	)
@@ -6996,7 +6985,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 0 0 0 1)
+			(color 194 0 0 1)
 		)
 		(uuid "b78dffbd-a8a9-45f9-92e4-eb7f792cb407")
 	)
@@ -7007,13 +6996,13 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 194 0 0 1)
+			(color 0 0 0 1)
 		)
 		(uuid "b78f3822-9f51-447e-add6-e9285d5d0c26")
 	)
 	(wire
 		(pts
-			(xy 262.89 21.59) (xy 265.43 21.59)
+			(xy 262.89 21.59) (xy 264.16 21.59)
 		)
 		(stroke
 			(width 0)
@@ -7043,17 +7032,6 @@
 			(color 194 194 0 1)
 		)
 		(uuid "bcea2b53-d225-43f9-962f-553208a17280")
-	)
-	(wire
-		(pts
-			(xy 262.89 153.67) (xy 265.43 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 194 0 0 1)
-		)
-		(uuid "be5020c3-da54-41a4-8622-0b9fa420464c")
 	)
 	(wire
 		(pts
@@ -7101,6 +7079,17 @@
 	)
 	(wire
 		(pts
+			(xy 240.03 163.83) (xy 260.35 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 194 0 0 1)
+		)
+		(uuid "c12aca74-1656-462e-9aeb-db5f2e055735")
+	)
+	(wire
+		(pts
 			(xy 250.19 130.81) (xy 262.89 130.81)
 		)
 		(stroke
@@ -7128,7 +7117,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 194 0 0 1)
+			(color 0 0 0 1)
 		)
 		(uuid "c3503ea0-9482-488e-9fa1-4e12531a02a0")
 	)
@@ -7258,7 +7247,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 0 0 0 1)
+			(color 194 0 0 1)
 		)
 		(uuid "d4215c49-64fb-4504-8f6e-2b65222ef04a")
 	)
@@ -7323,6 +7312,17 @@
 			(type default)
 		)
 		(uuid "db9f604f-2054-4951-98c5-1a1746612fa9")
+	)
+	(wire
+		(pts
+			(xy 264.16 29.21) (xy 260.35 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 194 0 0 1)
+		)
+		(uuid "dceb7cb5-d56b-4905-b4e3-bb31b58ce637")
 	)
 	(wire
 		(pts
@@ -7397,18 +7397,18 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 194 0 0 1)
+			(color 0 0 0 1)
 		)
 		(uuid "e24f8b5a-c952-4513-8448-1ccb0b400d27")
 	)
 	(wire
 		(pts
-			(xy 257.81 153.67) (xy 262.89 153.67)
+			(xy 257.81 153.67) (xy 265.43 153.67)
 		)
 		(stroke
 			(width 0)
 			(type default)
-			(color 194 0 0 1)
+			(color 0 0 0 1)
 		)
 		(uuid "e2a4ac65-473d-4a33-b24f-a8c2c367a1e4")
 	)
@@ -7664,6 +7664,17 @@
 	)
 	(wire
 		(pts
+			(xy 257.81 161.29) (xy 257.81 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "f7858a60-ad9b-49e4-a376-f909adc7349a")
+	)
+	(wire
+		(pts
 			(xy 168.91 38.1) (xy 181.61 38.1)
 		)
 		(stroke
@@ -7734,7 +7745,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 0 0 0 1)
+			(color 194 0 0 1)
 		)
 		(uuid "fb0d4358-7486-4040-ae68-61ab332ab046")
 	)
@@ -7881,7 +7892,7 @@
 		)
 		(uuid "725a0d3e-1b22-4361-ae24-6c6706f73a18")
 	)
-	(label "GND"
+	(label "12V"
 		(at 260.35 29.21 0)
 		(effects
 			(font
@@ -7911,7 +7922,7 @@
 		)
 		(uuid "cb29da74-dde2-40ed-8745-9748d19f48c1")
 	)
-	(label "12V"
+	(label "GND"
 		(at 257.81 26.67 0)
 		(effects
 			(font
@@ -8009,7 +8020,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
 			(at 207.01 35.56 0)
 			(effects
 				(font
@@ -8801,7 +8812,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "SamacSys_Parts:ERJ-UP6D1001V"
 			(at 168.91 50.8 0)
 			(effects
 				(font
@@ -8937,7 +8948,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
 			(at 217.17 52.07 0)
 			(effects
 				(font
@@ -9086,7 +9097,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
 			(at 217.17 19.05 0)
 			(effects
 				(font
@@ -9246,7 +9257,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
 			(at 207.01 19.05 0)
 			(effects
 				(font
@@ -9316,7 +9327,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
 			(at 196.85 52.07 0)
 			(effects
 				(font
@@ -9385,7 +9396,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "SamacSys_Parts:ERJ-UP6D1001V"
 			(at 171.45 62.23 0)
 			(effects
 				(font
@@ -9455,7 +9466,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "SamacSys_Parts:TNPW0805100KFHEA"
 			(at 164.338 21.59 90)
 			(effects
 				(font
@@ -9525,7 +9536,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
 			(at 196.85 68.58 0)
 			(effects
 				(font
@@ -9911,7 +9922,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
 			(at 217.17 35.56 0)
 			(effects
 				(font
@@ -10363,7 +10374,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
 			(at 196.85 35.56 0)
 			(effects
 				(font
@@ -11233,7 +11244,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "SamacSys_Parts:ERJ-UP6D1001V"
 			(at 173.99 77.47 0)
 			(effects
 				(font
@@ -12269,7 +12280,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
 			(at 196.85 19.05 0)
 			(effects
 				(font
@@ -12567,7 +12578,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
 			(at 186.69 68.58 0)
 			(effects
 				(font
@@ -12780,7 +12791,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "SamacSys_Parts:ERJ-UP6D1001V"
 			(at 181.61 90.17 0)
 			(effects
 				(font
@@ -12850,7 +12861,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
 			(at 186.69 35.56 0)
 			(effects
 				(font
@@ -13221,7 +13232,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
 			(at 207.01 52.07 0)
 			(effects
 				(font
@@ -13291,7 +13302,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
 			(at 186.69 52.07 0)
 			(effects
 				(font
@@ -13505,7 +13516,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
 			(at 207.01 68.58 0)
 			(effects
 				(font
@@ -14749,7 +14760,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
 			(at 217.17 68.58 0)
 			(effects
 				(font
@@ -14819,7 +14830,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
 			(at 186.69 19.05 0)
 			(effects
 				(font
