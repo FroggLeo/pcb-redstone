@@ -5149,7 +5149,7 @@
 		(uuid "0e66e25f-a271-44ed-bc47-422d9bc30baf")
 	)
 	(no_connect
-		(at 128.27 129.54)
+		(at 128.27 93.98)
 		(uuid "333cd2c1-e3a7-43ee-a021-132c6cc54327")
 	)
 	(no_connect
@@ -5173,7 +5173,7 @@
 		(uuid "4a21b4ac-21b5-44e0-a1d3-56098f6ab742")
 	)
 	(no_connect
-		(at 128.27 149.86)
+		(at 128.27 111.76)
 		(uuid "563881d0-a48a-44d2-99c1-2ae19509053a")
 	)
 	(no_connect
@@ -5205,7 +5205,7 @@
 		(uuid "7fee34d4-f418-4ff9-9c1f-bc79601aa8c2")
 	)
 	(no_connect
-		(at 128.27 127)
+		(at 128.27 91.44)
 		(uuid "82e7bfe1-d0ff-4504-869c-276a547895bf")
 	)
 	(no_connect
@@ -5299,7 +5299,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 88.9) (xy 171.45 64.77)
+			(xy 171.45 64.77) (xy 171.45 129.54)
 		)
 		(stroke
 			(width 0)
@@ -5706,7 +5706,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 93.98) (xy 181.61 93.98)
+			(xy 128.27 114.3) (xy 181.61 114.3)
 		)
 		(stroke
 			(width 0)
@@ -5734,17 +5734,6 @@
 			(type default)
 		)
 		(uuid "316a79da-05df-4b85-9405-1018b84641af")
-	)
-	(wire
-		(pts
-			(xy 168.91 53.34) (xy 168.91 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 0 194 194 1)
-		)
-		(uuid "31aa65b2-6ef8-4c4a-b1bf-d210df3da9b8")
 	)
 	(wire
 		(pts
@@ -6184,7 +6173,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 91.44) (xy 173.99 91.44)
+			(xy 128.27 127) (xy 173.99 127)
 		)
 		(stroke
 			(width 0)
@@ -6430,7 +6419,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 93.98) (xy 181.61 92.71)
+			(xy 181.61 92.71) (xy 181.61 114.3)
 		)
 		(stroke
 			(width 0)
@@ -6783,7 +6772,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 88.9) (xy 171.45 88.9)
+			(xy 128.27 129.54) (xy 171.45 129.54)
 		)
 		(stroke
 			(width 0)
@@ -7196,7 +7185,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 80.01) (xy 173.99 91.44)
+			(xy 173.99 80.01) (xy 173.99 127)
 		)
 		(stroke
 			(width 0)
@@ -7207,7 +7196,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 86.36) (xy 128.27 86.36)
+			(xy 168.91 149.86) (xy 128.27 149.86)
 		)
 		(stroke
 			(width 0)
@@ -7247,17 +7236,6 @@
 			(color 255 153 0 1)
 		)
 		(uuid "d7beb72d-7532-4047-9fdf-ce50511f5771")
-	)
-	(wire
-		(pts
-			(xy 82.55 45.72) (xy 82.55 21.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(uuid "d8154319-2dff-4989-8ff8-f70dfc2d3366")
 	)
 	(wire
 		(pts
@@ -7661,6 +7639,17 @@
 	)
 	(wire
 		(pts
+			(xy 168.91 53.34) (xy 168.91 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 194 194 1)
+		)
+		(uuid "fc3f259f-20b9-4fbf-bc7c-efdcfdf2050d")
+	)
+	(wire
+		(pts
 			(xy 102.87 16.51) (xy 102.87 45.72)
 		)
 		(stroke
@@ -7782,7 +7771,7 @@
 		(uuid "6fbb11ec-fe78-42f5-b77d-15b9f6375042")
 	)
 	(label "W_TX"
-		(at 128.27 114.3 0)
+		(at 128.27 88.9 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7812,7 +7801,7 @@
 		(uuid "90d455bf-414f-4adc-b6ca-632cd7d24574")
 	)
 	(label "W_RX"
-		(at 128.27 111.76 0)
+		(at 128.27 86.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8144,7 +8133,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DIOM5436X244N"
+		(property "Footprint" "SamacSys_Parts:DIOM5436X244N"
 			(at 275.59 115.24 0)
 			(effects
 				(font
@@ -8287,7 +8276,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CAPC2012X140N"
+		(property "Footprint" "SamacSys_Parts:CAPC2012X140N"
 			(at 326.06 157.48 0)
 			(effects
 				(font
@@ -8429,7 +8418,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GRM18x"
+		(property "Footprint" "SamacSys_Parts:GRM18x"
 			(at 313.36 157.48 0)
 			(effects
 				(font
@@ -8569,7 +8558,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CAPC0603X33N"
+		(property "Footprint" "SamacSys_Parts:CAPC0603X33N"
 			(at 86.36 155.88 0)
 			(effects
 				(font
@@ -10496,7 +10485,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GRM18x"
+		(property "Footprint" "SamacSys_Parts:GRM18x"
 			(at 35.89 38.1 0)
 			(effects
 				(font
@@ -10638,7 +10627,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CAPC1005X70N"
+		(property "Footprint" "SamacSys_Parts:CAPC1005X70N"
 			(at 262.56 35.56 0)
 			(effects
 				(font
@@ -10778,7 +10767,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT95P248X115-3N"
+		(property "Footprint" "SamacSys_Parts:SOT95P248X115-3N"
 			(at 345.11 157.48 0)
 			(effects
 				(font
@@ -10923,7 +10912,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CAPC2012X140N"
+		(property "Footprint" "SamacSys_Parts:CAPC2012X140N"
 			(at 86.36 163.5 0)
 			(effects
 				(font
@@ -11602,7 +11591,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RBT10W24S05_XPP_XPR"
+		(property "Footprint" "SamacSys_Parts:RBT10W24S05_XPP_XPR"
 			(at 234.95 19.05 0)
 			(effects
 				(font
@@ -11829,7 +11818,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CAPC0603X33N"
+		(property "Footprint" "SamacSys_Parts:CAPC0603X33N"
 			(at 86.36 141.91 0)
 			(effects
 				(font
@@ -12403,7 +12392,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT95P248X115-3N"
+		(property "Footprint" "SamacSys_Parts:SOT95P248X115-3N"
 			(at 345.11 91.44 0)
 			(effects
 				(font
@@ -12686,7 +12675,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT95P248X115-3N"
+		(property "Footprint" "SamacSys_Parts:SOT95P248X115-3N"
 			(at 345.11 58.42 0)
 			(effects
 				(font
@@ -13948,7 +13937,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CAPC2012X140N"
+		(property "Footprint" "SamacSys_Parts:CAPC2012X140N"
 			(at 93.98 148.26 0)
 			(effects
 				(font
@@ -14088,7 +14077,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT95P248X115-3N"
+		(property "Footprint" "SamacSys_Parts:SOT95P248X115-3N"
 			(at 345.11 124.46 0)
 			(effects
 				(font
