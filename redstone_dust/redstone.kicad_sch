@@ -4679,6 +4679,12 @@
 		(uuid "27b0ae1d-dfc2-45d9-a838-0a6a41e0c331")
 	)
 	(junction
+		(at 48.26 82.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2d5d9713-685a-4429-b2c4-0348d8d1e8c3")
+	)
+	(junction
 		(at 242.57 128.27)
 		(diameter 0)
 		(color 0 0 0 1)
@@ -4743,6 +4749,12 @@
 		(diameter 0)
 		(color 0 0 0 1)
 		(uuid "44334285-db2c-4fa6-85a2-0223e42d4304")
+	)
+	(junction
+		(at 22.86 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "461e5175-2791-4dc5-8bf8-af1c9082acd6")
 	)
 	(junction
 		(at 250.19 161.29)
@@ -5063,6 +5075,12 @@
 		(uuid "cd119160-2631-41c0-8372-12c69ecb567a")
 	)
 	(junction
+		(at 48.26 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ceee7c59-0ef0-4575-9f8e-7a2b16b5cb90")
+	)
+	(junction
 		(at 196.85 33.02)
 		(diameter 0)
 		(color 255 0 0 1)
@@ -5117,6 +5135,12 @@
 		(uuid "f2e50cff-be2b-4d95-9373-df0d07472220")
 	)
 	(junction
+		(at 22.86 82.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f323afce-6886-4b29-86e2-9bdb655287af")
+	)
+	(junction
 		(at 207.01 49.53)
 		(diameter 0)
 		(color 255 0 0 1)
@@ -5141,7 +5165,7 @@
 		(uuid "fe01718c-712a-4644-9846-5b9e7d2f13ff")
 	)
 	(no_connect
-		(at 128.27 121.92)
+		(at 128.27 109.22)
 		(uuid "0a0fdcc0-760e-41b7-9305-7cd6f660e984")
 	)
 	(no_connect
@@ -5161,7 +5185,7 @@
 		(uuid "4250e039-403c-4271-8350-6e81a224436a")
 	)
 	(no_connect
-		(at 128.27 134.62)
+		(at 128.27 139.7)
 		(uuid "439f84dc-174c-40ed-b58f-6257abfafdce")
 	)
 	(no_connect
@@ -5181,7 +5205,7 @@
 		(uuid "5ee26ec0-61b7-4634-8240-8cd38e430744")
 	)
 	(no_connect
-		(at 128.27 132.08)
+		(at 128.27 137.16)
 		(uuid "619723cc-0315-4f2f-8472-6788af161154")
 	)
 	(no_connect
@@ -5193,7 +5217,7 @@
 		(uuid "772bbec6-f0be-4830-907c-c12f439982e5")
 	)
 	(no_connect
-		(at 128.27 116.84)
+		(at 128.27 127)
 		(uuid "7ae1b013-dcc9-4827-b5eb-41ade45f189d")
 	)
 	(no_connect
@@ -5213,7 +5237,7 @@
 		(uuid "845ed54c-f6a4-4d54-b000-b513819c2399")
 	)
 	(no_connect
-		(at 43.18 162.56)
+		(at 43.18 144.78)
 		(uuid "852d57ef-2b29-4104-ade6-698a4a61621d")
 	)
 	(no_connect
@@ -5249,7 +5273,7 @@
 		(uuid "c55f4d97-0ef4-4575-bed4-3bde3a65c349")
 	)
 	(no_connect
-		(at 128.27 119.38)
+		(at 128.27 106.68)
 		(uuid "ce80334d-f05e-4400-9d1c-97f81aeea333")
 	)
 	(no_connect
@@ -5449,6 +5473,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 82.55) (xy 48.26 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11286b1c-8d5b-4c1e-9fa1-59494ee15408")
+	)
+	(wire
+		(pts
 			(xy 217.17 49.53) (xy 226.06 49.53)
 		)
 		(stroke
@@ -5457,6 +5491,16 @@
 			(color 255 0 0 1)
 		)
 		(uuid "1194e902-79fb-4217-8d81-51729cd05853")
+	)
+	(wire
+		(pts
+			(xy 48.26 76.2) (xy 48.26 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "119c33d0-6746-4065-8298-f15ae02ab581")
 	)
 	(wire
 		(pts
@@ -5622,6 +5666,16 @@
 	)
 	(wire
 		(pts
+			(xy 22.86 82.55) (xy 35.56 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28cb2078-bc18-4fe7-92b9-715633b20338")
+	)
+	(wire
+		(pts
 			(xy 234.95 21.59) (xy 262.89 21.59)
 		)
 		(stroke
@@ -5664,7 +5718,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 67.31) (xy 48.26 86.36)
+			(xy 48.26 67.31) (xy 48.26 76.2)
 		)
 		(stroke
 			(width 0)
@@ -5846,7 +5900,7 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 173.99) (xy 22.86 21.59)
+			(xy 22.86 173.99) (xy 22.86 82.55)
 		)
 		(stroke
 			(width 0)
@@ -6173,7 +6227,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 127) (xy 173.99 127)
+			(xy 128.27 116.84) (xy 173.99 116.84)
 		)
 		(stroke
 			(width 0)
@@ -6181,6 +6235,17 @@
 			(color 0 194 194 1)
 		)
 		(uuid "5fe1570e-2079-4b36-9def-2e1dfe4c0aa5")
+	)
+	(wire
+		(pts
+			(xy 22.86 76.2) (xy 22.86 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "60aa7e7e-1355-4097-a327-7a257dd36943")
 	)
 	(wire
 		(pts
@@ -6319,6 +6384,16 @@
 			(type default)
 		)
 		(uuid "6a58f3b1-584a-474a-97ca-b57d8880a490")
+	)
+	(wire
+		(pts
+			(xy 22.86 76.2) (xy 35.56 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6abda595-48ef-4760-b79a-b6e50d876354")
 	)
 	(wire
 		(pts
@@ -7185,7 +7260,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 80.01) (xy 173.99 127)
+			(xy 173.99 80.01) (xy 173.99 116.84)
 		)
 		(stroke
 			(width 0)
@@ -7445,6 +7520,17 @@
 	)
 	(wire
 		(pts
+			(xy 22.86 82.55) (xy 22.86 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "ed8264a1-a3cf-468c-907a-d85f19e77b1a")
+	)
+	(wire
+		(pts
 			(xy 62.23 16.51) (xy 62.23 99.06)
 		)
 		(stroke
@@ -7701,7 +7787,7 @@
 		(uuid "1d306776-c711-468d-b003-5ddcdf280602")
 	)
 	(label "S_TX"
-		(at 128.27 109.22 0)
+		(at 128.27 119.38 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7711,7 +7797,7 @@
 		(uuid "27020341-4bdd-49b2-a2b2-a1a2913c2211")
 	)
 	(label "N_RX"
-		(at 128.27 147.32 0)
+		(at 128.27 149.86 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7731,7 +7817,7 @@
 		(uuid "3e79492b-5ba3-4273-8f24-837928746425")
 	)
 	(label "N_TX"
-		(at 128.27 149.86 0)
+		(at 128.27 147.32 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7751,7 +7837,7 @@
 		(uuid "612abafc-4918-4b29-a450-7c9ac50f0220")
 	)
 	(label "E_RX"
-		(at 128.27 137.16 0)
+		(at 128.27 132.08 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7831,7 +7917,7 @@
 		(uuid "d3d29315-b797-4686-a8aa-7819bfeac802")
 	)
 	(label "E_TX"
-		(at 128.27 139.7 0)
+		(at 128.27 134.62 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7871,7 +7957,7 @@
 		(uuid "eedf529e-657e-409d-a4dd-e3fde7aa52c9")
 	)
 	(label "S_RX"
-		(at 128.27 106.68 0)
+		(at 128.27 121.92 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7952,8 +8038,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic_MountingPin:Conn_01x04_MountingPin")
-		(at 43.18 152.4 0)
-		(mirror y)
+		(at 43.18 154.94 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7961,7 +8046,7 @@
 		(dnp no)
 		(uuid "0874a3d7-1776-49de-8f9b-314d61a6a5db")
 		(property "Reference" "J9"
-			(at 40.64 155.2957 0)
+			(at 40.64 152.0443 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7970,7 +8055,7 @@
 			)
 		)
 		(property "Value" "2.54mm_ProgrammingPin"
-			(at 40.64 152.7557 0)
+			(at 40.64 154.5843 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7979,7 +8064,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
-			(at 43.18 152.4 0)
+			(at 43.18 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7988,7 +8073,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 43.18 152.4 0)
+			(at 43.18 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7997,7 +8082,7 @@
 			)
 		)
 		(property "Description" "Generic connectable mounting pin connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 43.18 152.4 0)
+			(at 43.18 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9461,6 +9546,148 @@
 			(project "redstone"
 				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
 					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:C0805F104K1RACAUTO")
+		(at 48.26 82.55 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "49f54537-c2b4-46ef-b51c-fa41e8369eeb")
+		(property "Reference" "C6"
+			(at 37.084 84.328 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 37.084 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:CAPC2012X140N"
+			(at 39.37 178.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1014_X7R_FE-CAP_SMD.pdf"
+			(at 39.37 278.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Multilayer Ceramic Capacitors MLCC - SMD/SMT 100V 0.1uF 10% X7R -55 / +125C AEC-Q200"
+			(at 48.26 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.4"
+			(at 39.37 478.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "KEMET"
+			(at 39.37 578.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0805F104K1RACAUTO"
+			(at 39.37 678.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 39.37 778.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 39.37 878.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 39.37 978.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 39.37 1078.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "60c2d691-ed3c-4ccb-a791-278b73250446")
+		)
+		(pin "1"
+			(uuid "bb779f25-077a-4835-b8a3-7cbc275c2ea7")
+		)
+		(instances
+			(project "redstone"
+				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -14474,6 +14701,146 @@
 			(project ""
 				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:GRM033D70E105ME15D")
+		(at 48.26 76.2 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fe491216-80e9-4193-83c2-06acb783e639")
+		(property "Reference" "C7"
+			(at 38.862 77.978 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 39.37 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:CAPC0603X33N"
+			(at 39.37 172.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033D70E105ME15-01A.pdf"
+			(at 39.37 272.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Capacitor GRM03_0.09 L=0.6mm W=0.3mm T=0.3mm"
+			(at 48.26 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.33"
+			(at 39.37 472.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Murata Electronics"
+			(at 39.37 572.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM033D70E105ME15D"
+			(at 39.37 672.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "81-GRM033D70E105ME5D"
+			(at 39.37 772.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM033D70E105ME15D?qs=r5DSvlrkXmLLNF3ZiIF79w%3D%3D"
+			(at 39.37 872.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 39.37 972.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 39.37 1072.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f70e7a92-3352-4e2d-a8e3-fe385c49755c")
+		)
+		(pin "1"
+			(uuid "848877bf-8558-4f59-b9ba-6b9e841abc1f")
+		)
+		(instances
+			(project "redstone"
+				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
+					(reference "C7")
 					(unit 1)
 				)
 			)
