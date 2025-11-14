@@ -158,14 +158,15 @@
 		(at 152.5 55 90)
 		(descr "150060RS83000")
 		(tags "LED")
-		(property "Reference" "D5"
-			(at 0 0 90)
+		(property "Reference" "- LED +"
+			(at 0 1.5 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "27249d4d-02ba-4a4a-bd4e-24c89f8c747c")
 			(effects
 				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
+					(size 0.5 0.5)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -390,8 +391,8 @@
 		(uuid "071f38df-6844-435c-a1da-ed8e8423e593")
 		(at 148.5 43 -90)
 		(tags "RBT05W24S05 ")
-		(property "Reference" "U2"
-			(at 2.54 0 270)
+		(property "Reference" "5v"
+			(at 7.5 1.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "885a0cb6-b6e0-4992-b638-da8904e77d85")
@@ -652,6 +653,7 @@
 		(property "Reference" "D2"
 			(at 0 0 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "9cdda26c-9aea-4d54-8dab-17fa4147a991")
 			(effects
 				(font
@@ -885,6 +887,7 @@
 		(property "Reference" "D4"
 			(at 0 0 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "6d249fba-ba90-42b3-815e-9e18e27a04f9")
 			(effects
 				(font
@@ -1118,6 +1121,7 @@
 		(property "Reference" "D8"
 			(at 0 0 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "94ddafcc-d3b7-485a-b283-ab91571abc6a")
 			(effects
 				(font
@@ -1351,6 +1355,7 @@
 		(property "Reference" "D3"
 			(at 0 0 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "887e9080-7c29-49e1-b0df-66be30f4526a")
 			(effects
 				(font
@@ -1582,8 +1587,9 @@
 		(descr "Tactile switch, 6x6 mm, H4.3 mm, 6.5 mm pitch, https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf")
 		(tags "Omron B3F-10xx SPST 1P1T")
 		(property "Reference" "SW1"
-			(at 3.25 -2.05 0)
+			(at 3.25 2.25 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "4816f42d-64b9-4349-b4d4-b3c83e216a42")
 			(effects
 				(font
@@ -1839,13 +1845,14 @@
 		(at 131.55 40.25 180)
 		(descr "8-Lead Plastic WSON, 2x2mm Body, 0.5mm Pitch, WSON-8, http://www.ti.com/lit/ds/symlink/lm27761.pdf")
 		(tags "WSON 8 1EP ThermalVias")
-		(property "Reference" "U3"
-			(at 0.38 -1.9 0)
+		(property "Reference" "3.3v"
+			(at 0.05 1.75 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "7f4d7e40-635c-44d2-b652-e40b3caa965d")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.75 0.75)
 					(thickness 0.15)
 				)
 			)
@@ -2178,8 +2185,8 @@
 		(at 121.38 69 90)
 		(descr "Through hole straight socket strip, 1x04, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 1x04 2.54mm single row")
-		(property "Reference" "J9"
-			(at 0 -2.77 90)
+		(property "Reference" "PGM"
+			(at 2.5 2.12 180)
 			(layer "F.SilkS")
 			(uuid "a0dc52ec-28db-49f7-ab5c-a2c436061541")
 			(effects
@@ -2453,14 +2460,15 @@
 		(at 139.5 61.17 -90)
 		(descr "GRM03_0.03 L=0.6mm W=0.3mm T=0.3mm")
 		(tags "Capacitor")
-		(property "Reference" "C7"
-			(at 0 0 90)
+		(property "Reference" "1uF"
+			(at 1.83 0 90)
 			(layer "F.SilkS")
 			(uuid "a079828e-b370-4d49-8a55-2439c7df2077")
 			(effects
 				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
+					(size 1 1)
+					(thickness 0.15)
+					(bold yes)
 				)
 			)
 		)
@@ -2726,6 +2734,7 @@
 		(property "Reference" "J8"
 			(at 0 -2.77 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "8186e6d3-f95d-4192-9f93-04daf8955bd1")
 			(effects
 				(font
@@ -2998,14 +3007,16 @@
 		(at 147.221961 60.27 180)
 		(descr "TO-18-3, generated with kicad-footprint-generator TO_SOT_THT_generate.py")
 		(tags "TO-18-3")
-		(property "Reference" "Q2"
-			(at 1.27 -4.01 0)
+		(property "Reference" "BC108"
+			(at 1.221961 -1.73 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "ad984b25-0928-4968-bc31-36a89021ec40")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.8 0.8)
 					(thickness 0.15)
+					(bold yes)
 				)
 			)
 		)
@@ -3249,6 +3260,7 @@
 		(property "Reference" "J4"
 			(at 0 -2.77 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "1b025767-5802-4baa-84f6-b49ab081659d")
 			(effects
 				(font
@@ -3521,14 +3533,15 @@
 		(at 128 41.2 -90)
 		(descr "LCENA2016MKT2R2M0NK-2")
 		(tags "Inductor")
-		(property "Reference" "L1"
-			(at 0 0 90)
+		(property "Reference" "2.2uH"
+			(at 0.3 1.5 90)
 			(layer "F.SilkS")
 			(uuid "085391e5-119c-4dcb-afa0-2fda47485620")
 			(effects
 				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
+					(size 1 1)
+					(thickness 0.15)
+					(bold yes)
 				)
 			)
 		)
@@ -3743,14 +3756,15 @@
 		(at 128.325 58.5)
 		(descr "ERJUP6")
 		(tags "Resistor")
-		(property "Reference" "R21"
-			(at 0 0 0)
+		(property "Reference" "1k"
+			(at -1.325 1.5 0)
 			(layer "F.SilkS")
 			(uuid "fb2b1af7-3dcc-41cd-b253-f8c64761ca61")
 			(effects
 				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
+					(size 1 1)
+					(thickness 0.15)
+					(bold yes)
 				)
 			)
 		)
@@ -3935,6 +3949,7 @@
 		(property "Reference" "D1"
 			(at 0 0 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "ed8ff001-a1b6-4a5a-80c4-6ecec9a26ae1")
 			(effects
 				(font
@@ -4168,6 +4183,7 @@
 		(property "Reference" "J1"
 			(at 0 -2.77 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "d28f8b72-b0c7-49da-a1f1-b7322ec502b8")
 			(effects
 				(font
@@ -4443,6 +4459,7 @@
 		(property "Reference" "D10"
 			(at 0 0 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "9e41a39f-9544-49a6-a482-6c2f33c23ab0")
 			(effects
 				(font
@@ -4673,14 +4690,15 @@
 		(at 121.5 41.175 -90)
 		(descr "GRM18x")
 		(tags "Capacitor")
-		(property "Reference" "C5"
-			(at 0 0 90)
+		(property "Reference" "1uF"
+			(at -0.175 1 270)
 			(layer "F.SilkS")
 			(uuid "26a3ee9f-c27e-419b-8b79-04ae4e5c144d")
 			(effects
 				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
+					(size 1 1)
+					(thickness 0.15)
+					(bold yes)
 				)
 			)
 		)
@@ -4956,6 +4974,7 @@
 		(property "Reference" "D16"
 			(at 0 0 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "35d4d94b-d77d-4473-8b15-cadf16ad84ed")
 			(effects
 				(font
@@ -5186,14 +5205,15 @@
 		(at 124.5 41.5 -90)
 		(descr "1210 (3225 Metric)")
 		(tags "Resistor")
-		(property "Reference" "R17"
-			(at 0 0 90)
+		(property "Reference" "100k"
+			(at 0 2 90)
 			(layer "F.SilkS")
 			(uuid "5e84cb4c-764a-49f8-9a5d-52966ac2bbae")
 			(effects
 				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
+					(size 1 1)
+					(thickness 0.15)
+					(bold yes)
 				)
 			)
 		)
@@ -5377,6 +5397,7 @@
 		(property "Reference" "J2"
 			(at 0 -2.77 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "a8cb5d79-69cd-43ef-abbd-44d89d2427d7")
 			(effects
 				(font
@@ -5649,13 +5670,14 @@
 		(at 140.7 47.296051 135)
 		(descr "TO-18-3, generated with kicad-footprint-generator TO_SOT_THT_generate.py")
 		(tags "TO-18-3")
-		(property "Reference" "Q1"
-			(at 1.27 -4.01 135)
+		(property "Reference" "BC108"
+			(at 1.411421 -0.992742 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "ee27d7cb-30be-4965-a9de-aa7c66cd72e2")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.8 0.8)
 					(thickness 0.15)
 				)
 			)
@@ -5900,6 +5922,7 @@
 		(property "Reference" "D21"
 			(at 0 0 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "ef3b8658-dda6-41ab-aac9-a489ef0c0166")
 			(effects
 				(font
@@ -6239,7 +6262,8 @@
 		(property "Reference" "D13"
 			(at 0 0 90)
 			(layer "F.SilkS")
-			(uuid "e4217f3d-a3fd-41f8-a1a9-90d324bca03e")
+			(hide yes)
+			(uuid "9feef015-1898-4877-a39f-1951e03c700d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6251,7 +6275,7 @@
 			(at 0 0 90)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "d274f501-7dfb-4ca4-942d-16bd4f13f452")
+			(uuid "91fbb15e-c8a9-4feb-8dee-7d40c177aeb6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6263,7 +6287,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "68718e9e-479a-470a-9108-1b474e79e96e")
+			(uuid "35b1fa93-3cd3-4ab5-a7ef-948bfc259815")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6275,7 +6299,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "764ae9ef-8be3-4d30-a306-e53109c9eeb7")
+			(uuid "3b714296-284c-4415-bae4-26296107e9a4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6469,14 +6493,16 @@
 		(at 135 72.5 180)
 		(descr "150060RS83000")
 		(tags "LED")
-		(property "Reference" "D9"
-			(at 0 0 0)
+		(property "Reference" "+ LED -"
+			(at 0 5 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "5dd4429b-3788-4f80-9f25-13a64f2cd5bd")
 			(effects
 				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
+					(size 0.75 0.75)
+					(thickness 0.15)
+					(bold yes)
 				)
 			)
 		)
@@ -6705,6 +6731,7 @@
 		(property "Reference" "D12"
 			(at 0 0 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "bbee9c61-918d-45db-8749-a91d9ed1be83")
 			(effects
 				(font
@@ -6938,6 +6965,7 @@
 		(property "Reference" "D6"
 			(at 0 0 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "97246d24-a109-477f-a3b8-38961f64fc5c")
 			(effects
 				(font
@@ -7171,6 +7199,7 @@
 		(property "Reference" "D15"
 			(at 0 0 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "63b60f16-b375-4a76-851b-8be79eb770d0")
 			(effects
 				(font
@@ -7404,6 +7433,7 @@
 		(property "Reference" "D11"
 			(at 0 0 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "2862f5d8-6e12-4f50-a5f6-44646252b66b")
 			(effects
 				(font
@@ -7634,8 +7664,8 @@
 		(at 127.5 46.905)
 		(descr "SOIC, 8 Pin (JEITA/EIAJ ED-7311-19 variation 08-001-BBA and Atmel/Microchip, 208 mils width, https://www.jeita.or.jp/japanese/standard/book/ED-7311-19/#target/page_no=21, https://ww1.microchip.com/downloads/en/DeviceDoc/20005045C.pdf#page=23, https://ww1.microchip.com/downloads/en/DeviceDoc/doc2535.pdf#page=162), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOIC SO P-SOP SOP SOP-8 SO SO-8 8S2 S2AE/F K04-056 CASE-751BE SO8W 8-Pin-SOIC PSA W8-2 W8-4 W8MS-1 FPT-8P-M08")
-		(property "Reference" "U5"
-			(at 0 -3.6 0)
+		(property "Reference" "MEM"
+			(at 0 0.095 0)
 			(layer "F.SilkS")
 			(uuid "63f23693-fcfa-4126-b771-fe7f28a7ecc9")
 			(effects
@@ -8002,6 +8032,7 @@
 		(property "Reference" "J6"
 			(at 0 -2.77 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "f13eddbe-98fe-4d97-a131-c766a702df19")
 			(effects
 				(font
@@ -8277,6 +8308,7 @@
 		(property "Reference" "U1"
 			(at 0 -4.83 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "89965260-eb6a-40fb-b907-7ec7ab92ef5a")
 			(effects
 				(font
@@ -9258,14 +9290,15 @@
 		(at 138 60.8 -90)
 		(descr "C0805F104K")
 		(tags "Capacitor")
-		(property "Reference" "C6"
-			(at 0 0 90)
+		(property "Reference" "0.1uF"
+			(at 3.7 0 270)
 			(layer "F.SilkS")
 			(uuid "9c4f2837-afcb-4a75-8c5d-d35aa424c54e")
 			(effects
 				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
+					(size 1 1)
+					(thickness 0.15)
+					(bold yes)
 				)
 			)
 		)
@@ -9531,6 +9564,7 @@
 		(property "Reference" "J5"
 			(at 0 -2.77 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "53a66f9e-6cc3-4e40-b7a8-80c16f4029f8")
 			(effects
 				(font
@@ -9806,6 +9840,7 @@
 		(property "Reference" "D17"
 			(at 0 0 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "bf92b4d6-32ee-4163-86d1-b95ed9b3101a")
 			(effects
 				(font
@@ -10145,6 +10180,7 @@
 		(property "Reference" "J7"
 			(at 0 -2.77 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "9bc8439d-b853-466f-9b17-fda6a62eaa5d")
 			(effects
 				(font
@@ -10417,14 +10453,16 @@
 		(at 129.5 62.5 -90)
 		(descr "TO-18-3, generated with kicad-footprint-generator TO_SOT_THT_generate.py")
 		(tags "TO-18-3")
-		(property "Reference" "Q3"
-			(at 1.27 -4.01 90)
+		(property "Reference" "BC108"
+			(at 1.27 -1.5 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "7c68a4d9-eb2b-4326-8141-07a293a27115")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.75 0.75)
 					(thickness 0.15)
+					(bold yes)
 				)
 			)
 		)
@@ -10668,6 +10706,7 @@
 		(property "Reference" "J3"
 			(at 0 -2.77 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "46b6b8b8-a567-4070-bc13-9afd7bc32071")
 			(effects
 				(font
@@ -10940,14 +10979,16 @@
 		(at 123.5 60 180)
 		(descr "TO-18-3, generated with kicad-footprint-generator TO_SOT_THT_generate.py")
 		(tags "TO-18-3")
-		(property "Reference" "Q4"
-			(at 1.27 -4.01 0)
+		(property "Reference" "BC108"
+			(at 1.27 -1.5 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "d6ebbd10-f406-48f0-88f5-065ba6a57f15")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.8 0.8)
 					(thickness 0.15)
+					(bold yes)
 				)
 			)
 		)
@@ -11191,7 +11232,8 @@
 		(property "Reference" "D14"
 			(at 0 0 90)
 			(layer "F.SilkS")
-			(uuid "ebac8d86-b313-47c4-bfc7-c666d8c24b6f")
+			(hide yes)
+			(uuid "873737c3-70d3-47c6-b98e-5dd040e3e305")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11203,7 +11245,7 @@
 			(at 0 0 90)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "a72f9b7f-408b-4789-97a6-e40e12d9e66f")
+			(uuid "64b1248e-bfbf-4f5e-b650-790e0a5638de")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11215,7 +11257,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0bfc04d2-298d-49cf-a296-4984ecc1b6be")
+			(uuid "29f6fb7c-e87f-49e0-9f7d-cd6a765f27aa")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11227,7 +11269,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f4ea0edf-922a-4901-916c-b4b6b6113673")
+			(uuid "a89fb24a-47d2-4a7b-b076-8e95a3cba0c5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11424,6 +11466,7 @@
 		(property "Reference" "D7"
 			(at 0 0 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "4bb20867-39bc-48a3-9811-beae2c4d519c")
 			(effects
 				(font
@@ -11654,14 +11697,14 @@
 		(at 124.5 56.5 90)
 		(descr "TNPW0805 e3")
 		(tags "Resistor")
-		(property "Reference" "R15"
-			(at 0 0 90)
+		(property "Reference" "200"
+			(at 0 -1.5 90)
 			(layer "B.SilkS")
 			(uuid "728b69f5-1ca6-4ae9-a0e6-bb64dd65686a")
 			(effects
 				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -11847,14 +11890,14 @@
 		(at 135 65.5 180)
 		(descr "TNPW0805 e3")
 		(tags "Resistor")
-		(property "Reference" "R11"
-			(at 0 0 0)
+		(property "Reference" "200"
+			(at 0 -2 0)
 			(layer "B.SilkS")
 			(uuid "f742123f-84cf-49d5-8cae-064686b70d86")
 			(effects
 				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -12607,7 +12650,8 @@
 		(property "Reference" "R7"
 			(at 0 0 90)
 			(layer "B.SilkS")
-			(uuid "490b7097-b560-48af-9272-25f93773d567")
+			(hide yes)
+			(uuid "dc0d71ed-ed36-4881-867b-8d64b71672fe")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12620,7 +12664,7 @@
 			(at 0 0 90)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "d7ba3f68-b9df-4ea2-ae6b-60c77b70cc50")
+			(uuid "5375e3e1-d170-46cb-8ce5-af789f953685")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12633,7 +12677,7 @@
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c482609a-a964-4224-b96b-cf900184dd8e")
+			(uuid "baab6ce7-d2fa-413a-939d-09f90b8af8e3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12646,7 +12690,7 @@
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c01b39e0-d254-4f67-a2fe-f9c0b9b5a30d")
+			(uuid "ebedde5d-6b94-4998-b476-5040e86b052d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12800,6 +12844,7 @@
 		(property "Reference" "R10"
 			(at 0 0 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "c7c36284-c7c7-432b-bb5d-73918409fdb4")
 			(effects
 				(font
@@ -12990,14 +13035,14 @@
 		(at 132.58 39.82 90)
 		(descr "GRM15_0.10 L=1.0mm W=0.5mm T=0.5mm")
 		(tags "Capacitor")
-		(property "Reference" "C1"
-			(at 0 0 90)
+		(property "Reference" "10uF"
+			(at -0.18 1.42 270)
 			(layer "B.SilkS")
 			(uuid "1d67eb12-7c55-4f62-8ec2-69407d9146ec")
 			(effects
 				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -13272,14 +13317,14 @@
 		(at 134.5 56.8 90)
 		(descr "C0805F104K")
 		(tags "Capacitor")
-		(property "Reference" "C2"
-			(at 0 0 90)
+		(property "Reference" "0.1uF"
+			(at -0.2 0 90)
 			(layer "B.SilkS")
 			(uuid "7a71654e-0991-4535-a18b-a0b00cb9bb90")
 			(effects
 				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -13839,6 +13884,7 @@
 		(property "Reference" "R9"
 			(at 0 0 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "d7645ad9-44bb-4be6-8bbf-74e6543fb4a7")
 			(effects
 				(font
@@ -14029,14 +14075,14 @@
 		(at 149 53.5 -90)
 		(descr "TNPW0805 e3")
 		(tags "Resistor")
-		(property "Reference" "R6"
-			(at 0 0 90)
+		(property "Reference" "200"
+			(at 0 1.5 90)
 			(layer "B.SilkS")
 			(uuid "4a76a061-133f-4d7c-b334-5a5e77b69e94")
 			(effects
 				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -14222,14 +14268,14 @@
 		(at 136.5 37.5 180)
 		(descr "TNPW0805 e3")
 		(tags "Resistor")
-		(property "Reference" "R1"
-			(at 0 0 0)
+		(property "Reference" "200"
+			(at 0 -5.5 0)
 			(layer "B.SilkS")
 			(uuid "fe4475ac-baf7-4275-93e8-a17c9579dfc3")
 			(effects
 				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -14415,14 +14461,14 @@
 		(at 149.2 40.5)
 		(descr "C0805F104K")
 		(tags "Capacitor")
-		(property "Reference" "C3"
-			(at 0 0 0)
+		(property "Reference" "0.1uF"
+			(at 2.3 -1.5 0)
 			(layer "B.SilkS")
 			(uuid "cf7c1fd3-a7c4-412a-bd78-ffbb6429a429")
 			(effects
 				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -14697,14 +14743,14 @@
 		(at 145.5 41.5 90)
 		(descr "DO-214AA (SMB)")
 		(tags "TVS Diode (Uni-directional)")
-		(property "Reference" "D19"
-			(at 0 0 90)
+		(property "Reference" "TVS"
+			(at 0 0 0)
 			(layer "B.SilkS")
 			(uuid "7eb5f0eb-62db-4757-a74d-456e28eefaba")
 			(effects
 				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -15012,6 +15058,7 @@
 		(property "Reference" "D18"
 			(at 0 0 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "422e033e-2f08-4250-86eb-630c0baf96ba")
 			(effects
 				(font
@@ -15363,6 +15410,7 @@
 		(property "Reference" "R16"
 			(at 0 0 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "0fbca22c-a57a-4873-bad5-4dcffec48205")
 			(effects
 				(font
@@ -15838,6 +15886,7 @@
 		(property "Reference" "R8"
 			(at 0 0 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "26522d5e-bfc6-426d-b303-eba1bbe9985b")
 			(effects
 				(font
@@ -16310,14 +16359,14 @@
 		(at 143 50 180)
 		(descr "ERJUP6")
 		(tags "Resistor")
-		(property "Reference" "R18"
-			(at 0 0 0)
+		(property "Reference" "1k"
+			(at -3 0 180)
 			(layer "B.SilkS")
 			(uuid "e8d4d083-5f8b-440a-aaa4-c6f354e00597")
 			(effects
 				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -16507,6 +16556,7 @@
 		(property "Reference" "R13"
 			(at 0 0 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "88c91bf8-5f5a-4057-8628-4246d9267543")
 			(effects
 				(font
@@ -16700,6 +16750,7 @@
 		(property "Reference" "R5"
 			(at 0 0 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "8cffdc11-a359-4d92-baab-ea0016c2c765")
 			(effects
 				(font
@@ -16893,6 +16944,7 @@
 		(property "Reference" "R2"
 			(at 0 0 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "ef1e8993-bad8-44c0-b108-e9df9ab246f8")
 			(effects
 				(font
@@ -17083,14 +17135,14 @@
 		(at 141.325 59.5 180)
 		(descr "ERJUP6")
 		(tags "Resistor")
-		(property "Reference" "R19"
-			(at 0 0 0)
+		(property "Reference" "1k"
+			(at -1.175 1.5 180)
 			(layer "B.SilkS")
 			(uuid "0b9e94c4-7089-4162-a5ac-26d795a2f2b4")
 			(effects
 				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -17838,14 +17890,14 @@
 		(at 131.5 61.675 90)
 		(descr "ERJUP6")
 		(tags "Resistor")
-		(property "Reference" "R20"
-			(at 0 0 90)
+		(property "Reference" "1k"
+			(at 2.675 0 90)
 			(layer "B.SilkS")
 			(uuid "af2bd392-00f0-4661-9ab1-e352a6b29369")
 			(effects
 				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -18035,6 +18087,7 @@
 		(property "Reference" "R4"
 			(at 0 0 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "6ee054f8-8cf0-4db2-ace4-7b2998624a1a")
 			(effects
 				(font
@@ -18228,6 +18281,7 @@
 		(property "Reference" "R14"
 			(at 0 0 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "ba0e2a78-3c96-47a9-ba79-6155a7fb0673")
 			(effects
 				(font
@@ -18421,6 +18475,7 @@
 		(property "Reference" "D20"
 			(at 0 0 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "8ad4089e-8964-449b-b687-67b669a82579")
 			(effects
 				(font
@@ -18769,14 +18824,14 @@
 		(at 150.5 43.5 -90)
 		(descr "GRM18x")
 		(tags "Capacitor")
-		(property "Reference" "C4"
-			(at 0 0 90)
+		(property "Reference" "22uF"
+			(at 3 0 270)
 			(layer "B.SilkS")
 			(uuid "5abe125e-d3f1-430c-b7fc-0b439d359fdd")
 			(effects
 				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -19064,6 +19119,7 @@
 		(property "Reference" "R3"
 			(at 0 0 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "f3d2bd28-1dcc-4c90-8f93-750d14039956")
 			(effects
 				(font
@@ -19539,6 +19595,7 @@
 		(property "Reference" "R12"
 			(at 0 0 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "14750610-b970-4600-9fb8-0ab4d9f5d357")
 			(effects
 				(font
@@ -19802,6 +19859,18 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "ea5fec56-64fe-4a31-8fa6-46477aa41f74")
+	)
+	(gr_text "+"
+		(at 133.5 61 0)
+		(layer "F.SilkS")
+		(uuid "7d9608da-a54e-4717-a3cf-2a76ad3a692b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+				(bold yes)
+			)
+		)
 	)
 	(segment
 		(start 132.5 40)
