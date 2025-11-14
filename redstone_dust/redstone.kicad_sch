@@ -7857,7 +7857,7 @@
 		(uuid "6fbb11ec-fe78-42f5-b77d-15b9f6375042")
 	)
 	(label "W_TX"
-		(at 128.27 88.9 0)
+		(at 128.27 86.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7887,7 +7887,7 @@
 		(uuid "90d455bf-414f-4adc-b6ca-632cd7d24574")
 	)
 	(label "W_RX"
-		(at 128.27 86.36 0)
+		(at 128.27 88.9 0)
 		(effects
 			(font
 				(size 1.27 1.27)
