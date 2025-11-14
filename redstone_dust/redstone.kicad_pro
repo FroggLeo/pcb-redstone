@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 0.3,
+          "height": 0.6,
+          "width": 0.6
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -52,7 +52,12 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "starved_thermal|137000000|54300000|81840739-c939-4dc2-b81e-8b74be7b4cbe|39bc1d02-553c-4763-9934-b3ab7f641f32|B.Cu",
+          "add thick trace to provide electrical connection"
+        ]
+      ],
       "meta": {
         "version": 2
       },
