@@ -4150,7 +4150,7 @@
 		(at 124.5 41.5 -90)
 		(descr "1210 (3225 Metric)")
 		(tags "Resistor")
-		(property "Reference" "R17"
+		(property "Reference" "100k"
 			(at 2 3.5 180)
 			(layer "F.SilkS")
 			(uuid "d895e1d4-171c-4882-b175-2bf9b7c3b987")
@@ -12911,18 +12911,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "ea5fec56-64fe-4a31-8fa6-46477aa41f74")
-	)
-	(gr_text "+"
-		(at 133.5 61 0)
-		(layer "F.SilkS")
-		(uuid "7d9608da-a54e-4717-a3cf-2a76ad3a692b")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-				(bold yes)
-			)
-		)
 	)
 	(gr_text "PGM"
 		(at 119.5 67 0)
