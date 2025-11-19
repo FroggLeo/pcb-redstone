@@ -4043,7 +4043,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Transistor_BJT:BC108"
+		(symbol "Transistor_BJT:MMBT3904"
 			(pin_names
 				(offset 0)
 				(hide yes)
@@ -4060,7 +4060,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "BC108"
+			(property "Value" "MMBT3904"
 				(at 5.08 0 0)
 				(effects
 					(font
@@ -4069,7 +4069,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Package_TO_SOT_THT:TO-18-3"
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 				(at 5.08 -1.905 0)
 				(effects
 					(font
@@ -4080,7 +4080,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "http://www.b-kainka.de/Daten/Transistor/BC108.pdf"
+			(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/pzt3904-d.pdf"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4090,7 +4090,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "0.1A Ic, 30V Vce, Low Noise General Purpose NPN Transistor, TO-18"
+			(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4099,7 +4099,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "NPN low noise transistor"
+			(property "ki_keywords" "NPN Transistor"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4108,7 +4108,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "TO?18*"
+			(property "ki_fp_filters" "SOT?23*"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4117,7 +4117,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "BC108_0_1"
+			(symbol "MMBT3904_0_1"
 				(polyline
 					(pts
 						(xy -2.54 0) (xy 0.635 0)
@@ -4154,7 +4154,7 @@
 					)
 				)
 			)
-			(symbol "BC108_1_1"
+			(symbol "MMBT3904_1_1"
 				(polyline
 					(pts
 						(xy 0.635 0.635) (xy 2.54 2.54)
@@ -4201,7 +4201,7 @@
 							)
 						)
 					)
-					(number "2"
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4237,7 +4237,7 @@
 							)
 						)
 					)
-					(number "1"
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4745,12 +4745,6 @@
 		(uuid "54ac1ea4-f3b9-4bff-95c2-ddbe4ffc4fa0")
 	)
 	(junction
-		(at 186.69 30.48)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5605a307-dcfb-404a-bec3-335f7a8ff30d")
-	)
-	(junction
 		(at 260.35 62.23)
 		(diameter 0)
 		(color 194 0 0 1)
@@ -4811,6 +4805,12 @@
 		(uuid "7c8f0c74-ab8f-4d9f-aa7f-b89f3f1356a0")
 	)
 	(junction
+		(at 166.37 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "806187a2-0cf6-436a-a75f-8e434f0f256a")
+	)
+	(junction
 		(at 257.81 125.73)
 		(diameter 0)
 		(color 0 0 0 1)
@@ -4863,6 +4863,12 @@
 		(diameter 0)
 		(color 0 0 0 1)
 		(uuid "9fe20b75-e5f9-429b-a395-ab4aa09d2532")
+	)
+	(junction
+		(at 186.69 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a5537377-ea3a-4132-8bf2-9ad94d1d512b")
 	)
 	(junction
 		(at 207.01 30.48)
@@ -4971,12 +4977,6 @@
 		(diameter 0)
 		(color 255 153 0 1)
 		(uuid "d135a939-06a5-4260-96fc-654bb6fe9283")
-	)
-	(junction
-		(at 166.37 40.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d5d08f9a-34f1-48fe-969e-6a0895adaa51")
 	)
 	(junction
 		(at 166.37 44.45)
@@ -5295,17 +5295,6 @@
 			(type default)
 		)
 		(uuid "0f70f6a4-7de2-484b-acf2-6d7fce7937b0")
-	)
-	(wire
-		(pts
-			(xy 166.37 39.37) (xy 166.37 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(uuid "0fbed3b1-4707-425b-83d4-7e1232c7841d")
 	)
 	(wire
 		(pts
@@ -5661,7 +5650,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 35.56) (xy 179.07 43.18)
+			(xy 181.61 38.1) (xy 181.61 45.72)
 		)
 		(stroke
 			(width 0)
@@ -5986,7 +5975,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 50.8) (xy 179.07 144.78)
+			(xy 181.61 53.34) (xy 181.61 144.78)
 		)
 		(stroke
 			(width 0)
@@ -6754,7 +6743,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 144.78) (xy 128.27 144.78)
+			(xy 181.61 144.78) (xy 128.27 144.78)
 		)
 		(stroke
 			(width 0)
@@ -6808,7 +6797,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 40.64) (xy 166.37 44.45)
+			(xy 166.37 39.37) (xy 166.37 44.45)
 		)
 		(stroke
 			(width 0)
@@ -6827,6 +6816,16 @@
 			(color 0 0 0 1)
 		)
 		(uuid "e0c3277a-ee7b-472b-ba44-ffc70dbd042d")
+	)
+	(wire
+		(pts
+			(xy 176.53 39.37) (xy 166.37 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e15c61b4-b29a-413b-b3e2-7bff4cf6b832")
 	)
 	(wire
 		(pts
@@ -6904,16 +6903,6 @@
 			(color 255 0 0 1)
 		)
 		(uuid "e8852e1b-5314-4a96-8c11-616be96a29e3")
-	)
-	(wire
-		(pts
-			(xy 166.37 40.64) (xy 186.69 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e93ee6ae-36cc-483d-9035-1cf8dffa469b")
 	)
 	(wire
 		(pts
@@ -7066,6 +7055,16 @@
 			(color 0 0 0 1)
 		)
 		(uuid "f7858a60-ad9b-49e4-a376-f909adc7349a")
+	)
+	(wire
+		(pts
+			(xy 176.53 30.48) (xy 176.53 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f798d2fd-b37f-43d0-91a2-5cc12232139d")
 	)
 	(wire
 		(pts
@@ -8869,7 +8868,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 179.07 46.99 0)
+		(at 181.61 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8877,7 +8876,7 @@
 		(dnp no)
 		(uuid "60a990a9-8ef7-46bc-849c-a05983d5382c")
 		(property "Reference" "R5"
-			(at 176.53 45.7199 0)
+			(at 179.07 48.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8886,7 +8885,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 176.53 48.2599 0)
+			(at 179.07 50.7999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8895,7 +8894,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:ERJ-UP6D1001V"
-			(at 177.292 46.99 90)
+			(at 179.832 49.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8904,7 +8903,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 179.07 46.99 0)
+			(at 181.61 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8913,7 +8912,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 179.07 46.99 0)
+			(at 181.61 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9802,35 +9801,34 @@
 		)
 	)
 	(symbol
-		(lib_id "Transistor_BJT:BC108")
-		(at 184.15 35.56 0)
+		(lib_id "Transistor_BJT:MMBT3904")
+		(at 181.61 33.02 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "8a26d74f-bbc9-41f4-a442-935e3b9e94b2")
-		(property "Reference" "Q1"
-			(at 189.23 34.2899 0)
+		(uuid "868cc047-2ed0-486b-9b6d-a56753bd6453")
+		(property "Reference" "Q2"
+			(at 181.61 24.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "BC108"
-			(at 189.23 36.8299 0)
+		(property "Value" "MMBT3904"
+			(at 181.61 26.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-18-3"
-			(at 189.23 37.465 0)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 179.705 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9840,8 +9838,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.b-kainka.de/Daten/Transistor/BC108.pdf"
-			(at 184.15 35.56 0)
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/pzt3904-d.pdf"
+			(at 181.61 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9850,8 +9848,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1A Ic, 30V Vce, Low Noise General Purpose NPN Transistor, TO-18"
-			(at 184.15 35.56 0)
+		(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"
+			(at 181.61 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9859,19 +9857,19 @@
 				(hide yes)
 			)
 		)
+		(pin "3"
+			(uuid "c0ec65a0-1e99-4c17-abf2-597aed6024ed")
+		)
 		(pin "2"
-			(uuid "8fa4b65d-6279-4f47-8d81-ca473fd31a51")
+			(uuid "5610e34b-ec7c-43ac-87f9-21057ec5e8b9")
 		)
 		(pin "1"
-			(uuid "7a6c7715-e523-4028-9db4-699605881a96")
-		)
-		(pin "3"
-			(uuid "f5f8aea6-4183-455d-840e-59294cfa37a9")
+			(uuid "fba505fc-b04e-46f3-964c-65981051781e")
 		)
 		(instances
 			(project ""
 				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "Q1")
+					(reference "Q2")
 					(unit 1)
 				)
 			)

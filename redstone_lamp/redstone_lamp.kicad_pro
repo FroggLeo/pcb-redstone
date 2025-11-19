@@ -469,7 +469,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "redstone.kicad_pro",
+    "filename": "redstone_lamp.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -504,7 +504,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "./",
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
