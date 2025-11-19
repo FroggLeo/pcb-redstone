@@ -4043,7 +4043,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Transistor_BJT:BC108"
+		(symbol "Transistor_BJT:MMBT3904"
 			(pin_names
 				(offset 0)
 				(hide yes)
@@ -4060,7 +4060,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "BC108"
+			(property "Value" "MMBT3904"
 				(at 5.08 0 0)
 				(effects
 					(font
@@ -4069,7 +4069,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Package_TO_SOT_THT:TO-18-3"
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 				(at 5.08 -1.905 0)
 				(effects
 					(font
@@ -4080,7 +4080,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "http://www.b-kainka.de/Daten/Transistor/BC108.pdf"
+			(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/pzt3904-d.pdf"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4090,7 +4090,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "0.1A Ic, 30V Vce, Low Noise General Purpose NPN Transistor, TO-18"
+			(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4099,7 +4099,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "NPN low noise transistor"
+			(property "ki_keywords" "NPN Transistor"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4108,7 +4108,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "TO?18*"
+			(property "ki_fp_filters" "SOT?23*"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4117,7 +4117,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "BC108_0_1"
+			(symbol "MMBT3904_0_1"
 				(polyline
 					(pts
 						(xy -2.54 0) (xy 0.635 0)
@@ -4154,7 +4154,7 @@
 					)
 				)
 			)
-			(symbol "BC108_1_1"
+			(symbol "MMBT3904_1_1"
 				(polyline
 					(pts
 						(xy 0.635 0.635) (xy 2.54 2.54)
@@ -4201,7 +4201,7 @@
 							)
 						)
 					)
-					(number "2"
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4237,7 +4237,7 @@
 							)
 						)
 					)
-					(number "1"
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4589,12 +4589,6 @@
 		(uuid "01384ee7-efe8-428e-b3a2-954b1c678b30")
 	)
 	(junction
-		(at 186.69 30.48)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "02e00e1a-3bd7-4129-8f29-b7fce6cae76e")
-	)
-	(junction
 		(at 262.89 97.79)
 		(diameter 0)
 		(color 194 194 0 1)
@@ -4671,6 +4665,12 @@
 		(diameter 0)
 		(color 255 0 0 1)
 		(uuid "2301ba4b-ca78-4d86-9f51-354072ef0a84")
+	)
+	(junction
+		(at 186.69 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "245d240d-f01f-4877-8bb8-53f2c71c01a4")
 	)
 	(junction
 		(at 265.43 100.33)
@@ -4805,10 +4805,22 @@
 		(uuid "5b304424-9811-4109-b928-8ac495e571e4")
 	)
 	(junction
+		(at 176.53 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5e23fe68-448c-4daa-85d1-4cf0db0c6d91")
+	)
+	(junction
 		(at 186.69 16.51)
 		(diameter 0)
 		(color 255 0 0 1)
 		(uuid "61c87cc4-be43-4013-8f5a-b77f62229a9a")
+	)
+	(junction
+		(at 176.53 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6635b664-95fe-45a8-a51f-885845a9445a")
 	)
 	(junction
 		(at 196.85 16.51)
@@ -4835,22 +4847,16 @@
 		(uuid "6afcfa0e-2ddf-4c7f-97da-386234bf6347")
 	)
 	(junction
+		(at 176.53 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7040e341-839f-4cd3-9d64-a580375f82b1")
+	)
+	(junction
 		(at 242.57 62.23)
 		(diameter 0)
 		(color 0 0 0 1)
 		(uuid "7140c684-24be-4a7c-aaa0-c917b97914a9")
-	)
-	(junction
-		(at 176.53 63.5)
-		(diameter 0)
-		(color 0 0 0 1)
-		(uuid "75f17631-8c7d-4df6-a7e9-4e6fd82ed675")
-	)
-	(junction
-		(at 176.53 46.99)
-		(diameter 0)
-		(color 0 0 0 1)
-		(uuid "76551d7f-233e-4691-a219-91d91b539fc6")
 	)
 	(junction
 		(at 260.35 118.11)
@@ -4901,16 +4907,16 @@
 		(uuid "8902e8d5-7db1-4ce6-854c-5913a84d4b70")
 	)
 	(junction
+		(at 186.69 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8b393b78-886b-474d-bb06-10f535421d56")
+	)
+	(junction
 		(at 247.65 21.59)
 		(diameter 0)
 		(color 194 0 0 1)
 		(uuid "9191e78d-a241-4d2b-92b5-fcf1d55a34d9")
-	)
-	(junction
-		(at 186.69 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "92587d7b-14af-4830-ade6-ff2a81655966")
 	)
 	(junction
 		(at 265.43 67.31)
@@ -4959,12 +4965,6 @@
 		(diameter 0)
 		(color 255 0 0 1)
 		(uuid "a4f3af62-3be1-4717-be4e-8723538e1583")
-	)
-	(junction
-		(at 176.53 80.01)
-		(diameter 0)
-		(color 0 0 0 1)
-		(uuid "a4f42860-3caa-4d28-97a2-a83e063a55c9")
 	)
 	(junction
 		(at 154.94 173.99)
@@ -5027,12 +5027,6 @@
 		(uuid "b59d7a99-0343-4e86-b50c-a373b5a52736")
 	)
 	(junction
-		(at 186.69 46.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b73be854-a439-473c-8215-b431fd72b9a5")
-	)
-	(junction
 		(at 257.81 54.61)
 		(diameter 0)
 		(color 0 0 0 1)
@@ -5067,12 +5061,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c3292ffc-bbcb-4e22-a715-35c1e91f3fb3")
-	)
-	(junction
-		(at 186.69 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cb36fdb4-29d9-4ea3-9b1a-063bd79ffddb")
 	)
 	(junction
 		(at 97.79 67.31)
@@ -5117,10 +5105,22 @@
 		(uuid "d7f5fe3f-0211-4707-824b-770653c4e8a6")
 	)
 	(junction
+		(at 186.69 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e177e0e9-b444-42fe-8013-62a2a0540123")
+	)
+	(junction
 		(at 139.7 44.45)
 		(diameter 0)
 		(color 0 0 0 1)
 		(uuid "e7569c6d-545f-4a0b-ae23-3349cc439259")
+	)
+	(junction
+		(at 186.69 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e9ee125c-1572-4408-9f1f-4112a40eb536")
 	)
 	(junction
 		(at 264.16 29.21)
@@ -6202,7 +6202,7 @@
 			(type default)
 			(color 0 0 0 1)
 		)
-		(uuid "55a6617b-48b5-4668-8b8c-f8a56c25b46e")
+		(uuid "571267e0-7bf6-4db3-bae7-0b855e4fd49b")
 	)
 	(wire
 		(pts
@@ -6236,28 +6236,6 @@
 			(color 0 194 194 1)
 		)
 		(uuid "5b84f5f3-36d8-4e2a-a4a4-b67b14a45775")
-	)
-	(wire
-		(pts
-			(xy 176.53 63.5) (xy 176.53 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(uuid "5c135079-96c1-4eed-ad65-fc37d40f5d41")
-	)
-	(wire
-		(pts
-			(xy 176.53 30.48) (xy 176.53 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(uuid "5d261ecb-cce9-4413-82f7-998642ee1ad4")
 	)
 	(wire
 		(pts
@@ -6505,6 +6483,17 @@
 			(type default)
 		)
 		(uuid "6e5fab89-223e-49bb-b6eb-dfee631d5d6a")
+	)
+	(wire
+		(pts
+			(xy 176.53 80.01) (xy 176.53 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "6f70f8cd-c09e-4991-ae4a-0fb2ba7aabd6")
 	)
 	(wire
 		(pts
@@ -7490,6 +7479,17 @@
 	)
 	(wire
 		(pts
+			(xy 176.53 63.5) (xy 176.53 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "e313c7a3-a13f-422f-bb02-8803904381ac")
+	)
+	(wire
+		(pts
 			(xy 48.26 16.51) (xy 48.26 57.15)
 		)
 		(stroke
@@ -7545,7 +7545,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 80.01) (xy 176.53 161.29)
+			(xy 176.53 30.48) (xy 176.53 46.99)
 		)
 		(stroke
 			(width 0)
@@ -10589,81 +10589,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Transistor_BJT:BC108")
-		(at 181.61 82.55 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "662d52bd-1e47-42c5-94cd-f8e2e38e3650")
-		(property "Reference" "Q4"
-			(at 181.61 73.66 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "BC108"
-			(at 181.61 76.2 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-18-3"
-			(at 179.705 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.b-kainka.de/Daten/Transistor/BC108.pdf"
-			(at 181.61 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "0.1A Ic, 30V Vce, Low Noise General Purpose NPN Transistor, TO-18"
-			(at 181.61 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ef6965ee-9766-4242-8685-7c20b4c8e562")
-		)
-		(pin "3"
-			(uuid "c31950d0-241c-4c86-947c-0aa2bddf42b2")
-		)
-		(pin "1"
-			(uuid "60c4e1f8-1ccb-406d-a1b6-e80dba18c9cd")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "Q4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED")
 		(at 186.69 74.93 90)
 		(unit 1)
@@ -10737,6 +10662,81 @@
 			(project "redstone"
 				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
 					(reference "D13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_BJT:MMBT3904")
+		(at 181.61 66.04 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "68f25e03-7f7f-4617-8601-f58ad609a8c8")
+		(property "Reference" "Q3"
+			(at 181.61 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MMBT3904"
+			(at 181.61 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 179.705 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/pzt3904-d.pdf"
+			(at 181.61 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"
+			(at 181.61 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "f1d997f1-feec-4f52-8a13-376339ff4972")
+		)
+		(pin "1"
+			(uuid "346be3c0-0eff-4cbf-9761-0af6e446340c")
+		)
+		(pin "2"
+			(uuid "c29f8444-da5f-4fc9-b056-0e5193865040")
+		)
+		(instances
+			(project "redstone"
+				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
+					(reference "Q3")
 					(unit 1)
 				)
 			)
@@ -11538,81 +11538,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Transistor_BJT:BC108")
-		(at 181.61 49.53 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7c188a1a-b73d-42f7-9860-f637337514b3")
-		(property "Reference" "Q2"
-			(at 181.61 40.64 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "BC108"
-			(at 181.61 43.18 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-18-3"
-			(at 179.705 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.b-kainka.de/Daten/Transistor/BC108.pdf"
-			(at 181.61 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "0.1A Ic, 30V Vce, Low Noise General Purpose NPN Transistor, TO-18"
-			(at 181.61 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "03a0a3c7-03f8-4b21-bed2-f3fc6471d09c")
-		)
-		(pin "3"
-			(uuid "6e857555-5f7f-43f3-a41f-ee185f4f67a4")
-		)
-		(pin "1"
-			(uuid "b0bec403-131e-454a-aae3-7253ee482477")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "Q2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector_Generic_MountingPin:Conn_01x04_MountingPin")
 		(at 270.51 85.09 0)
 		(mirror x)
@@ -12002,81 +11927,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Transistor_BJT:BC108")
-		(at 181.61 66.04 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8d1a7839-358f-49ed-83f3-6f04800ba83a")
-		(property "Reference" "Q3"
-			(at 181.61 57.15 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "BC108"
-			(at 181.61 59.69 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-18-3"
-			(at 179.705 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.b-kainka.de/Daten/Transistor/BC108.pdf"
-			(at 181.61 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "0.1A Ic, 30V Vce, Low Noise General Purpose NPN Transistor, TO-18"
-			(at 181.61 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "39636e1f-898a-4f65-b3a7-0d7bbc2df68b")
-		)
-		(pin "3"
-			(uuid "42b5b1c7-8704-4f3e-80c4-c180aa30bfb3")
-		)
-		(pin "1"
-			(uuid "389d3b06-e632-403b-9fdb-22d4496c4803")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "Q3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "SamacSys_Parts:GRM033D70E105ME15D")
 		(at 95.25 45.72 0)
 		(mirror y)
@@ -12435,80 +12285,6 @@
 			(project ""
 				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
 					(reference "U5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Transistor_BJT:BC108")
-		(at 181.61 33.02 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "99ff9b8f-f2f3-41be-a9ac-47ab2820c06f")
-		(property "Reference" "Q1"
-			(at 181.61 24.13 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "BC108"
-			(at 181.61 26.67 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-18-3"
-			(at 179.705 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.b-kainka.de/Daten/Transistor/BC108.pdf"
-			(at 181.61 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "0.1A Ic, 30V Vce, Low Noise General Purpose NPN Transistor, TO-18"
-			(at 181.61 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "9e91ece0-64d2-4132-a43c-ab7c363132a9")
-		)
-		(pin "3"
-			(uuid "bf8f65fb-19bb-466c-9e66-0dff1b460eb0")
-		)
-		(pin "1"
-			(uuid "1e3cf0d8-0c25-47b6-b30f-ad1098f36a46")
-		)
-		(instances
-			(project ""
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "Q1")
 					(unit 1)
 				)
 			)
@@ -13667,6 +13443,81 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_BJT:MMBT3904")
+		(at 181.61 82.55 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c9940538-0d08-48fa-9afb-a73f5c1cbfc9")
+		(property "Reference" "Q4"
+			(at 181.61 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MMBT3904"
+			(at 181.61 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 179.705 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/pzt3904-d.pdf"
+			(at 181.61 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"
+			(at 181.61 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "d18d5735-f238-451f-8a9c-059783ab3b47")
+		)
+		(pin "1"
+			(uuid "afdf8c42-0b6f-4900-935c-f084ca7ba9e4")
+		)
+		(pin "2"
+			(uuid "a7ea727d-8f06-40a0-ab5a-3ce4628fb695")
+		)
+		(instances
+			(project "redstone"
+				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
+					(reference "Q4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:L")
 		(at 135.89 26.67 90)
 		(unit 1)
@@ -14114,6 +13965,81 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_BJT:MMBT3904")
+		(at 181.61 33.02 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e2bdbb59-e4cc-423b-a2d4-c9d003f695bf")
+		(property "Reference" "Q1"
+			(at 181.61 24.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MMBT3904"
+			(at 181.61 26.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 179.705 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/pzt3904-d.pdf"
+			(at 181.61 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"
+			(at 181.61 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "fec2e6cf-d048-4fe1-81b0-03af633af707")
+		)
+		(pin "1"
+			(uuid "2633425b-9c50-4bc9-a871-3b5a0ca9f275")
+		)
+		(pin "2"
+			(uuid "de522035-a2c8-4d62-a432-ea4db20f5b57")
+		)
+		(instances
+			(project "redstone"
+				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
+					(reference "Q1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Generic_MountingPin:Conn_01x04_MountingPin")
 		(at 270.51 128.27 0)
 		(unit 1)
@@ -14187,6 +14113,81 @@
 			(project "redstone"
 				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
 					(reference "J7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_BJT:MMBT3904")
+		(at 181.61 49.53 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e7920540-b513-45e8-b2ef-c1c814335e12")
+		(property "Reference" "Q2"
+			(at 181.61 40.64 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MMBT3904"
+			(at 181.61 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 179.705 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/pzt3904-d.pdf"
+			(at 181.61 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"
+			(at 181.61 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "b141c5ce-4bc1-41d3-bbdb-2a77939d71e2")
+		)
+		(pin "1"
+			(uuid "316116e4-d45d-403a-91da-ec5fa5688c28")
+		)
+		(pin "2"
+			(uuid "59ffec24-de97-48ff-a64b-b425ae16a20f")
+		)
+		(instances
+			(project "redstone"
+				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
+					(reference "Q2")
 					(unit 1)
 				)
 			)
