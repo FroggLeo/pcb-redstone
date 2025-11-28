@@ -58,12 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "starved_thermal|137000000|54300000|81840739-c939-4dc2-b81e-8b74be7b4cbe|39bc1d02-553c-4763-9934-b3ab7f641f32|B.Cu",
-          "add thick trace to provide electrical connection"
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -469,7 +464,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "redstone.kicad_pro",
+    "filename": "redstone_repeater.kicad_pro",
     "version": 3
   },
   "net_settings": {

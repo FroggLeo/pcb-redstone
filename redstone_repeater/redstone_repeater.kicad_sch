@@ -3470,22 +3470,22 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "S"
-				(at 19.05 7.62 0)
+			(property "Reference" "S1"
+				(at 19.05 -6.3499 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
+					(justify left)
 				)
 			)
 			(property "Value" "SLW-1478144-5A-S-D"
-				(at 19.05 5.08 0)
+				(at 19.05 -8.8899 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
+					(justify left)
 				)
 			)
 			(property "Footprint" "SLW14781445ASD"
@@ -3617,7 +3617,7 @@
 						)
 					)
 				)
-				(pin no_connect line
+				(pin passive line
 					(at 0 -2.54 0)
 					(length 5.08)
 					(name "NC"
@@ -5325,7 +5325,7 @@
 		(uuid "439f84dc-174c-40ed-b58f-6257abfafdce")
 	)
 	(no_connect
-		(at 128.27 144.78)
+		(at 128.27 149.86)
 		(uuid "43f0d4c9-4029-4dae-afe8-267f6f22a510")
 	)
 	(no_connect
@@ -5393,7 +5393,7 @@
 		(uuid "bf247560-c510-486e-99f7-5e85eedb2919")
 	)
 	(no_connect
-		(at 128.27 142.24)
+		(at 128.27 147.32)
 		(uuid "c55f4d97-0ef4-4575-bed4-3bde3a65c349")
 	)
 	(no_connect
@@ -7704,7 +7704,7 @@
 		(uuid "27020341-4bdd-49b2-a2b2-a1a2913c2211")
 	)
 	(label "N_RX"
-		(at 128.27 147.32 0)
+		(at 128.27 142.24 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7724,7 +7724,7 @@
 		(uuid "3e79492b-5ba3-4273-8f24-837928746425")
 	)
 	(label "N_TX"
-		(at 128.27 149.86 0)
+		(at 128.27 144.78 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9030,7 +9030,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:MMBT3904")
-		(at 213.36 41.91 270)
+		(at 181.61 41.91 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9040,7 +9040,7 @@
 		(fields_autoplaced yes)
 		(uuid "352cc27e-1db9-4486-a7cc-df0bdebc2c0a")
 		(property "Reference" "Q1"
-			(at 213.36 33.02 90)
+			(at 181.61 33.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9048,7 +9048,7 @@
 			)
 		)
 		(property "Value" "MMBT3904"
-			(at 213.36 35.56 90)
+			(at 181.61 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9056,7 +9056,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 211.455 36.83 0)
+			(at 179.705 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9067,7 +9067,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/pzt3904-d.pdf"
-			(at 213.36 41.91 0)
+			(at 181.61 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9077,7 +9077,7 @@
 			)
 		)
 		(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"
-			(at 213.36 41.91 0)
+			(at 181.61 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13135,7 +13135,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:MMBT3904")
-		(at 181.61 41.91 270)
+		(at 213.36 41.91 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13145,7 +13145,7 @@
 		(fields_autoplaced yes)
 		(uuid "f3c95c26-3e7b-464f-8fbf-e9a3cd08aae6")
 		(property "Reference" "Q2"
-			(at 181.61 33.02 90)
+			(at 213.36 33.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13153,7 +13153,7 @@
 			)
 		)
 		(property "Value" "MMBT3904"
-			(at 181.61 35.56 90)
+			(at 213.36 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13161,7 +13161,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 179.705 36.83 0)
+			(at 211.455 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13172,7 +13172,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/pzt3904-d.pdf"
-			(at 181.61 41.91 0)
+			(at 213.36 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13182,7 +13182,7 @@
 			)
 		)
 		(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"
-			(at 181.61 41.91 0)
+			(at 213.36 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
