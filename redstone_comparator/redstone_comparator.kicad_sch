@@ -4753,10 +4753,10 @@
 		(uuid "081c362c-0369-40cb-922d-b4130e8faeaa")
 	)
 	(junction
-		(at 102.87 52.07)
+		(at 199.39 29.21)
 		(diameter 0)
-		(color 255 153 0 1)
-		(uuid "10ff17ea-8625-434e-9a83-3cff9bba5bb9")
+		(color 255 0 0 1)
+		(uuid "0fe4ca7d-3c15-4b9e-9782-1bd2398f79c3")
 	)
 	(junction
 		(at 62.23 173.99)
@@ -4795,21 +4795,9 @@
 		(uuid "19edabdf-f062-45d7-845d-6a53d68ae717")
 	)
 	(junction
-		(at 217.17 49.53)
-		(diameter 0)
-		(color 255 0 0 1)
-		(uuid "1b550723-2dcf-440c-9284-8c4cffb373af")
-	)
-	(junction
-		(at 207.01 16.51)
-		(diameter 0)
-		(color 255 0 0 1)
-		(uuid "1f1faad8-8d59-49e4-9778-57a9d3edb86b")
-	)
-	(junction
 		(at 166.37 26.67)
 		(diameter 0)
-		(color 0 0 0 0)
+		(color 255 0 0 1)
 		(uuid "1f3b3d1b-c332-48fb-b614-c854b8236ea9")
 	)
 	(junction
@@ -4819,22 +4807,16 @@
 		(uuid "22b1d01c-1e2e-4bc9-a11b-f27e121b5717")
 	)
 	(junction
-		(at 207.01 66.04)
-		(diameter 0)
-		(color 255 0 0 1)
-		(uuid "2301ba4b-ca78-4d86-9f51-354072ef0a84")
-	)
-	(junction
-		(at 186.69 46.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "245d240d-f01f-4877-8bb8-53f2c71c01a4")
-	)
-	(junction
 		(at 265.43 100.33)
 		(diameter 0)
 		(color 0 194 194 1)
 		(uuid "27b0ae1d-dfc2-45d9-a838-0a6a41e0c331")
+	)
+	(junction
+		(at 107.95 78.74)
+		(diameter 0)
+		(color 255 153 0 1)
+		(uuid "2ab48b0f-c80f-4cb3-880d-1f12f7b6c446")
 	)
 	(junction
 		(at 154.94 44.45)
@@ -4855,28 +4837,16 @@
 		(uuid "2e16be21-5784-4ffb-940a-5f0460b9ae05")
 	)
 	(junction
-		(at 217.17 66.04)
+		(at 199.39 57.15)
 		(diameter 0)
 		(color 255 0 0 1)
-		(uuid "2f38dbc6-5926-4e45-a917-909959e75e10")
+		(uuid "2e3c572c-6725-4902-b823-dd48bd9037bf")
 	)
 	(junction
 		(at 257.81 59.69)
 		(diameter 0)
 		(color 0 0 0 1)
 		(uuid "39b9c03a-55ff-4c39-bd28-4c5090a4d0ae")
-	)
-	(junction
-		(at 207.01 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3c47857d-4c5b-4d6c-b610-6f29e31efb8a")
-	)
-	(junction
-		(at 217.17 16.51)
-		(diameter 0)
-		(color 255 0 0 1)
-		(uuid "3d0c3861-c757-48c1-939d-d05cd1693193")
 	)
 	(junction
 		(at 82.55 59.69)
@@ -4921,16 +4891,10 @@
 		(uuid "4766dc8f-2a56-4ef4-935a-6434b0c2cb49")
 	)
 	(junction
-		(at 207.01 33.02)
+		(at 62.23 57.15)
 		(diameter 0)
-		(color 255 0 0 1)
-		(uuid "484de4b8-c45a-46fe-bd86-0e743f851383")
-	)
-	(junction
-		(at 196.85 66.04)
-		(diameter 0)
-		(color 255 0 0 1)
-		(uuid "4973fa28-b65e-45f4-bdc8-1d557f60e4fc")
+		(color 255 153 0 1)
+		(uuid "481db1ca-3716-4441-8e35-380c5dde86ba")
 	)
 	(junction
 		(at 260.35 52.07)
@@ -4963,52 +4927,16 @@
 		(uuid "5b304424-9811-4109-b928-8ac495e571e4")
 	)
 	(junction
-		(at 176.53 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5e23fe68-448c-4daa-85d1-4cf0db0c6d91")
-	)
-	(junction
-		(at 186.69 16.51)
-		(diameter 0)
-		(color 255 0 0 1)
-		(uuid "61c87cc4-be43-4013-8f5a-b77f62229a9a")
-	)
-	(junction
 		(at 176.53 46.99)
 		(diameter 0)
-		(color 0 0 0 0)
+		(color 0 0 0 1)
 		(uuid "6635b664-95fe-45a8-a51f-885845a9445a")
-	)
-	(junction
-		(at 196.85 16.51)
-		(diameter 0)
-		(color 255 0 0 1)
-		(uuid "664a81c6-aeab-4ddc-a4e5-da4391e19608")
 	)
 	(junction
 		(at 260.35 151.13)
 		(diameter 0)
 		(color 194 0 0 1)
 		(uuid "67e8b55d-604e-489f-b310-cffe3b26d88e")
-	)
-	(junction
-		(at 107.95 52.07)
-		(diameter 0)
-		(color 255 153 0 1)
-		(uuid "6a5a0841-f2a5-4674-b011-57c7fa2b367e")
-	)
-	(junction
-		(at 62.23 16.51)
-		(diameter 0)
-		(color 255 153 0 1)
-		(uuid "6afcfa0e-2ddf-4c7f-97da-386234bf6347")
-	)
-	(junction
-		(at 176.53 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7040e341-839f-4cd3-9d64-a580375f82b1")
 	)
 	(junction
 		(at 242.57 62.23)
@@ -5041,16 +4969,16 @@
 		(uuid "822e2d8f-a868-4c09-8b02-ebfb99b7484f")
 	)
 	(junction
+		(at 176.53 64.77)
+		(diameter 0)
+		(color 0 0 0 1)
+		(uuid "8373defd-1334-4030-a7f7-2d1e2a458690")
+	)
+	(junction
 		(at 62.23 93.98)
 		(diameter 0)
 		(color 255 153 0 1)
 		(uuid "85acff88-2d83-4c13-805e-6f8fbadd7c39")
-	)
-	(junction
-		(at 196.85 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "85b3cc40-b074-412f-8ef7-f792f42e47bf")
 	)
 	(junction
 		(at 262.89 31.75)
@@ -5059,21 +4987,9 @@
 		(uuid "862f2328-02a3-4205-85d2-010f786c6ae5")
 	)
 	(junction
-		(at 207.01 46.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8902e8d5-7db1-4ce6-854c-5913a84d4b70")
-	)
-	(junction
-		(at 186.69 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8b393b78-886b-474d-bb06-10f535421d56")
-	)
-	(junction
 		(at 154.94 134.62)
 		(diameter 0)
-		(color 0 0 0 0)
+		(color 0 0 0 1)
 		(uuid "8ec1c960-36f4-4703-a67d-42eae79b9a2e")
 	)
 	(junction
@@ -5087,18 +5003,6 @@
 		(diameter 0)
 		(color 0 194 194 1)
 		(uuid "98f8d231-8e80-4709-9381-d89eb7607e0a")
-	)
-	(junction
-		(at 196.85 46.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "998e778d-47e8-4785-8e8e-b580970f68e0")
-	)
-	(junction
-		(at 207.01 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "99bc677c-4884-4362-b4f5-245f704507c0")
 	)
 	(junction
 		(at 229.87 148.59)
@@ -5125,22 +5029,10 @@
 		(uuid "9fe20b75-e5f9-429b-a395-ab4aa09d2532")
 	)
 	(junction
-		(at 226.06 57.15)
-		(diameter 0)
-		(color 255 0 0 1)
-		(uuid "a4f3af62-3be1-4717-be4e-8723538e1583")
-	)
-	(junction
 		(at 154.94 173.99)
 		(diameter 0)
 		(color 0 0 0 1)
 		(uuid "a6635106-d14b-4eef-9161-ba8184b2b756")
-	)
-	(junction
-		(at 207.01 30.48)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a698a804-e5d0-4b9a-bf03-4344eb8c34bd")
 	)
 	(junction
 		(at 242.57 95.25)
@@ -5149,28 +5041,10 @@
 		(uuid "a743ec7b-f839-4e5e-9f80-30a04177e87d")
 	)
 	(junction
-		(at 102.87 16.51)
-		(diameter 0)
-		(color 255 153 0 1)
-		(uuid "aa51d0ee-0ce5-424e-9757-d5a62eb7dd95")
-	)
-	(junction
 		(at 262.89 130.81)
 		(diameter 0)
 		(color 194 194 0 1)
 		(uuid "ac95311c-f46c-4514-b65b-c1102914816e")
-	)
-	(junction
-		(at 105.41 52.07)
-		(diameter 0)
-		(color 255 153 0 1)
-		(uuid "b0bba5a2-4ce8-44d1-be39-0cd45e51a3e7")
-	)
-	(junction
-		(at 102.87 45.72)
-		(diameter 0)
-		(color 255 153 0 1)
-		(uuid "b1a0d11f-b311-4b5f-b073-035f2b196cc6")
 	)
 	(junction
 		(at 264.16 21.59)
@@ -5179,16 +5053,16 @@
 		(uuid "b2ed043b-85c3-414d-9d39-8c45e56cc54a")
 	)
 	(junction
-		(at 196.85 49.53)
-		(diameter 0)
-		(color 255 0 0 1)
-		(uuid "b4034c09-0f98-4f00-9492-225ca06f7c75")
-	)
-	(junction
 		(at 102.87 173.99)
 		(diameter 0)
 		(color 0 0 0 1)
 		(uuid "b59d7a99-0343-4e86-b50c-a373b5a52736")
+	)
+	(junction
+		(at 105.41 52.07)
+		(diameter 0)
+		(color 255 153 0 1)
+		(uuid "b6e5c79b-ce5a-4f68-a62a-c5a6821cb64e")
 	)
 	(junction
 		(at 257.81 54.61)
@@ -5203,10 +5077,10 @@
 		(uuid "b890970d-8a1f-4621-a84b-66e43d536ab2")
 	)
 	(junction
-		(at 226.06 33.02)
+		(at 105.41 16.51)
 		(diameter 0)
-		(color 255 0 0 1)
-		(uuid "b8f03764-e030-45c1-8672-2b89ad6154d8")
+		(color 255 153 0 1)
+		(uuid "bd7f92ea-1ffc-475c-af2b-3d6cb7a352d3")
 	)
 	(junction
 		(at 257.81 120.65)
@@ -5215,16 +5089,16 @@
 		(uuid "c00117c1-6560-4730-868f-2b21d59eb840")
 	)
 	(junction
-		(at 196.85 30.48)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c30fb441-f222-4116-9bd6-927fb78aa571")
-	)
-	(junction
 		(at 97.79 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c3292ffc-bbcb-4e22-a715-35c1e91f3fb3")
+	)
+	(junction
+		(at 105.41 45.72)
+		(diameter 0)
+		(color 255 153 0 1)
+		(uuid "c8b7dc39-ed99-46fd-976d-81e9c5b16f90")
 	)
 	(junction
 		(at 97.79 67.31)
@@ -5239,40 +5113,16 @@
 		(uuid "ceee7c59-0ef0-4575-9f8e-7a2b16b5cb90")
 	)
 	(junction
-		(at 196.85 33.02)
-		(diameter 0)
-		(color 255 0 0 1)
-		(uuid "cfc2b662-f7e5-4aec-9246-f887999ab218")
-	)
-	(junction
 		(at 152.4 44.45)
 		(diameter 0)
 		(color 0 0 0 1)
 		(uuid "d116e1fd-ec34-4e3c-a582-3fdff8d9b9e0")
 	)
 	(junction
-		(at 110.49 52.07)
+		(at 110.49 78.74)
 		(diameter 0)
 		(color 255 153 0 1)
-		(uuid "d135a939-06a5-4260-96fc-654bb6fe9283")
-	)
-	(junction
-		(at 226.06 49.53)
-		(diameter 0)
-		(color 255 0 0 1)
-		(uuid "d4e848d5-6fc0-4666-a693-36bc763a689e")
-	)
-	(junction
-		(at 196.85 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d7f5fe3f-0211-4707-824b-770653c4e8a6")
-	)
-	(junction
-		(at 186.69 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e177e0e9-b444-42fe-8013-62a2a0540123")
+		(uuid "d2c50d49-23e9-4b13-8b29-d4d231729af7")
 	)
 	(junction
 		(at 139.7 44.45)
@@ -5281,16 +5131,16 @@
 		(uuid "e7569c6d-545f-4a0b-ae23-3349cc439259")
 	)
 	(junction
-		(at 186.69 30.48)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e9ee125c-1572-4408-9f1f-4112a40eb536")
-	)
-	(junction
 		(at 264.16 29.21)
 		(diameter 0)
 		(color 194 0 0 1)
 		(uuid "eaa87c67-a4ae-489a-89e4-058ab3f7000f")
+	)
+	(junction
+		(at 199.39 46.99)
+		(diameter 0)
+		(color 255 0 0 1)
+		(uuid "ecf54f68-dc5c-42e8-8a8b-8cfc2d580724")
 	)
 	(junction
 		(at 149.86 44.45)
@@ -5305,28 +5155,22 @@
 		(uuid "f323afce-6886-4b29-86e2-9bdb655287af")
 	)
 	(junction
-		(at 207.01 49.53)
-		(diameter 0)
-		(color 255 0 0 1)
-		(uuid "f3a1074e-a67d-4784-a709-ddfc51a18d82")
-	)
-	(junction
 		(at 62.23 157.48)
 		(diameter 0)
 		(color 0 0 0 1)
 		(uuid "f50621a3-2b75-446b-b516-45d00d8f1994")
 	)
 	(junction
+		(at 105.41 78.74)
+		(diameter 0)
+		(color 255 153 0 1)
+		(uuid "f5fe43f6-b43b-4547-8fb6-8cb5f2ce70e7")
+	)
+	(junction
 		(at 260.35 95.25)
 		(diameter 0)
 		(color 194 0 0 1)
 		(uuid "f6240f4c-a3e3-4071-a966-013d3e505e5d")
-	)
-	(junction
-		(at 217.17 33.02)
-		(diameter 0)
-		(color 255 0 0 1)
-		(uuid "fe01718c-712a-4644-9846-5b9e7d2f13ff")
 	)
 	(no_connect
 		(at 128.27 109.22)
@@ -5445,6 +5289,10 @@
 		(uuid "dc88e64d-9472-416b-b411-de2f28ee8184")
 	)
 	(no_connect
+		(at 128.27 114.3)
+		(uuid "e8b60bb5-5cc1-4cb8-bb5e-68819ee7e8ff")
+	)
+	(no_connect
 		(at 128.27 157.48)
 		(uuid "fac64903-c4bb-4869-bbbf-7619ca25b4d0")
 	)
@@ -5454,18 +5302,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 16.51) (xy 132.08 16.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 153 0 1)
-		)
-		(uuid "0009ef79-954d-4b29-b704-5cae5a8d4a67")
-	)
-	(wire
-		(pts
-			(xy 107.95 52.07) (xy 110.49 52.07)
+			(xy 107.95 78.74) (xy 110.49 78.74)
 		)
 		(stroke
 			(width 0)
@@ -5520,16 +5357,6 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 63.5) (xy 217.17 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "068d8185-bf02-4f75-bbd5-dd5293b2efdc")
-	)
-	(wire
-		(pts
 			(xy 264.16 21.59) (xy 265.43 21.59)
 		)
 		(stroke
@@ -5559,16 +5386,6 @@
 			(type default)
 		)
 		(uuid "08221f35-c72e-4d8b-ad80-1074b3a83099")
-	)
-	(wire
-		(pts
-			(xy 196.85 46.99) (xy 207.01 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0b2cd1ed-46c7-4c70-96cf-2e5d0d371a3b")
 	)
 	(wire
 		(pts
@@ -5658,7 +5475,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 49.53) (xy 226.06 57.15)
+			(xy 199.39 29.21) (xy 199.39 46.99)
 		)
 		(stroke
 			(width 0)
@@ -5679,17 +5496,6 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 49.53) (xy 226.06 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 0 0 1)
-		)
-		(uuid "1194e902-79fb-4217-8d81-51729cd05853")
-	)
-	(wire
-		(pts
 			(xy 48.26 76.2) (xy 48.26 82.55)
 		)
 		(stroke
@@ -5697,27 +5503,6 @@
 			(type default)
 		)
 		(uuid "119c33d0-6746-4065-8298-f15ae02ab581")
-	)
-	(wire
-		(pts
-			(xy 217.17 80.01) (xy 217.17 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "127385d8-e269-4982-b1b6-8d52e8ffbf7e")
-	)
-	(wire
-		(pts
-			(xy 113.03 52.07) (xy 113.03 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 153 0 1)
-		)
-		(uuid "12e25ede-1777-4aa1-b886-5d2f5774e53b")
 	)
 	(wire
 		(pts
@@ -5743,18 +5528,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 66.04) (xy 226.06 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 0 0 1)
-		)
-		(uuid "155ee793-89bb-4ef3-912e-7929bc3d9afb")
-	)
-	(wire
-		(pts
-			(xy 102.87 45.72) (xy 102.87 52.07)
+			(xy 105.41 45.72) (xy 105.41 52.07)
 		)
 		(stroke
 			(width 0)
@@ -5787,13 +5561,14 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 29.21) (xy 207.01 30.48)
+			(xy 105.41 16.51) (xy 132.08 16.51)
 		)
 		(stroke
 			(width 0)
 			(type default)
+			(color 255 153 0 1)
 		)
-		(uuid "183e0d64-d135-4509-a2f9-bc41e3afcc29")
+		(uuid "1af59460-0371-477e-aba1-eca33a60bfaa")
 	)
 	(wire
 		(pts
@@ -5830,35 +5605,14 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 71.12) (xy 168.91 74.93)
+			(xy 105.41 52.07) (xy 102.87 52.07)
 		)
 		(stroke
 			(width 0)
 			(type default)
-			(color 0 194 194 1)
+			(color 255 153 0 1)
 		)
-		(uuid "20285476-af3e-4503-9783-b1e1e32a1869")
-	)
-	(wire
-		(pts
-			(xy 196.85 29.21) (xy 196.85 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "20473b0e-79ef-4b3a-b5be-1bec2d34adc9")
-	)
-	(wire
-		(pts
-			(xy 166.37 87.63) (xy 166.37 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 0 194 194 1)
-		)
-		(uuid "206becb8-8d3f-4a4e-9d0a-c198a0d8013a")
+		(uuid "216f73f9-41bf-438a-92d6-8671dd555b58")
 	)
 	(wire
 		(pts
@@ -5870,17 +5624,6 @@
 			(color 0 0 0 1)
 		)
 		(uuid "21a5ea31-a811-4b62-b496-3d66221e7602")
-	)
-	(wire
-		(pts
-			(xy 196.85 66.04) (xy 207.01 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 0 0 1)
-		)
-		(uuid "23aba6b9-ebe2-426d-b273-b31daa8643a7")
 	)
 	(wire
 		(pts
@@ -5958,17 +5701,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 46.99) (xy 217.17 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2eff87e3-29f8-4b21-ac62-1cd304dd8ab3")
-	)
-	(wire
-		(pts
-			(xy 173.99 38.1) (xy 173.99 48.26)
+			(xy 173.99 36.83) (xy 173.99 48.26)
 		)
 		(stroke
 			(width 0)
@@ -5976,27 +5709,6 @@
 			(color 0 194 194 1)
 		)
 		(uuid "2ff8f3d9-452c-4b8c-8c40-b6fc179f63e0")
-	)
-	(wire
-		(pts
-			(xy 128.27 114.3) (xy 166.37 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 0 194 194 1)
-		)
-		(uuid "3054170d-0336-484c-a039-c799957beb10")
-	)
-	(wire
-		(pts
-			(xy 207.01 62.23) (xy 207.01 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "311d1854-a83c-466b-bc67-eea74b8990f8")
 	)
 	(wire
 		(pts
@@ -6021,7 +5733,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 45.72) (xy 102.87 45.72)
+			(xy 95.25 45.72) (xy 105.41 45.72)
 		)
 		(stroke
 			(width 0)
@@ -6051,17 +5763,6 @@
 			(color 194 0 0 1)
 		)
 		(uuid "3483c2d7-a867-468a-98df-746888282be4")
-	)
-	(wire
-		(pts
-			(xy 217.17 16.51) (xy 226.06 16.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 0 0 1)
-		)
-		(uuid "3653a335-2162-4423-a8d3-7febb764509e")
 	)
 	(wire
 		(pts
@@ -6108,17 +5809,6 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 16.51) (xy 171.45 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 0 0 1)
-		)
-		(uuid "3ae6b30d-4525-43fc-834e-ece4629711ac")
-	)
-	(wire
-		(pts
 			(xy 22.86 173.99) (xy 22.86 82.55)
 		)
 		(stroke
@@ -6152,17 +5842,6 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 16.51) (xy 226.06 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 0 0 1)
-		)
-		(uuid "4069406c-e97c-4785-914d-77a548389cb3")
-	)
-	(wire
-		(pts
 			(xy 265.43 100.33) (xy 265.43 113.03)
 		)
 		(stroke
@@ -6174,27 +5853,6 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 161.29) (xy 176.53 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(uuid "4290fe0a-77af-4631-a897-aa441938bba2")
-	)
-	(wire
-		(pts
-			(xy 217.17 30.48) (xy 217.17 29.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "451d6926-151c-4d17-ab5f-b4b7d1146ecd")
-	)
-	(wire
-		(pts
 			(xy 162.56 36.83) (xy 160.02 36.83)
 		)
 		(stroke
@@ -6202,16 +5860,6 @@
 			(type default)
 		)
 		(uuid "4826632c-65fb-4a1e-af50-30ebc4b0fbde")
-	)
-	(wire
-		(pts
-			(xy 217.17 46.99) (xy 217.17 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "488bbd5d-a50b-4e05-b68d-85baadd2c053")
 	)
 	(wire
 		(pts
@@ -6248,28 +5896,6 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 52.07) (xy 107.95 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 153 0 1)
-		)
-		(uuid "4aeee9c3-c03d-4423-bbd2-86ae79412377")
-	)
-	(wire
-		(pts
-			(xy 166.37 26.67) (xy 171.45 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 0 0 1)
-		)
-		(uuid "4c82008d-7833-43de-9bfa-a06e7f741d5e")
-	)
-	(wire
-		(pts
 			(xy 257.81 59.69) (xy 257.81 87.63)
 		)
 		(stroke
@@ -6292,7 +5918,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 173.99) (xy 173.99 161.29)
+			(xy 176.53 173.99) (xy 176.53 161.29)
 		)
 		(stroke
 			(width 0)
@@ -6369,28 +5995,6 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 46.99) (xy 176.53 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(uuid "571267e0-7bf6-4db3-bae7-0b855e4fd49b")
-	)
-	(wire
-		(pts
-			(xy 196.85 49.53) (xy 207.01 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 0 0 1)
-		)
-		(uuid "5886ebb6-86f0-4ad4-8e15-0dbd191dd2c4")
-	)
-	(wire
-		(pts
 			(xy 82.55 45.72) (xy 82.55 52.07)
 		)
 		(stroke
@@ -6410,6 +6014,17 @@
 			(color 0 194 194 1)
 		)
 		(uuid "5b84f5f3-36d8-4e2a-a4a4-b67b14a45775")
+	)
+	(wire
+		(pts
+			(xy 168.91 72.39) (xy 168.91 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 194 194 1)
+		)
+		(uuid "5de3fe09-c2ae-4326-8dc2-9bf19dea5267")
 	)
 	(wire
 		(pts
@@ -6435,7 +6050,7 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 76.2) (xy 22.86 21.59)
+			(xy 22.86 76.2) (xy 22.86 45.72)
 		)
 		(stroke
 			(width 0)
@@ -6466,49 +6081,6 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 33.02) (xy 226.06 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 0 0 1)
-		)
-		(uuid "61cc5d44-c21c-4d6d-8536-c6b8e4503344")
-	)
-	(wire
-		(pts
-			(xy 171.45 16.51) (xy 186.69 16.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 0 0 1)
-		)
-		(uuid "624d23d0-a817-4726-b273-056a1b202cfb")
-	)
-	(wire
-		(pts
-			(xy 207.01 16.51) (xy 217.17 16.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 0 0 1)
-		)
-		(uuid "631dca3e-10c0-41ab-9bcb-85aa6484d722")
-	)
-	(wire
-		(pts
-			(xy 186.69 46.99) (xy 196.85 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "635b291f-3b7a-416a-9b19-b367fb3c109e")
-	)
-	(wire
-		(pts
 			(xy 250.19 97.79) (xy 262.89 97.79)
 		)
 		(stroke
@@ -6517,27 +6089,6 @@
 			(color 194 194 0 1)
 		)
 		(uuid "64087ae1-b3dc-49fe-b1ad-c5f8613ebe6e")
-	)
-	(wire
-		(pts
-			(xy 186.69 49.53) (xy 196.85 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 0 0 1)
-		)
-		(uuid "65e15ef3-9b0a-4434-9a32-a4bc405d6365")
-	)
-	(wire
-		(pts
-			(xy 186.69 45.72) (xy 186.69 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "66696c8a-4aaf-4d80-8c77-2e6d4a91f422")
 	)
 	(wire
 		(pts
@@ -6617,7 +6168,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 52.07) (xy 113.03 52.07)
+			(xy 110.49 78.74) (xy 113.03 78.74)
 		)
 		(stroke
 			(width 0)
@@ -6650,17 +6201,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 63.5) (xy 217.17 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6e5fab89-223e-49bb-b6eb-dfee631d5d6a")
-	)
-	(wire
-		(pts
-			(xy 176.53 80.01) (xy 176.53 161.29)
+			(xy 176.53 46.99) (xy 176.53 64.77)
 		)
 		(stroke
 			(width 0)
@@ -6668,17 +6209,6 @@
 			(color 0 0 0 1)
 		)
 		(uuid "6f70f8cd-c09e-4991-ae4a-0fb2ba7aabd6")
-	)
-	(wire
-		(pts
-			(xy 166.37 87.63) (xy 181.61 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 0 194 194 1)
-		)
-		(uuid "7069bbf5-8a53-4d71-b48b-4a4a832a137e")
 	)
 	(wire
 		(pts
@@ -6704,48 +6234,6 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 30.48) (xy 196.85 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71b648fe-e937-45d4-b010-cb8a7d0ac3db")
-	)
-	(wire
-		(pts
-			(xy 166.37 96.52) (xy 166.37 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 0 194 194 1)
-		)
-		(uuid "71eba3ac-b008-4af9-89e3-bed4456ae687")
-	)
-	(wire
-		(pts
-			(xy 196.85 16.51) (xy 207.01 16.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 0 0 1)
-		)
-		(uuid "72ef6b88-4600-4ef5-ab1b-123b42ac6423")
-	)
-	(wire
-		(pts
-			(xy 196.85 30.48) (xy 207.01 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "75a7f642-6486-4b0f-a87d-cab6ca91886e")
-	)
-	(wire
-		(pts
 			(xy 250.19 34.29) (xy 250.19 31.75)
 		)
 		(stroke
@@ -6768,16 +6256,6 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 29.21) (xy 186.69 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "78d8e7ba-0d45-495d-893f-bcbf67947edc")
-	)
-	(wire
-		(pts
 			(xy 262.89 64.77) (xy 262.89 82.55)
 		)
 		(stroke
@@ -6789,14 +6267,25 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 66.04) (xy 196.85 66.04)
+			(xy 199.39 26.67) (xy 166.37 26.67)
 		)
 		(stroke
 			(width 0)
 			(type default)
 			(color 255 0 0 1)
 		)
-		(uuid "7c838bf9-8b01-4abb-9a1e-2e1aa9777a3c")
+		(uuid "7c539d00-88d4-48f2-9843-59cc54494fb0")
+	)
+	(wire
+		(pts
+			(xy 62.23 57.15) (xy 62.23 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 153 0 1)
+		)
+		(uuid "801711df-caef-40df-8e1e-85f2bd5e4299")
 	)
 	(wire
 		(pts
@@ -6865,35 +6354,14 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 78.74) (xy 196.85 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "87af6bc3-4651-4f73-be44-15fafd7b5ea0")
-	)
-	(wire
-		(pts
-			(xy 226.06 57.15) (xy 226.06 66.04)
+			(xy 199.39 29.21) (xy 199.39 26.67)
 		)
 		(stroke
 			(width 0)
 			(type default)
 			(color 255 0 0 1)
 		)
-		(uuid "87c21727-2c06-4b93-ab3f-108762c99c2b")
-	)
-	(wire
-		(pts
-			(xy 207.01 33.02) (xy 217.17 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 0 0 1)
-		)
-		(uuid "8885ef35-7329-4301-828c-35f61d60cc95")
+		(uuid "8577cfec-ebfb-4912-b95b-ee167b47f954")
 	)
 	(wire
 		(pts
@@ -6940,6 +6408,17 @@
 	)
 	(wire
 		(pts
+			(xy 199.39 46.99) (xy 199.39 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "8c21b7a6-7e63-4c1f-85e9-2e7764e10fa0")
+	)
+	(wire
+		(pts
 			(xy 176.53 161.29) (xy 217.17 161.29)
 		)
 		(stroke
@@ -6951,7 +6430,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 16.51) (xy 62.23 16.51)
+			(xy 48.26 57.15) (xy 62.23 57.15)
 		)
 		(stroke
 			(width 0)
@@ -6962,27 +6441,6 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 30.48) (xy 217.17 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9100dff6-4bfa-4c59-9a4a-a7808a173bdb")
-	)
-	(wire
-		(pts
-			(xy 207.01 49.53) (xy 217.17 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 0 0 1)
-		)
-		(uuid "9175a5fc-b1d9-41fe-9603-1ceddb17c27e")
-	)
-	(wire
-		(pts
 			(xy 48.26 152.4) (xy 77.47 152.4)
 		)
 		(stroke
@@ -6990,16 +6448,6 @@
 			(type default)
 		)
 		(uuid "94543210-bace-4509-a043-5a42943aa9f0")
-	)
-	(wire
-		(pts
-			(xy 207.01 80.01) (xy 217.17 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "95f51a5c-12d9-4b0f-b626-aef8b84676bb")
 	)
 	(wire
 		(pts
@@ -7014,39 +6462,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 78.74) (xy 186.69 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9774c761-6538-4077-808b-c2ed2d832f77")
-	)
-	(wire
-		(pts
-			(xy 110.49 52.07) (xy 110.49 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 153 0 1)
-		)
-		(uuid "9b2e6367-a522-4be0-9e15-8d440586df55")
-	)
-	(wire
-		(pts
-			(xy 186.69 33.02) (xy 196.85 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 0 0 1)
-		)
-		(uuid "9bf74d69-79a0-4b36-88da-c97531662536")
-	)
-	(wire
-		(pts
-			(xy 105.41 52.07) (xy 107.95 52.07)
+			(xy 105.41 78.74) (xy 107.95 78.74)
 		)
 		(stroke
 			(width 0)
@@ -7090,13 +6506,14 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 45.72) (xy 196.85 46.99)
+			(xy 105.41 78.74) (xy 105.41 52.07)
 		)
 		(stroke
 			(width 0)
 			(type default)
+			(color 255 153 0 1)
 		)
-		(uuid "9f1df5d4-c78d-459f-9dcd-13e5cb4353cd")
+		(uuid "a06a41ef-ead4-437b-a536-dcec431a42b2")
 	)
 	(wire
 		(pts
@@ -7165,17 +6582,6 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 16.51) (xy 196.85 16.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 0 0 1)
-		)
-		(uuid "ae9e31d1-5011-433b-b56d-0147ea7842c1")
-	)
-	(wire
-		(pts
 			(xy 262.89 115.57) (xy 265.43 115.57)
 		)
 		(stroke
@@ -7187,7 +6593,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 16.51) (xy 102.87 16.51)
+			(xy 62.23 16.51) (xy 105.41 16.51)
 		)
 		(stroke
 			(width 0)
@@ -7282,17 +6688,6 @@
 			(color 0 0 0 1)
 		)
 		(uuid "b78f3822-9f51-447e-add6-e9285d5d0c26")
-	)
-	(wire
-		(pts
-			(xy 196.85 33.02) (xy 207.01 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 0 0 1)
-		)
-		(uuid "bcc9eff0-80f5-4e1a-9a26-fd26812b0f6b")
 	)
 	(wire
 		(pts
@@ -7449,16 +6844,6 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 80.01) (xy 196.85 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cb63c942-dbcd-4b31-bb3b-2de40aa61c0b")
-	)
-	(wire
-		(pts
 			(xy 74.93 119.38) (xy 77.47 119.38)
 		)
 		(stroke
@@ -7466,6 +6851,17 @@
 			(type default)
 		)
 		(uuid "cba4741e-55c2-4fcb-b8d2-e4e21ee26b3c")
+	)
+	(wire
+		(pts
+			(xy 199.39 57.15) (xy 234.95 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "cec507e4-b012-4265-9428-b898dd8877b2")
 	)
 	(wire
 		(pts
@@ -7513,16 +6909,6 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 78.74) (xy 207.01 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d5f3a72c-57a6-4bcc-a40e-4288202af742")
-	)
-	(wire
-		(pts
 			(xy 154.94 134.62) (xy 154.94 173.99)
 		)
 		(stroke
@@ -7534,55 +6920,14 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 52.07) (xy 105.41 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 153 0 1)
-		)
-		(uuid "d7beb72d-7532-4047-9fdf-ce50511f5771")
-	)
-	(wire
-		(pts
-			(xy 207.01 45.72) (xy 207.01 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "da250826-8bbc-41b0-bce8-0d03b11bebaa")
-	)
-	(wire
-		(pts
-			(xy 186.69 63.5) (xy 196.85 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "da42801b-5dc5-4063-a268-312246ac5957")
-	)
-	(wire
-		(pts
-			(xy 226.06 57.15) (xy 234.95 57.15)
+			(xy 199.39 57.15) (xy 199.39 64.77)
 		)
 		(stroke
 			(width 0)
 			(type default)
 			(color 255 0 0 1)
 		)
-		(uuid "dad24e3b-7c09-4cf3-b460-929e20aa03c4")
-	)
-	(wire
-		(pts
-			(xy 196.85 80.01) (xy 207.01 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "db9f604f-2054-4951-98c5-1a1746612fa9")
+		(uuid "da8c1498-0e43-4587-b4a9-8675c5ba3215")
 	)
 	(wire
 		(pts
@@ -7641,7 +6986,18 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 21.59) (xy 82.55 21.59)
+			(xy 176.53 64.77) (xy 176.53 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "e1cb3f04-5812-4259-bb63-6733e493d6c9")
+	)
+	(wire
+		(pts
+			(xy 22.86 45.72) (xy 82.55 45.72)
 		)
 		(stroke
 			(width 0)
@@ -7674,40 +7030,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 63.5) (xy 176.53 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(uuid "e313c7a3-a13f-422f-bb02-8803904381ac")
-	)
-	(wire
-		(pts
-			(xy 48.26 16.51) (xy 48.26 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 153 0 1)
-		)
-		(uuid "e36260a3-af44-4534-bbe9-fc7c13dac01e")
-	)
-	(wire
-		(pts
-			(xy 207.01 66.04) (xy 217.17 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 0 0 1)
-		)
-		(uuid "e5cc56b3-1470-4b1f-b0c6-059fef36bc38")
-	)
-	(wire
-		(pts
-			(xy 162.56 173.99) (xy 173.99 173.99)
+			(xy 162.56 173.99) (xy 176.53 173.99)
 		)
 		(stroke
 			(width 0)
@@ -7718,29 +7041,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 33.02) (xy 226.06 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 0 0 1)
-		)
-		(uuid "e8852e1b-5314-4a96-8c11-616be96a29e3")
-	)
-	(wire
-		(pts
-			(xy 82.55 21.59) (xy 82.55 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(uuid "e94a58f9-532d-41c3-83bf-e51d36958138")
-	)
-	(wire
-		(pts
-			(xy 176.53 30.48) (xy 176.53 46.99)
+			(xy 176.53 29.21) (xy 176.53 46.99)
 		)
 		(stroke
 			(width 0)
@@ -7751,7 +7052,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 71.12) (xy 181.61 71.12)
+			(xy 168.91 72.39) (xy 181.61 72.39)
 		)
 		(stroke
 			(width 0)
@@ -7784,7 +7085,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 16.51) (xy 62.23 93.98)
+			(xy 62.23 16.51) (xy 62.23 57.15)
 		)
 		(stroke
 			(width 0)
@@ -7803,16 +7104,6 @@
 			(color 255 0 0 1)
 		)
 		(uuid "efd5c141-a208-4404-a923-213d91ada9f8")
-	)
-	(wire
-		(pts
-			(xy 196.85 63.5) (xy 207.01 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "efda6b42-b97b-4453-9fb6-247017906220")
 	)
 	(wire
 		(pts
@@ -7902,17 +7193,6 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 52.07) (xy 105.41 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 153 0 1)
-		)
-		(uuid "f742684d-bf49-41ee-b819-97903c44a1bb")
-	)
-	(wire
-		(pts
 			(xy 257.81 161.29) (xy 257.81 153.67)
 		)
 		(stroke
@@ -7924,7 +7204,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 38.1) (xy 181.61 38.1)
+			(xy 173.99 36.83) (xy 181.61 36.83)
 		)
 		(stroke
 			(width 0)
@@ -7957,16 +7237,6 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 62.23) (xy 196.85 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f93400ee-cbda-426f-bc63-70c4d142d7b9")
-	)
-	(wire
-		(pts
 			(xy 260.35 29.21) (xy 260.35 52.07)
 		)
 		(stroke
@@ -7989,7 +7259,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 16.51) (xy 102.87 45.72)
+			(xy 105.41 16.51) (xy 105.41 45.72)
 		)
 		(stroke
 			(width 0)
@@ -8008,16 +7278,6 @@
 			(color 0 0 0 1)
 		)
 		(uuid "feab546b-272c-4ec5-b4af-4cf25c00f29b")
-	)
-	(wire
-		(pts
-			(xy 186.69 62.23) (xy 186.69 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ff80d852-eb69-4947-abc3-6745bc111c3a")
 	)
 	(label "N_TX"
 		(at 262.89 43.18 90)
@@ -8080,7 +7340,7 @@
 		(uuid "459bbaca-fce4-40ff-a241-8f8bcf687c5f")
 	)
 	(label "5V_LOCAL"
-		(at 173.99 16.51 0)
+		(at 212.09 57.15 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8220,76 +7480,6 @@
 		(uuid "f53e7f3c-af69-43e6-a858-9bf2856e4dd6")
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 207.01 35.56 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "00ad500e-4010-4f7f-8bab-605ca6d48b1b")
-		(property "Reference" "R7"
-			(at 209.55 34.2899 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "200"
-			(at 209.55 36.8299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
-			(at 207.01 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 207.01 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 207.01 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "bb17b078-6b99-4050-8caa-6a3cbe2b3c3b")
-		)
-		(pin "1"
-			(uuid "bf68dbc9-684c-43a4-87bc-f58354674f00")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "R7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector_Generic_MountingPin:Conn_01x04_MountingPin")
 		(at 43.18 154.94 180)
 		(unit 1)
@@ -8369,34 +7559,33 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 207.01 25.4 90)
+		(at 190.5 64.77 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "08ee67a7-8515-475f-b0c9-0e810074b7ca")
 		(property "Reference" "D3"
-			(at 210.82 25.7174 90)
+			(at 187.325 69.5324 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 210.82 28.2574 90)
+			(at 187.325 72.0724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:LEDC1608X115N"
-			(at 207.01 25.4 0)
+		(property "Footprint" "LED_THT:LED_D3.0mm"
+			(at 190.5 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8405,7 +7594,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 207.01 25.4 0)
+			(at 190.5 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8414,7 +7603,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 207.01 25.4 0)
+			(at 190.5 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8423,7 +7612,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 207.01 25.4 0)
+			(at 190.5 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9146,105 +8335,34 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 217.17 52.07 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "19923f83-6565-4e6d-aa7b-112234f4733c")
-		(property "Reference" "R12"
-			(at 219.71 50.7999 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "200"
-			(at 219.71 53.3399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
-			(at 217.17 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 217.17 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 217.17 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "62686a5e-4131-4336-b939-0414ae55e012")
-		)
-		(pin "1"
-			(uuid "ab6391d2-3f33-4995-867f-b9ee1319db0b")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "R12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED")
-		(at 196.85 25.4 90)
+		(at 190.5 46.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1b5256da-0f8c-4d6c-9dfb-6e2336fc7a55")
 		(property "Reference" "D2"
-			(at 200.66 25.7174 90)
+			(at 187.325 51.7524 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 200.66 28.2574 90)
+			(at 187.325 54.2924 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:LEDC1608X115N"
-			(at 196.85 25.4 0)
+		(property "Footprint" "LED_THT:LED_D3.0mm"
+			(at 190.5 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9253,7 +8371,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 196.85 25.4 0)
+			(at 190.5 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9262,7 +8380,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 196.85 25.4 0)
+			(at 190.5 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9271,7 +8389,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 196.85 25.4 0)
+			(at 190.5 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9289,76 +8407,6 @@
 			(project "redstone"
 				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
 					(reference "D2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 217.17 19.05 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "27788d40-2f46-4d13-887b-d9fb00f9d8dc")
-		(property "Reference" "R4"
-			(at 219.71 17.7799 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "200"
-			(at 219.71 20.3199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
-			(at 217.17 19.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 217.17 19.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 217.17 19.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "73872df1-601d-4b24-9eb0-5a1ab00cfe51")
-		)
-		(pin "1"
-			(uuid "99d47b16-eec6-44a0-9691-2bb1a84a6b61")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -9456,16 +8504,15 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 207.01 19.05 0)
+		(at 196.85 64.77 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "37c2ad04-9627-4914-bbca-2091331df85f")
 		(property "Reference" "R3"
-			(at 209.55 17.7799 0)
+			(at 194.945 67.9449 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -9474,7 +8521,7 @@
 			)
 		)
 		(property "Value" "200"
-			(at 209.55 20.3199 0)
+			(at 194.945 70.4849 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9483,7 +8530,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
-			(at 207.01 19.05 0)
+			(at 196.85 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9492,7 +8539,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 207.01 19.05 0)
+			(at 196.85 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9501,7 +8548,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 207.01 19.05 0)
+			(at 196.85 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9519,76 +8566,6 @@
 			(project "redstone"
 				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
 					(reference "R3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 196.85 52.07 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "42dae976-132e-4262-a09e-e16a08d4360c")
-		(property "Reference" "R10"
-			(at 199.39 50.7999 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "200"
-			(at 199.39 53.3399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
-			(at 196.85 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 196.85 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 196.85 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ce00ca47-87ec-4236-8b20-5968e0d8a07e")
-		)
-		(pin "1"
-			(uuid "9f20aa82-80ed-435c-8dc7-7d635c42010d")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -9728,76 +8705,6 @@
 			(project ""
 				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
 					(reference "R17")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 196.85 68.58 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "49f07eff-74c9-4051-ba32-ceeb4a3640a1")
-		(property "Reference" "R14"
-			(at 199.39 67.3099 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "200"
-			(at 199.39 69.8499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
-			(at 196.85 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 196.85 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 196.85 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "05ba25e5-66e2-4b79-81cd-6d93a7a63090")
-		)
-		(pin "1"
-			(uuid "a432dfd9-4c95-4cb5-99bb-4db73a699b34")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -9946,164 +8853,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 196.85 41.91 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4b96b77b-514a-4a0e-a99a-5e49b2a36b54")
-		(property "Reference" "D6"
-			(at 200.66 42.2274 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "LED"
-			(at 200.66 44.7674 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:LEDC1608X115N"
-			(at 196.85 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 196.85 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 196.85 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 196.85 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "634cf219-926b-4527-926a-7ff39349abf1")
-		)
-		(pin "2"
-			(uuid "65106bfa-dbe2-4d4b-8ee8-679ebc422961")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "D6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 186.69 41.91 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4c178e25-95cf-4cae-8c8b-16d49f63a72e")
-		(property "Reference" "D5"
-			(at 190.5 42.2274 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "LED"
-			(at 190.5 44.7674 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:LEDC1608X115N"
-			(at 186.69 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 186.69 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 186.69 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 186.69 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "04368e2d-20e3-4351-94fa-2afb4a91ed92")
-		)
-		(pin "2"
-			(uuid "038ad313-54a6-4e85-9b35-122d5bceaa91")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "D5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector_Generic_MountingPin:Conn_01x04_MountingPin")
 		(at 270.51 151.13 0)
 		(mirror x)
@@ -10177,155 +8926,6 @@
 			(project "redstone"
 				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
 					(reference "J8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 207.01 74.93 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "52a2efa8-2c5c-4d3a-95cc-f7adee567407")
-		(property "Reference" "D15"
-			(at 210.82 75.2474 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "LED"
-			(at 210.82 77.7874 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:LEDC1608X115N"
-			(at 207.01 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 207.01 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 207.01 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 207.01 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "62f19e47-d2b0-440a-b2a6-5b1fd089f641")
-		)
-		(pin "2"
-			(uuid "9f56012a-1a90-41fa-a2d4-ce9549f44ac6")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "D15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 217.17 35.56 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "564e6fd5-afb2-4f1a-89d2-d6af31b12e8f")
-		(property "Reference" "R8"
-			(at 219.71 34.2899 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "200"
-			(at 219.71 36.8299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
-			(at 217.17 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 217.17 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 217.17 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "bc1f6a6b-1a7a-4269-8bba-664c8482f94c")
-		)
-		(pin "1"
-			(uuid "eabb6635-c16c-44c3-ab02-965dfdfc41a6")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -10412,34 +9012,33 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 186.69 25.4 90)
+		(at 190.5 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5faf4dd0-c34d-4f6f-b181-0e8a90cc82a3")
 		(property "Reference" "D1"
-			(at 190.5 25.7174 90)
+			(at 187.325 33.9724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED"
-			(at 190.5 28.2574 90)
+			(at 187.325 36.5124 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:LEDC1608X115N"
-			(at 186.69 25.4 0)
+		(property "Footprint" "LED_THT:LED_D3.0mm"
+			(at 190.5 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10448,7 +9047,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 186.69 25.4 0)
+			(at 190.5 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10457,7 +9056,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 186.69 25.4 0)
+			(at 190.5 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10466,7 +9065,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 186.69 25.4 0)
+			(at 190.5 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10484,164 +9083,6 @@
 			(project ""
 				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
 					(reference "D1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 207.01 41.91 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "62092449-9650-4d5f-b55c-d407e65fe236")
-		(property "Reference" "D7"
-			(at 210.82 42.2274 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "LED"
-			(at 210.82 44.7674 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:LEDC1608X115N"
-			(at 207.01 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 207.01 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 207.01 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 207.01 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "eab4b5a1-91f8-465b-921f-d6ee30458a74")
-		)
-		(pin "2"
-			(uuid "3e065ad3-e3ca-4e5e-a2a0-28de38a4a3ac")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "D7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 217.17 25.4 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "622196dc-472a-4673-b89d-1f9560c962b7")
-		(property "Reference" "D4"
-			(at 220.98 25.7174 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "LED"
-			(at 220.98 28.2574 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:LEDC1608X115N"
-			(at 217.17 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 217.17 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 217.17 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 217.17 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0dbf2fb0-30c9-46d9-8e6c-2b56a78eddb5")
-		)
-		(pin "2"
-			(uuid "0dbe3657-a1d4-4e09-8041-5263c1799c3b")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -10714,157 +9155,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 196.85 35.56 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "62d668ce-1c6c-42c0-96f8-4963e566ee84")
-		(property "Reference" "R6"
-			(at 199.39 34.2899 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "200"
-			(at 199.39 36.8299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
-			(at 196.85 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 196.85 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 196.85 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "69a7ccef-f2a3-4feb-af9b-2c8c59a295ba")
-		)
-		(pin "1"
-			(uuid "11ed7e69-0062-43f2-84c0-a7e05cdc7379")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "R6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 186.69 74.93 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "67e32bef-1675-425f-9f83-12fd65134c0b")
-		(property "Reference" "D13"
-			(at 190.5 75.2474 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "LED"
-			(at 190.5 77.7874 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:LEDC1608X115N"
-			(at 186.69 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 186.69 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 186.69 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 186.69 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f1ff60fa-9338-448f-b3a7-71b0b54cb946")
-		)
-		(pin "2"
-			(uuid "2fb80bfd-c2f6-4241-b667-d0bbb6ab94ff")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "D13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Transistor_BJT:MMBT3904")
-		(at 181.61 66.04 270)
+		(at 181.61 67.31 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10874,7 +9166,7 @@
 		(fields_autoplaced yes)
 		(uuid "68f25e03-7f7f-4617-8601-f58ad609a8c8")
 		(property "Reference" "Q3"
-			(at 181.61 57.15 90)
+			(at 181.61 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10882,7 +9174,7 @@
 			)
 		)
 		(property "Value" "MMBT3904"
-			(at 181.61 59.69 90)
+			(at 181.61 60.96 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10890,7 +9182,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 179.705 60.96 0)
+			(at 179.705 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10901,7 +9193,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/pzt3904-d.pdf"
-			(at 181.61 66.04 0)
+			(at 181.61 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10911,7 +9203,7 @@
 			)
 		)
 		(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"
-			(at 181.61 66.04 0)
+			(at 181.61 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11506,85 +9798,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 186.69 58.42 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "76476528-3a28-43bf-bf53-fb32afd54ba5")
-		(property "Reference" "D9"
-			(at 190.5 58.7374 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "LED"
-			(at 190.5 61.2774 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:LEDC1608X115N"
-			(at 186.69 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 186.69 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 186.69 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 186.69 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c911b3d2-2736-4148-a081-42e53f6c6671")
-		)
-		(pin "2"
-			(uuid "3157bb84-648b-4692-939a-7a364b721555")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "D9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 168.91 77.47 0)
 		(unit 1)
@@ -11648,85 +9861,6 @@
 			(project "redstone"
 				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
 					(reference "R20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 217.17 58.42 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7bc0ef97-1cc9-4638-ac9c-ec5dcab2cc2a")
-		(property "Reference" "D12"
-			(at 220.98 58.7374 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "LED"
-			(at 220.98 61.2774 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:LEDC1608X115N"
-			(at 217.17 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 217.17 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 217.17 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 217.17 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c61aaed4-75f9-4bde-b77b-3c49cc556379")
-		)
-		(pin "2"
-			(uuid "28fcf189-b222-41a2-8d1c-936b397a0d81")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -11812,164 +9946,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 207.01 58.42 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7d89be77-3ab6-46b6-a95e-0c107b1774a7")
-		(property "Reference" "D11"
-			(at 210.82 58.7374 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "LED"
-			(at 210.82 61.2774 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:LEDC1608X115N"
-			(at 207.01 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 207.01 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 207.01 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 207.01 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "67281224-60ff-4306-a477-36d94f50a11c")
-		)
-		(pin "2"
-			(uuid "e58a239d-76ae-456f-a161-b01c5840f09f")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "D11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 196.85 74.93 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "807dddfc-4dc6-46d4-a08f-153d578e11e6")
-		(property "Reference" "D14"
-			(at 200.66 75.2474 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "LED"
-			(at 200.66 77.7874 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:LEDC1608X115N"
-			(at 196.85 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 196.85 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 196.85 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 196.85 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8e6ff503-cbc3-4ef0-93ed-6189ce0c8d56")
-		)
-		(pin "2"
-			(uuid "4f91153f-2bb5-4fba-bf22-f34af1213b2c")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "D14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "2025-11-06_01-25-23:RBT05W24S05")
 		(at 234.95 19.05 90)
 		(mirror x)
@@ -12037,85 +10013,6 @@
 			(project ""
 				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
 					(reference "U2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 217.17 74.93 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "837e2f3d-a5a1-4283-8be3-ce97b0bd13c7")
-		(property "Reference" "D16"
-			(at 220.98 75.2474 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "LED"
-			(at 220.98 77.7874 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:LEDC1608X115N"
-			(at 217.17 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 217.17 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 217.17 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 217.17 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0f7685bd-544b-4ef2-a226-d44f8ca5a3d4")
-		)
-		(pin "2"
-			(uuid "b260594d-b245-4e98-b920-fbb60a753857")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -12329,16 +10226,15 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 196.85 19.05 0)
+		(at 196.85 46.99 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "95d2a0b9-1bfe-42ce-a104-d192ce2d8a92")
 		(property "Reference" "R2"
-			(at 199.39 17.7799 0)
+			(at 194.945 50.1649 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -12347,7 +10243,7 @@
 			)
 		)
 		(property "Value" "200"
-			(at 199.39 20.3199 0)
+			(at 194.945 52.7049 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12356,7 +10252,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
-			(at 196.85 19.05 0)
+			(at 196.85 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12365,7 +10261,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 196.85 19.05 0)
+			(at 196.85 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12374,7 +10270,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 196.85 19.05 0)
+			(at 196.85 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12552,76 +10448,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 186.69 68.58 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a6664a98-8e26-491c-80e8-f23172a11be8")
-		(property "Reference" "R13"
-			(at 189.23 67.3099 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "200"
-			(at 189.23 69.8499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
-			(at 186.69 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 186.69 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 186.69 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "fe5200ac-ffd7-4e08-a2c0-3d3f0f6d7957")
-		)
-		(pin "1"
-			(uuid "3ba6c983-e221-4021-8de0-bdec77671bac")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "R13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "SamacSys_Parts:VGSOT03C-HG3-08")
 		(at 250.19 67.31 90)
 		(mirror x)
@@ -12759,145 +10585,6 @@
 			(project "redstone"
 				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
 					(reference "D18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 166.37 93.98 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a8075043-c9e0-4a67-9a7f-07728e926c7b")
-		(property "Reference" "R21"
-			(at 163.83 92.7099 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1k"
-			(at 163.83 95.2499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:ERJ-UP6D1001V"
-			(at 166.37 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 166.37 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 166.37 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "5478f1a8-725f-40e8-b8e1-2c303a892513")
-		)
-		(pin "1"
-			(uuid "a439308b-2237-4f09-b4dd-172b81334fa1")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "R21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 186.69 35.56 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a9f06824-2272-4234-8da0-2f972a3b21d8")
-		(property "Reference" "R5"
-			(at 189.23 34.2899 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "200"
-			(at 189.23 36.8299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
-			(at 186.69 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 186.69 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 186.69 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "532eeaf4-d0d5-4d14-a1c7-09ee2052766e")
-		)
-		(pin "1"
-			(uuid "1053df0f-19c9-4389-b09b-1d360efe4e96")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -13126,225 +10813,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 217.17 41.91 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ae9b3e29-7804-40c3-a2de-709aef012107")
-		(property "Reference" "D8"
-			(at 220.98 42.2274 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "LED"
-			(at 220.98 44.7674 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:LEDC1608X115N"
-			(at 217.17 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 217.17 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 217.17 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 217.17 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "668c3d7f-722e-4690-8de5-9a1e24ca6634")
-		)
-		(pin "2"
-			(uuid "c6199bf6-790e-4bb8-86ed-140c5d0978b0")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "D8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 207.01 52.07 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b4e2f23e-811e-4bc3-be17-95122125e2ce")
-		(property "Reference" "R11"
-			(at 209.55 50.7999 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "200"
-			(at 209.55 53.3399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
-			(at 207.01 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 207.01 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 207.01 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "9a2de68e-c7eb-4034-87bc-8a5a16381126")
-		)
-		(pin "1"
-			(uuid "b74166e4-b72b-4f93-b5ec-3d9788c5d326")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "R11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 186.69 52.07 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b4f966cc-410e-4342-921a-97568d159528")
-		(property "Reference" "R9"
-			(at 189.23 50.7999 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "200"
-			(at 189.23 53.3399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
-			(at 186.69 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 186.69 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 186.69 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c548993b-ff49-44c8-8af8-bceef0767d49")
-		)
-		(pin "1"
-			(uuid "2ff4d241-d00d-409c-bf01-41c91a56af69")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "R9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector_Generic_MountingPin:Conn_01x04_MountingPin")
 		(at 270.51 29.21 0)
 		(unit 1)
@@ -13489,76 +10957,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 207.01 68.58 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bd2ef1fd-8550-4d2a-811a-9fc3f52bdc58")
-		(property "Reference" "R15"
-			(at 209.55 67.3099 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "200"
-			(at 209.55 69.8499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
-			(at 207.01 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 207.01 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 207.01 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "15b86587-5e11-43e3-a247-aa9a22601bc0")
-		)
-		(pin "1"
-			(uuid "3fe380b6-fe6e-40ef-a7ae-b90c5529c009")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "R15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector_Generic_MountingPin:Conn_01x04_MountingPin")
 		(at 270.51 62.23 0)
 		(unit 1)
@@ -13632,81 +11030,6 @@
 			(project "redstone"
 				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
 					(reference "J3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Transistor_BJT:MMBT3904")
-		(at 181.61 82.55 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c9940538-0d08-48fa-9afb-a73f5c1cbfc9")
-		(property "Reference" "Q4"
-			(at 181.61 73.66 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MMBT3904"
-			(at 181.61 76.2 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 179.705 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/pzt3904-d.pdf"
-			(at 181.61 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"
-			(at 181.61 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "d18d5735-f238-451f-8a9c-059783ab3b47")
-		)
-		(pin "1"
-			(uuid "afdf8c42-0b6f-4900-935c-f084ca7ba9e4")
-		)
-		(pin "2"
-			(uuid "a7ea727d-8f06-40a0-ab5a-3ce4628fb695")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "Q4")
 					(unit 1)
 				)
 			)
@@ -14161,7 +11484,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:MMBT3904")
-		(at 181.61 33.02 270)
+		(at 181.61 31.75 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14171,7 +11494,7 @@
 		(fields_autoplaced yes)
 		(uuid "e2bdbb59-e4cc-423b-a2d4-c9d003f695bf")
 		(property "Reference" "Q1"
-			(at 181.61 24.13 90)
+			(at 181.61 22.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14179,7 +11502,7 @@
 			)
 		)
 		(property "Value" "MMBT3904"
-			(at 181.61 26.67 90)
+			(at 181.61 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14187,7 +11510,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 179.705 27.94 0)
+			(at 179.705 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14198,7 +11521,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/pzt3904-d.pdf"
-			(at 181.61 33.02 0)
+			(at 181.61 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14208,7 +11531,7 @@
 			)
 		)
 		(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"
-			(at 181.61 33.02 0)
+			(at 181.61 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14743,77 +12066,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 217.17 68.58 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f049175f-2732-4186-8c5a-ec925119dea5")
-		(property "Reference" "R16"
-			(at 219.71 67.3099 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "200"
-			(at 219.71 69.8499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
-			(at 217.17 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 217.17 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 217.17 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "53e0050d-004d-454c-b5aa-1f0cbdf98a38")
-		)
-		(pin "1"
-			(uuid "352e2872-fad9-40bd-9388-590e30afb900")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "R16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 186.69 19.05 0)
+		(at 196.85 29.21 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14822,7 +12075,7 @@
 		(fields_autoplaced yes)
 		(uuid "f2c5473a-b304-4f4d-b512-cea8dd671c8d")
 		(property "Reference" "R1"
-			(at 189.23 17.7799 0)
+			(at 198.1201 31.75 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -14831,7 +12084,7 @@
 			)
 		)
 		(property "Value" "200"
-			(at 189.23 20.3199 0)
+			(at 195.5801 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14840,7 +12093,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:CRCW1210200RJNEAIF"
-			(at 186.69 19.05 0)
+			(at 196.85 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14849,7 +12102,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 186.69 19.05 0)
+			(at 196.85 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14858,7 +12111,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 186.69 19.05 0)
+			(at 196.85 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14876,85 +12129,6 @@
 			(project ""
 				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
 					(reference "R1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 196.85 58.42 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f7f5234d-a85f-43c7-88ff-cbc78d59367f")
-		(property "Reference" "D10"
-			(at 200.66 58.7374 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "LED"
-			(at 200.66 61.2774 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:LEDC1608X115N"
-			(at 196.85 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 196.85 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 196.85 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 196.85 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "45f14b65-8672-402b-8df7-c51872bb7a21")
-		)
-		(pin "2"
-			(uuid "d048f448-6a91-4118-9b68-89a2a01ad5f5")
-		)
-		(instances
-			(project "redstone"
-				(path "/bc70a981-f687-4b66-9b14-62168cfa8164"
-					(reference "D10")
 					(unit 1)
 				)
 			)
