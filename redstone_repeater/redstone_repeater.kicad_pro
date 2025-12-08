@@ -58,7 +58,12 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "starved_thermal|175500000|44000000|a849258c-728b-46eb-8ab7-1469ee6c231c|39bc1d02-553c-4763-9934-b3ab7f641f32|B.Cu",
+          "add thick trace for thermal relief"
+        ]
+      ],
       "meta": {
         "version": 2
       },

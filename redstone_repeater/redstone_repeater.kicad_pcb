@@ -72,7 +72,7 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
 			(outputdirectory "")
 		)
@@ -16985,6 +16985,14 @@
 		(uuid "aff5101e-b2b3-4e6c-bde6-bd555df36551")
 	)
 	(segment
+		(start 171.61 44)
+		(end 170.5 44)
+		(width 0.4)
+		(layer "B.Cu")
+		(net 2)
+		(uuid "b73a70ca-9c2e-483c-aca4-47377c97a9c6")
+	)
+	(segment
 		(start 177.447 44.8)
 		(end 177.2 44.8)
 		(width 0.2)
@@ -17015,6 +17023,14 @@
 		(layer "B.Cu")
 		(net 2)
 		(uuid "ec1e9f1a-d6b4-48fe-a50c-ed40115caf27")
+	)
+	(segment
+		(start 172.2 44.59)
+		(end 171.61 44)
+		(width 0.4)
+		(layer "B.Cu")
+		(net 2)
+		(uuid "f9a088b9-3d5b-4881-9383-5005375b0ed3")
 	)
 	(segment
 		(start 177.3 48.5)
